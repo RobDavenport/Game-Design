@@ -3,3 +3,8 @@ It's important for competitive integrity for player-versus-player encounters to 
 Readability
 
 #todo 
+
+# Balance
+
+## Vertical Progression
+If [[Vertical Progression]] is present, much care must be taken to ensure a fair environment for both low and high level players.

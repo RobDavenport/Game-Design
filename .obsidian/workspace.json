@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Class Systems/Horizontal Progression.md",
+                "file": "PvP Design Issues.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "c5cd69c700ab4902",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Class Systems/Horizontal Progression.md",
+                "file": "PvP Design Issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Class Systems/Horizontal Progression.md",
+                "file": "PvP Design Issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Class Systems/Horizontal Progression.md"
+                "file": "PvP Design Issues.md"
               }
             }
           }
@@ -148,16 +156,16 @@
   },
   "active": "243e112745101dc7",
   "lastOpenFiles": [
+    "PvP Design Issues.md",
+    "README.md",
+    "Character Class Systems/Horizontal Progression.md",
     "Character Class Systems/Character Roles.md",
     "Character Class Systems/Class Selection.md",
     "Character Class Systems/Skill Trees.md",
     "Character Class Systems/Vertical Progression.md",
-    "Character Class Systems/Horizontal Progression.md",
     "Attachments",
     "Character Class Systems/Horizontal Progression/Loadout Based.md",
     "Character Class Systems/Horizontal Progression",
-    "README.md",
-    "PvP Design Issues.md",
     "How to Design.md",
     "Class Swapping.md",
     "Downtime Class Swapping.md",
