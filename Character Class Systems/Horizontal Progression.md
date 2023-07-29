@@ -9,7 +9,7 @@ Select character specializations around specific a gameplay idea which give acce
 ## Loadout Based (Item, Equipment)
 Items, equipment, or some other selectable give access to new or exclusive abilities or actions. This can be singular abilities, or ability bundles. 
 ## Point Based Unlocks
-Use points gained through gameplay to unlock access to new abilities. Often based on a skill tree or other menu, which may or may not contain mutually exclusive choices.
+Use points gained through gameplay to unlock access to new abilities. Often based on a [[skill tree]] or other menu, which may or may not contain mutually exclusive choices.
 
 # Things to Consider
 #todo
