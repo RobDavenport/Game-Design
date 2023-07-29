@@ -171,14 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0c72d8082ed19ae",
+  "active": "93c7a9222f4c3994",
   "lastOpenFiles": [
     "How to Design.md",
     "PvP Design Issues.md",
     "Character Class Systems/Character Roles.md",
-    "Character Class Systems/Vertical Progression.md",
-    "Character Class Systems/Horizontal Progression.md",
     "Character Class Systems/Class Selection.md",
+    "Character Class Systems/Horizontal Progression.md",
+    "Character Class Systems/Vertical Progression.md",
+    "README.md",
     "Class Swapping.md",
     "Downtime Class Swapping.md",
     "Character Class Systems",
