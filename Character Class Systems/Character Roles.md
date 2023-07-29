@@ -6,7 +6,7 @@ Controllers are primarily responsible for **Enemy to Ally** interactions. Their 
 Tanks are one of the most common types of controllers. They accomplish their role by prioritizing gaining the attention of enemies. They take the brunt of the enemy's attacks, which when paired strong defensive stats, reduce the enemy's overall effectiveness. By holding the focus of enemies, Tanks can heavily reduce the incoming damage for the entire party.
 ### Crowd Controller
 
-### Debuffer
+### Disabler
 
 ## Supports
 Supports are primarily responsible for **Ally to Ally** interactions.  Their main job is to provide force multiplication for their allies.
