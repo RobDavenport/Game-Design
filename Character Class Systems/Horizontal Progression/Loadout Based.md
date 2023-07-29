@@ -1,0 +1,1 @@
+Items, equipment, or some other selectable give access to new or exclusive abilities or actions. This can be singular abilities, or ability bundles. 

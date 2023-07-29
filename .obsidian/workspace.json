@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Class Systems/Horizontal Progression.md",
+                "file": "Character Class Systems/Horizontal Progression/Loadout Based.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Class Systems/Horizontal Progression.md",
+                "file": "Character Class Systems/Horizontal Progression/Loadout Based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Class Systems/Horizontal Progression.md",
+                "file": "Character Class Systems/Horizontal Progression/Loadout Based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Class Systems/Horizontal Progression.md"
+                "file": "Character Class Systems/Horizontal Progression/Loadout Based.md"
               }
             }
           }
@@ -146,8 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ba594041239e850",
+  "active": "d679eeac5aa5f5cc",
   "lastOpenFiles": [
+    "Character Class Systems/Horizontal Progression.md",
+    "Character Class Systems/Horizontal Progression/Loadout Based.md",
+    "Character Class Systems/Horizontal Progression",
     "README.md",
     "PvP Design Issues.md",
     "How to Design.md",
@@ -155,7 +159,6 @@
     "Character Class Systems/Skill Tree.md",
     "Character Class Systems/Character Roles.md",
     "Character Class Systems/Class Selection.md",
-    "Character Class Systems/Horizontal Progression.md",
     "Class Swapping.md",
     "Downtime Class Swapping.md",
     "Character Class Systems",
