@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4ea4a264b54deda",
+        "id": "48b3688134ad0f8f",
         "type": "tabs",
         "children": [
           {
-            "id": "e9c5b84dde4f2c9c",
+            "id": "9ba594041239e850",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,14 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "96489adb2c01d12f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -154,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0c72d8082ed19ae",
+  "active": "9ba594041239e850",
   "lastOpenFiles": [
-    "Character Class Systems/Vertical Progression.md",
-    "Character Class Systems/Horizontal Progression.md",
     "Character Class Systems/Class Selection.md",
+    "Character Class Systems/Horizontal Progression.md",
     "Character Class Systems/Character Roles.md",
+    "Class Swapping.md",
+    "Downtime Class Swapping.md",
+    "Character Class Systems/Vertical Progression.md",
     "Character Class Systems",
     "Untitled.canvas"
   ]
