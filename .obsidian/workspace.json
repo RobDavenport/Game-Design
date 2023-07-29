@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0c72d8082ed19ae",
+  "active": "9ba594041239e850",
   "lastOpenFiles": [
-    "Attachments",
     "Character Class Systems/Horizontal Progression.md",
     "Character Class Systems/Vertical Progression.md",
+    "Attachments",
     "Character Class Systems/Class Selection.md",
     "Character Class Systems/Horizontal Progression/Loadout Based.md",
     "Character Class Systems/Horizontal Progression",
