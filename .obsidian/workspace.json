@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Class Systems/PvP Design Issues.md",
+                "file": "PvP Design Issues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93c7a9222f4c3994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PvP Design Issues.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Class Systems/PvP Design Issues.md",
+                "file": "PvP Design Issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Class Systems/PvP Design Issues.md",
+                "file": "PvP Design Issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Class Systems/PvP Design Issues.md"
+                "file": "PvP Design Issues.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a378b158a15da280",
+  "active": "f0c72d8082ed19ae",
   "lastOpenFiles": [
+    "How to Design.md",
+    "PvP Design Issues.md",
     "Character Class Systems/Character Roles.md",
-    "Character Class Systems/PvP Design Issues.md",
     "Character Class Systems/Vertical Progression.md",
     "Character Class Systems/Horizontal Progression.md",
     "Character Class Systems/Class Selection.md",
