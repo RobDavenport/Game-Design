@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Class Systems/Vertical Progression.md",
+                "file": "Character Class Systems/Horizontal Progression.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Class Systems/Vertical Progression.md",
+                "file": "Character Class Systems/Horizontal Progression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Class Systems/Vertical Progression.md",
+                "file": "Character Class Systems/Horizontal Progression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Class Systems/Vertical Progression.md"
+                "file": "Character Class Systems/Horizontal Progression.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "9ba594041239e850",
   "lastOpenFiles": [
-    "Character Class Systems/Horizontal Progression.md",
-    "Character Class Systems/Class Selection.md",
-    "Character Class Systems/Character Roles.md",
-    "PvP Design Issues.md",
-    "Character Class Systems/Skill Tree.md",
-    "Character Class Systems/Vertical Progression.md",
-    "How to Design.md",
     "README.md",
+    "PvP Design Issues.md",
+    "How to Design.md",
+    "Character Class Systems/Vertical Progression.md",
+    "Character Class Systems/Skill Tree.md",
+    "Character Class Systems/Character Roles.md",
+    "Character Class Systems/Class Selection.md",
+    "Character Class Systems/Horizontal Progression.md",
     "Class Swapping.md",
     "Downtime Class Swapping.md",
     "Character Class Systems",
