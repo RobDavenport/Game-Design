@@ -7,8 +7,8 @@ Controllers are primarily responsible for **Enemy to Ally** interactions. Their 
 ### Tank
 Tanks are one of the most common types of controllers. They accomplish their role by prioritizing gaining the attention of enemies. They take the brunt of the enemy's attacks, which when paired strong defensive stats, reduce the enemy's overall effectiveness. By holding the focus of enemies, Tanks can heavily reduce the incoming damage for the entire party.
 
-### Crowd Controller
-#todo
+### Disabler
+Disablers are classes which focus on preventing certain actions of enemies. This is often through strong, crowd control style debuffs, such as snares, slows, disarms, and silences. 
 
 ### Defensive Debuffer
 #todo
