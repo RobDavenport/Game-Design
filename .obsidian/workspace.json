@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Character Class Systems/PvP Design Issues.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Character Class Systems/PvP Design Issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Character Class Systems/PvP Design Issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Character Class Systems/PvP Design Issues.md"
               }
             }
           }
@@ -159,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0c72d8082ed19ae",
+  "active": "a378b158a15da280",
   "lastOpenFiles": [
     "Character Class Systems/Character Roles.md",
-    "Untitled.md",
+    "Character Class Systems/PvP Design Issues.md",
     "Character Class Systems/Vertical Progression.md",
     "Character Class Systems/Horizontal Progression.md",
     "Character Class Systems/Class Selection.md",
