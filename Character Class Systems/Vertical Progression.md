@@ -15,3 +15,4 @@ The player can selectively increase certain stats of the character. This can com
 # Things to Consider
 ## Power Curve
 #todo How things scale over time
+## 
