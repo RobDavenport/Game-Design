@@ -8,7 +8,7 @@ Controllers are primarily responsible for **Enemy to Ally** interactions. Their 
 Tanks are one of the most common types of controllers. They accomplish their role by prioritizing gaining the attention of enemies. They take the brunt of the enemy's attacks, which when paired strong defensive stats, reduce the enemy's overall effectiveness. By holding the focus of enemies, Tanks can heavily reduce the incoming damage for the entire party.
 
 ### Disabler
-Disablers are classes which focus on preventing certain actions of enemies. This is often through strong, crowd control style status effects, such as snares, slows, disarms, and silences. 
+Disablers are classes which focus on preventing certain actions of enemies. This is often through strong, crowd control style status effects, such as snares, slows, disarms, and silences. These powerful status effects can often severely reduce the impact of enemies over the course of an encounter, and in some cases remove them for the entirety of it.
 
 ### Defensive Debuffer
 #todo

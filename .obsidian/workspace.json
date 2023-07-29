@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Class Systems/Character Roles.md",
+                "file": "Character Class Systems/Horizontal Progression.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Class Systems/Character Roles.md",
+                "file": "Character Class Systems/Horizontal Progression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Class Systems/Character Roles.md",
+                "file": "Character Class Systems/Horizontal Progression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Class Systems/Character Roles.md"
+                "file": "Character Class Systems/Horizontal Progression.md"
               }
             }
           }
@@ -156,13 +156,13 @@
   },
   "active": "243e112745101dc7",
   "lastOpenFiles": [
+    "Character Class Systems/Class Selection.md",
+    "Character Class Systems/Character Roles.md",
+    "Character Class Systems/Vertical Progression.md",
     "PvP Design Issues.md",
     "README.md",
     "Character Class Systems/Horizontal Progression.md",
-    "Character Class Systems/Character Roles.md",
-    "Character Class Systems/Class Selection.md",
     "Character Class Systems/Skill Trees.md",
-    "Character Class Systems/Vertical Progression.md",
     "Attachments",
     "Character Class Systems/Horizontal Progression/Loadout Based.md",
     "Character Class Systems/Horizontal Progression",
