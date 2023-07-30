@@ -3,7 +3,7 @@ This differs primarily from [[Vertical Progression]] in that the character isn't
 
 # Progression Systems
 ## None
-Classes, skills, or abilities, cannot be customized by the player.
+Classes, skills, or abilities, cannot be customized by the player. Each class of the same class would likely be identical.
 
 ## Specialization / Modes
 Select character specializations around specific a gameplay idea which give access to new or exclusive abilities. This is often tied to initial character selection, and only one may be selected/active at a time. Different specializations often allow characters to perform different [[Character Roles]].

@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "9c79e8be8a0a0956",
+            "id": "c5cd69c700ab4902",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "c5cd69c700ab4902",
+            "id": "2fb71a9fd57a51a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progression Systems/Vertical Progression.md",
+                "file": "Progression Systems/Horizontal Progression.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progression Systems/Vertical Progression.md",
+                "file": "Progression Systems/Horizontal Progression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progression Systems/Vertical Progression.md",
+                "file": "Progression Systems/Horizontal Progression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progression Systems/Vertical Progression.md"
+                "file": "Progression Systems/Horizontal Progression.md"
               }
             }
           }
@@ -171,12 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5cd69c700ab4902",
+  "active": "2fb71a9fd57a51a8",
   "lastOpenFiles": [
+    "Progression Systems/Vertical Progression.md",
     "Progression Systems/Horizontal Progression.md",
     "Character Classes/Class Selection.md",
     "Character Classes/Character Roles.md",
-    "Progression Systems/Vertical Progression.md",
     "Skill Trees.md",
     "README.md",
     "How to Design.md",
