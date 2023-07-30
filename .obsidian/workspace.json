@@ -8,27 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "243e112745101dc7",
+            "id": "0bec224dd0c86a52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important Considerations/Readability.md",
+                "file": "Progression Systems/Horizontal Progression.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0bec224dd0c86a52",
+            "id": "0beab9467df696bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Important Considerations/Depth vs Complexity.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important Considerations/Depth vs Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Important Considerations/Depth vs Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Important Considerations/Depth vs Complexity.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,19 +151,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bec224dd0c86a52",
+  "active": "0beab9467df696bc",
   "lastOpenFiles": [
     "Progression Systems/Horizontal Progression.md",
-    "Progression Systems/Skill Trees.md",
+    "Important Considerations/Readability.md",
+    "Progression Systems/Equipment Progression.md",
     "Progression Systems/Vertical Progression.md",
+    "Important Considerations/Depth vs Complexity.md",
+    "Progression Systems/Skill Trees.md",
     "Character Classes/Class Selection.md",
     "Character Classes/Character Roles.md",
     "How to Design.md",
-    "Important Considerations/Readability.md",
     "Important Considerations/Randomness.md",
     "Important Considerations/Power Curve.md",
     "Important Considerations/Finality of Choices.md",
-    "Important Considerations/Depth vs Complexity.md",
     "Important Considerations/Content Relevance.md",
     "PvP Design Issues.md",
     "Progression Systems/Important Considerations.md",

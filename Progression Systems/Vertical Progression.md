@@ -12,7 +12,7 @@ Set progression which is the same for all of the same class. The player is not a
 Characters can advance to a new, previously unavailable character class. Often requires achieving some pre-requisite such as level. Advancement classes may be permanent, and players may be offered singular or multiple choices based on their [[Class Selection]].
 
 ## Item / Equipment Based
-Items equipped to the character increase the power level. Often this is things such as armor or weapons found by playing the game via clearing content, defeating enemies, or crafting. The items themselves can often be improved as well, such as via sockets for stat boosts, enchantments, or upgrades.
+Items equipped to the character increase the power level. Often this is things such as armor or weapons found by playing the game via clearing content, defeating enemies, or crafting. The items themselves can often be improved as well, such as via sockets for stat boosts, enchantments, or upgrades. Also see [[Equipment Progression]].
 
 ## Usage Based
 Players can increase their power by simply using the ability or skill. This could have some connection to items or abilities which are given to the player by other means.
