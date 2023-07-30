@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progression Systems/Horizontal Progression.md",
+                "file": "Important Considerations/Depth vs Complexity.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progression Systems/Horizontal Progression.md",
+                "file": "Important Considerations/Depth vs Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progression Systems/Horizontal Progression.md",
+                "file": "Important Considerations/Depth vs Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progression Systems/Horizontal Progression.md"
+                "file": "Important Considerations/Depth vs Complexity.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "0bec224dd0c86a52",
   "lastOpenFiles": [
+    "Progression Systems/Horizontal Progression.md",
     "Progression Systems/Skill Trees.md",
     "Progression Systems/Vertical Progression.md",
     "Character Classes/Class Selection.md",
-    "Progression Systems/Horizontal Progression.md",
     "Character Classes/Character Roles.md",
     "How to Design.md",
     "Important Considerations/Readability.md",
