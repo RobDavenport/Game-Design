@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Classes/Character Roles.md",
+                "file": "Progression Systems/Horizontal Progression.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Classes/Character Roles.md",
+                "file": "Progression Systems/Horizontal Progression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Classes/Character Roles.md",
+                "file": "Progression Systems/Horizontal Progression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Classes/Character Roles.md"
+                "file": "Progression Systems/Horizontal Progression.md"
               }
             }
           }
@@ -161,18 +161,18 @@
   },
   "active": "0bec224dd0c86a52",
   "lastOpenFiles": [
-    "Important Considerations/Randomness.md",
-    "Important Considerations/Depth vs Complexity.md",
-    "Progression Systems/Horizontal Progression.md",
+    "Progression Systems/Vertical Progression.md",
     "Progression Systems/Skill Trees.md",
+    "Progression Systems/Horizontal Progression.md",
     "Important Considerations/Readability.md",
+    "Important Considerations/Randomness.md",
     "Important Considerations/Power Curve.md",
     "Important Considerations/Finality of Choices.md",
+    "Important Considerations/Depth vs Complexity.md",
     "Important Considerations/Content Relevance.md",
-    "PvP Design Issues.md",
-    "Progression Systems/Vertical Progression.md",
-    "Character Classes/Character Roles.md",
     "Character Classes/Class Selection.md",
+    "Character Classes/Character Roles.md",
+    "PvP Design Issues.md",
     "Progression Systems/Important Considerations.md",
     "Important Considerations",
     "How to Design.md",
