@@ -11,5 +11,4 @@ Classes are picked at character creation or beginning of the game, and cannot be
 Can change at specific times only. Flexibility of this system depends on the game, such as only in safe, non-combat areas.
 
 # Things to Consider
-#todo
-## Finality of Choices
+- [[Finality of Choices]]

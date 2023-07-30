@@ -21,5 +21,4 @@ Items, equipment, or some other selectable give access to new or exclusive abili
 Use points gained through gameplay to unlock access to new abilities. Often based on a [[Skill Trees]] or other menu, which may or may not contain mutually exclusive choices.
 
 # Things to Consider
-- [[Important Considerations#Finality of Choices]]
-- 
+- [[Finality of Choices]]

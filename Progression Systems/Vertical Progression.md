@@ -18,11 +18,6 @@ Items equipped to the character increase the power level. Often this is things s
 The player can selectively increase certain stats of the character. This can come from specific points in attributes, or via some kind of [[Skill Trees]] which provides power-increasing effects via passive or new active effects and abilities. These can be presented in a variety of ways, with some being mutually exclusive choices, or having a limited capacity.
 
 # Things to Consider
-## Power Curve
-#todo How things scale over time
-
-## Finality of Choices
-#todo
-
-## Content Relevance
-#todo
+- [[Power Curve]]
+- [[Content Relevance]]
+- [[Finality of Choices]]

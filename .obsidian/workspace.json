@@ -13,38 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progression Systems/Horizontal Progression.md",
+                "file": "Character Classes/Character Roles.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c5cd69c700ab4902",
+            "id": "4623fc7d27ba20a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progression Systems/Vertical Progression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fb71a9fd57a51a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Progression Systems/Horizontal Progression.md",
+                "file": "Progression Systems/Skill Trees.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progression Systems/Horizontal Progression.md",
+                "file": "Character Classes/Character Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progression Systems/Horizontal Progression.md",
+                "file": "Character Classes/Character Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progression Systems/Horizontal Progression.md"
+                "file": "Character Classes/Character Roles.md"
               }
             }
           }
@@ -171,15 +158,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fb71a9fd57a51a8",
+  "active": "243e112745101dc7",
   "lastOpenFiles": [
-    "Progression Systems/Important Considerations.md",
-    "Progression Systems/Horizontal Progression.md",
+    "PvP Design Issues.md",
+    "Progression Systems/Skill Trees.md",
     "Character Classes/Character Roles.md",
     "Character Classes/Class Selection.md",
     "Progression Systems/Vertical Progression.md",
-    "Progression Systems/Skill Trees.md",
-    "PvP Design Issues.md",
+    "Progression Systems/Horizontal Progression.md",
+    "Important Considerations/Power Curve.md",
+    "Important Considerations/Finality of Choices.md",
+    "Important Considerations/Content Relevance.md",
+    "Progression Systems/Important Considerations.md",
+    "Important Considerations",
     "How to Design.md",
     "README.md",
     "Progression Systems",
