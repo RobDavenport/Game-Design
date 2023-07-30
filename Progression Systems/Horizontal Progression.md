@@ -6,7 +6,7 @@ This differs primarily from [[Vertical Progression]] in that the character isn't
 Classes, skills, or abilities, cannot be customized by the player. Each class of the same class would likely be identical.
 
 ## Specialization / Builds
-Select character specializations around specific a gameplay idea which give access to new or exclusive abilities. This is often tied to initial character selection, and only one may be selected/active at a time. Different specializations often allow characters to perform different [[Character Roles]].
+Select character specializations around specific a gameplay idea which give access to new or exclusive abilities. This is often tied to initial character selection, and only one may be selected/active at a time. Different specializations often allow characters to perform different [[Character Roles]]. In some cases, different builds could be considered entirely different [[Class Selection]] classes.
 
 ## Loadout Based
 Items, equipment, or some other selectable give access to new or exclusive abilities or actions. This can be singular abilities, or ability bundles. These modifiers may be gained from various means, and could be tied to classes, characters, or accounts.

@@ -14,6 +14,9 @@ Characters can advance to a new, previously unavailable character class. Often r
 ## Item / Equipment Based
 Items equipped to the character increase the power level. Often this is things such as armor or weapons found by playing the game via clearing content, defeating enemies, or crafting. The items themselves can often be improved as well, such as via sockets for stat boosts, enchantments, or upgrades.
 
+## Usage Based
+Players can increase their power by simply using the ability or skill. This could have some connection to items or abilities which are given to the player by other means.
+
 ## Player Influenced Points
 The player can selectively increase certain stats of the character. This can come from specific points in attributes, or via some kind of [[Skill Trees]] which provides power-increasing effects via passive or new active effects and abilities. These can be presented in a variety of ways, with some being mutually exclusive choices, or having a limited capacity.
 

@@ -8,7 +8,7 @@ Classes are not picked by the player, but are instead defined by other means. Of
 Classes are picked at character creation or beginning of the game, and cannot be changed at a later date. 
 
 ## Class Swapping
-Can change at specific times only. Flexibility of this system depends on the game, such as only in safe, non-combat areas.
+Can change at specific times only. Flexibility of this system depends on the game, such as only in safe, non-combat areas. This can also be considered a form of [[Horizontal Progression]] depending on the game.
 
 # Things to Consider
 - [[Finality of Choices]]
