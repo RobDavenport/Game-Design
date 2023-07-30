@@ -24,3 +24,4 @@ Use points gained through gameplay to unlock access to new abilities. Often base
 - [[Finality of Choices]]
 - [[Readability]]
 - [[Depth vs Complexity]]
+- [[Content Relevance]]
