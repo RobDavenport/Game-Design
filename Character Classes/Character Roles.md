@@ -1,5 +1,4 @@
-In multiplayer games, its common to have set responsibilities for each player.  These can be divided up based interactions between enemies and allies. Note that primary enemy to enemy interactions does not exist. Of course, some classes will have aspects of multiple roles available to them.
-
+In multiplayer games, its common to have set responsibilities for each player.  These can be divided up based interactions between enemies and allies. Note that primary enemy to enemy interactions does not exist. Of course, some classes will have aspects of multiple roles available to them. In others, roles may be flexible and even be swappable during gameplay, such as via [[Horizontal Progression#Progression Systems#Specialization / Builds]].
 # Roles
 ## Controller
 Controllers are primarily responsible for **Enemy to Ally** interactions. Their main job is to reduce randomness and add stability to the encounter.

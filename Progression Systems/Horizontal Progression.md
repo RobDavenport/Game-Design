@@ -5,7 +5,7 @@ This differs primarily from [[Vertical Progression]] in that the character isn't
 ## None
 Classes, skills, or abilities, cannot be customized by the player. Each class of the same class would likely be identical.
 
-## Specialization / Modes
+## Specialization / Builds
 Select character specializations around specific a gameplay idea which give access to new or exclusive abilities. This is often tied to initial character selection, and only one may be selected/active at a time. Different specializations often allow characters to perform different [[Character Roles]].
 
 ## Loadout Based
@@ -21,6 +21,5 @@ Items, equipment, or some other selectable give access to new or exclusive abili
 Use points gained through gameplay to unlock access to new abilities. Often based on a [[Skill Trees]] or other menu, which may or may not contain mutually exclusive choices.
 
 # Things to Consider
-#todo
-## Finality of Choices
-#todo
+- [[Important Considerations#Finality of Choices]]
+- 

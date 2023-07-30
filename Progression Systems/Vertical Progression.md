@@ -23,3 +23,6 @@ The player can selectively increase certain stats of the character. This can com
 
 ## Finality of Choices
 #todo
+
+## Content Relevance
+#todo
