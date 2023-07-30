@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Class Systems/Horizontal Progression.md",
+                "file": "Progression Systems/Horizontal Progression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c79e8be8a0a0956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Progression Systems/Vertical Progression.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,11 +35,16 @@
             "id": "c5cd69c700ab4902",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Progression Systems/Vertical Progression.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Class Systems/Horizontal Progression.md",
+                "file": "Progression Systems/Vertical Progression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Class Systems/Horizontal Progression.md",
+                "file": "Progression Systems/Vertical Progression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Class Systems/Horizontal Progression.md"
+                "file": "Progression Systems/Vertical Progression.md"
               }
             }
           }
@@ -154,22 +171,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "243e112745101dc7",
+  "active": "c5cd69c700ab4902",
   "lastOpenFiles": [
-    "Character Class Systems/Class Selection.md",
-    "Character Class Systems/Character Roles.md",
-    "Character Class Systems/Vertical Progression.md",
-    "PvP Design Issues.md",
+    "Progression Systems/Horizontal Progression.md",
+    "Character Classes/Class Selection.md",
+    "Character Classes/Character Roles.md",
+    "Progression Systems/Vertical Progression.md",
+    "Skill Trees.md",
     "README.md",
-    "Character Class Systems/Horizontal Progression.md",
-    "Character Class Systems/Skill Trees.md",
+    "How to Design.md",
+    "PvP Design Issues.md",
+    "Progression Systems",
     "Attachments",
     "Character Class Systems/Horizontal Progression/Loadout Based.md",
     "Character Class Systems/Horizontal Progression",
-    "How to Design.md",
     "Class Swapping.md",
     "Downtime Class Swapping.md",
-    "Character Class Systems",
+    "Character Classes",
     "Untitled.canvas"
   ]
 }
