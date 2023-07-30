@@ -13,3 +13,4 @@ Can change at specific times only. Flexibility of this system depends on the gam
 # Things to Consider
 - [[Finality of Choices]]
 - [[Depth vs Complexity]]
+- [[Content Relevance]]
