@@ -30,5 +30,5 @@ Damage Dealers are primarily responsible for **Ally to Enemy** interactions. The
 ### Direct Damage
 #todo
 
-### Offensive Debuffs
+### Offensive Buffs & Debuffs
 #todo
