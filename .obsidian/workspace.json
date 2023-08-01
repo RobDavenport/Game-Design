@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Classes/Character Roles.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Classes/Character Roles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Classes/Character Roles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Character Classes/Character Roles.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -154,26 +151,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bec224dd0c86a52",
+  "active": "0beab9467df696bc",
   "lastOpenFiles": [
-    "Character Classes/Class Selection.md",
-    "Character Classes/Character Roles.md",
-    "Progression Systems/Vertical Progression.md",
-    "Progression Systems/Horizontal Progression.md",
+    "README.md",
+    "How to Design.md",
     "Progression Systems/Skill Trees.md",
+    "Progression Systems/Horizontal Progression.md",
+    "Progression Systems/Vertical Progression.md",
     "Progression Systems/Equipment Progression.md",
     "Important Considerations/Readability.md",
     "Important Considerations/Randomness.md",
     "Important Considerations/Power Curve.md",
     "Important Considerations/Finality of Choices.md",
-    "Important Considerations/Depth vs Complexity.md",
     "Important Considerations/Content Relevance.md",
+    "Important Considerations/Depth vs Complexity.md",
+    "Character Classes/Character Roles.md",
+    "Character Classes/Class Selection.md",
     "LICENSE",
-    "How to Design.md",
     "PvP Design Issues.md",
     "Progression Systems/Important Considerations.md",
     "Important Considerations",
-    "README.md",
     "Progression Systems",
     "Attachments",
     "Character Class Systems/Horizontal Progression/Loadout Based.md",
