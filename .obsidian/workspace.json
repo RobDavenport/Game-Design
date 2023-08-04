@@ -20,11 +20,25 @@
             }
           },
           {
+            "id": "55aa26ba4b1cdb02",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          },
+          {
             "id": "0beab9467df696bc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Character Classes/Character Roles.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -151,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0beab9467df696bc",
+  "active": "55aa26ba4b1cdb02",
   "lastOpenFiles": [
+    "Character Classes/Character Roles.md",
     "README.md",
     "How to Design.md",
     "Progression Systems/Skill Trees.md",
@@ -165,7 +184,6 @@
     "Important Considerations/Finality of Choices.md",
     "Important Considerations/Content Relevance.md",
     "Important Considerations/Depth vs Complexity.md",
-    "Character Classes/Character Roles.md",
     "Character Classes/Class Selection.md",
     "LICENSE",
     "PvP Design Issues.md",
