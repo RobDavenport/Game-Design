@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b9d112b1f1db38a0",
+        "id": "304b8e4edbc5d690",
         "type": "tabs",
         "children": [
           {
-            "id": "010e83fea342da6c",
+            "id": "0bec224dd0c86a52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bad Luck Prevention.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bad Luck Prevention.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bad Luck Prevention.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bad Luck Prevention.md"
+                "file": "README.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,25 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0c72d8082ed19ae",
+  "active": "0bec224dd0c86a52",
   "lastOpenFiles": [
     "Randomized Rewards.md",
-    "Important Considerations/Readability.md",
-    "Bad Luck Prevention.md",
-    "Important Considerations/Randomness.md",
-    "Favorite Mechanics/Drafting.md",
-    "Important Considerations/Content Relevance.md",
     "Favorite Mechanics/Weighted Rock-Paper-Scissors.md",
+    "Favorite Mechanics/Drafting.md",
     "Favorite Mechanics",
-    "README.md",
+    "Bad Luck Prevention.md",
     "Character Classes/Character Roles.md",
+    "README.md",
     "How to Design.md",
     "Progression Systems/Skill Trees.md",
     "Progression Systems/Horizontal Progression.md",
     "Progression Systems/Vertical Progression.md",
     "Progression Systems/Equipment Progression.md",
+    "Important Considerations/Readability.md",
+    "Important Considerations/Randomness.md",
     "Important Considerations/Power Curve.md",
     "Important Considerations/Finality of Choices.md",
+    "Important Considerations/Content Relevance.md",
     "Important Considerations/Depth vs Complexity.md",
     "Character Classes/Class Selection.md",
     "LICENSE",
