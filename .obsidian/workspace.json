@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc13ce5608b3ed9b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
+            "id": "323fffc0a3b359f8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bec224dd0c86a52",
+  "active": "323fffc0a3b359f8",
   "lastOpenFiles": [
     "Randomized Rewards.md",
     "Favorite Mechanics/Weighted Rock-Paper-Scissors.md",
