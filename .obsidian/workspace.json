@@ -38,9 +38,19 @@
                 "currentVersion": "1.4.14"
               }
             }
+          },
+          {
+            "id": "fe00067bb6758d08",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "323fffc0a3b359f8",
+  "active": "fe00067bb6758d08",
   "lastOpenFiles": [
     "Randomized Rewards.md",
     "Favorite Mechanics/Weighted Rock-Paper-Scissors.md",
