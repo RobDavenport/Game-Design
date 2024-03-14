@@ -13,44 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Gamercade Projects/Projects.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fc13ce5608b3ed9b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "323fffc0a3b359f8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "fe00067bb6758d08",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Gamercade Projects/Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Gamercade Projects/Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Gamercade Projects/Projects.md"
               }
             }
           }
@@ -177,15 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe00067bb6758d08",
+  "active": "0bec224dd0c86a52",
   "lastOpenFiles": [
     "Randomized Rewards.md",
+    "Gamercade Projects/Projects.md",
+    "Gamercade Projects",
+    "README.md",
     "Favorite Mechanics/Weighted Rock-Paper-Scissors.md",
     "Favorite Mechanics/Drafting.md",
     "Favorite Mechanics",
     "Bad Luck Prevention.md",
     "Character Classes/Character Roles.md",
-    "README.md",
     "How to Design.md",
     "Progression Systems/Skill Trees.md",
     "Progression Systems/Horizontal Progression.md",
