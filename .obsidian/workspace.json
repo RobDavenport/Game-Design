@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gamercade Projects/Projects.md",
+                "file": "Gamercade Projects/Launch Projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gamercade Projects/Projects.md",
+                "file": "Gamercade Projects/Launch Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gamercade Projects/Projects.md",
+                "file": "Gamercade Projects/Launch Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gamercade Projects/Projects.md"
+                "file": "Gamercade Projects/Launch Projects.md"
               }
             }
           }
@@ -148,27 +148,27 @@
   },
   "active": "0bec224dd0c86a52",
   "lastOpenFiles": [
+    "Important Considerations/Finality of Choices.md",
+    "Important Considerations/Readability.md",
+    "Important Considerations/Randomness.md",
+    "Important Considerations/Power Curve.md",
+    "Important Considerations/Depth vs Complexity.md",
+    "Important Considerations/Content Relevance.md",
+    "Progression Systems/Vertical Progression.md",
+    "Progression Systems/Horizontal Progression.md",
+    "Progression Systems/Skill Trees.md",
+    "Progression Systems/Equipment Progression.md",
+    "How to Design.md",
+    "Bad Luck Prevention.md",
     "Randomized Rewards.md",
-    "Gamercade Projects/Projects.md",
+    "Gamercade Projects/Launch Projects.md",
+    "Character Classes/Character Roles.md",
+    "Character Classes/Class Selection.md",
     "Gamercade Projects",
     "README.md",
     "Favorite Mechanics/Weighted Rock-Paper-Scissors.md",
     "Favorite Mechanics/Drafting.md",
     "Favorite Mechanics",
-    "Bad Luck Prevention.md",
-    "Character Classes/Character Roles.md",
-    "How to Design.md",
-    "Progression Systems/Skill Trees.md",
-    "Progression Systems/Horizontal Progression.md",
-    "Progression Systems/Vertical Progression.md",
-    "Progression Systems/Equipment Progression.md",
-    "Important Considerations/Readability.md",
-    "Important Considerations/Randomness.md",
-    "Important Considerations/Power Curve.md",
-    "Important Considerations/Finality of Choices.md",
-    "Important Considerations/Content Relevance.md",
-    "Important Considerations/Depth vs Complexity.md",
-    "Character Classes/Class Selection.md",
     "LICENSE",
     "PvP Design Issues.md",
     "Progression Systems/Important Considerations.md",
