@@ -88,7 +88,7 @@ Moves:
 |     5A     |                |        |                                                                                                                                                 |
 |     5B     |                |        |                                                                                                                                                 |
 |     5C     |                |        |                                                                                                                                                 |
-|     5S     | Tectonic Upper |        |                                                                                                                                                 |
+|     6S     | Tectonic Upper | BC, SP |                                                                                                                                                 |
 | 1S, 2S, 3S | QuakeStone     | BC, SP | A slow moving projectile along the ground. Projectile speed and recovery are dependent on the direction. 1 is slow, 2 is medium, and 3 is fast. |
 |            |                |        |                                                                                                                                                 |
 |            |                |        |                                                                                                                                                 |
