@@ -11,8 +11,8 @@ B + S: Boost System
 C + S: Super  
   
 **Boost System**  
-Boost Cancel: Offensive/Pressure. Cancel any move and gain directional movement. Similar to Drive Rush, FADC, or Roman Cancel.  
-Boost Shift: Defensive. Escape pressure with an invulnerable burst of movement in a direction. Usable during blockstun.
+Boost Cancel: Offensive/Pressure. Cancel any move and gain directional movement. Similar to Drive Rush, FADC, or Red/Blue Roman Cancel.  
+Boost Shift: Defensive. Escape pressure with an invulnerable burst of movement in a direction. Usable during blockstun. Similar to Alpha Counter, Drive Reversal, or Yellow roman cancel.
 
 **Character Summary**
 Characters categorized based on movement options (to pair with boost system) and their ideal or effective ranges. This chart may be expanded/adjusted in the future.
@@ -27,7 +27,6 @@ Visual Design: Nimble, sleek, agile design. Sharp and pointed.
 Gameplay:
 Moves:
 
-
 **Specter: Mixup**
 Visual Design: Unconventional, enigmatic design.
 Gameplay:
@@ -39,7 +38,7 @@ Gameplay:
 Moves:
 
 **Kraken: Grappler**
-Visual Design: Large, bulky frame. Heavily armored.
+Visual Design: Large, bulky frame. Heavily armored. Extra legs.
 Gameplay:
 Moves:
 
