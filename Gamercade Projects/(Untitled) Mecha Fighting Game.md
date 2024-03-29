@@ -35,64 +35,38 @@ Visual Design: Nimble, sleek, agile design. Sharp and pointed.
 Gameplay:
 Moves:
 
-| Input | Name | Features | Notes |
-| ----- | ---- | -------- | ----- |
-| A     |      |          |       |
-| B     |      |          |       |
-| C     |      |          |       |
-| S     |      |          |       |
-
 **Specter: Mixup**
 Visual Design: Unconventional, enigmatic design.
 Gameplay:
 Moves:
 
-| Input | Name | Features | Notes |
-| ----- | ---- | -------- | ----- |
-| A     |      |          |       |
-| B     |      |          |       |
-| C     |      |          |       |
-| S     |      |          |       |
 
 **Basilisk: Normal Zoner**
 Visual Design:
 Gameplay:
 Moves:
 
-| Input | Name | Features | Notes |
-| ----- | ---- | -------- | ----- |
-| A     |      |          |       |
-| B     |      |          |       |
-| C     |      |          |       |
-| S     |      |          |       |
 
 **Kraken: Grappler**
 Visual Design: Large, bulky frame. Heavily armored. Extra legs.
 Gameplay:
 Moves:
 
-| Input | Name | Features | Notes |
-| ----- | ---- | -------- | ----- |
-| A     |      |          |       |
-| B     |      |          |       |
-| C     |      |          |       |
-| S     |      |          |       |
 
 **Guardian: Balanced**
-Visual Design: Balanced, average design.
-Gameplay: Focused on simple but effective fundamental play. 
+Visual Design: Balanced, average design. Has a large shield for a left hand, and a large fist/knuckles in the right.
+Gameplay: Focused on simple but effective fundamental play based around projectiles and anti airs.
 Moves:
 
-|   Input    | Name           | Cancel | Notes                                                                                                                                           |
-| :--------: | -------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-|     5A     |                |        |                                                                                                                                                 |
-|     5B     |                |        |                                                                                                                                                 |
-|     5C     |                |        |                                                                                                                                                 |
-|     6S     | Tectonic Upper | BC, SP |                                                                                                                                                 |
-| 1S, 2S, 3S | QuakeStone     | BC, SP | A slow moving projectile along the ground. Projectile speed and recovery are dependent on the direction. 1 is slow, 2 is medium, and 3 is fast. |
-|            |                |        |                                                                                                                                                 |
-|            |                |        |                                                                                                                                                 |
-|            |                |        |                                                                                                                                                 |
+|   Input    |      Name      | Cancel | Description                                                                                                                                                                                              | Notes |
+| :--------: | :------------: | :----: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+|     5A     |       -        | BC, SP | A short range, fast, upward shield bash.                                                                                                                                                                 |       |
+|     5B     |       -        |   -    | A medium range, far reaching kick.                                                                                                                                                                       |       |
+|     5C     |       -        | BC, SP | A far reaching, right handed heavy punch.                                                                                                                                                                |       |
+|            |                |        |                                                                                                                                                                                                          |       |
+|     4S     | Shield Stance  | BC, SP | A parry stance type of ability. Has different follow-ups based on the type of hit. Projectiles are destroyed and the character counterattacks forward. Strikes are countered by a shield bash.           |       |
+|   5S, 6S   | Tectonic Upper | BC, SP | An uppercut style attack. The 5 version is less committal than the 6 version, by being slightly faster and better recovery, but dealing less damage and traveling less vertical and horizontal distance. |       |
+| 1S, 2S, 3S |  Quake Stone   | BC, SP | A slow moving projectile along the ground. Projectile speed and recovery are dependent on the direction. 1 is slow, 2 is medium, and 3 is fast.                                                          |       |
 
 
 **Dragon: Projectile Zoner**
@@ -100,9 +74,3 @@ Visual Design:
 Gameplay:
 Moves:
 
-| Input | Name | Features | Notes |
-| ----- | ---- | -------- | ----- |
-| A     |      |          |       |
-| B     |      |          |       |
-| C     |      |          |       |
-| S     |      |          |       |
