@@ -11,12 +11,8 @@
             "id": "0bec224dd0c86a52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gamercade Projects/Launch Projects.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gamercade Projects/Launch Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gamercade Projects/Launch Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gamercade Projects/Launch Projects.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,6 +140,9 @@
   },
   "active": "0bec224dd0c86a52",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
+    "Gamercade Projects/Launch Projects.md",
     "Important Considerations/Finality of Choices.md",
     "Important Considerations/Readability.md",
     "Important Considerations/Randomness.md",
@@ -161,7 +156,6 @@
     "How to Design.md",
     "Bad Luck Prevention.md",
     "Randomized Rewards.md",
-    "Gamercade Projects/Launch Projects.md",
     "Character Classes/Character Roles.md",
     "Character Classes/Class Selection.md",
     "Gamercade Projects",
@@ -179,7 +173,6 @@
     "Character Class Systems/Horizontal Progression",
     "Class Swapping.md",
     "Downtime Class Swapping.md",
-    "Character Classes",
-    "Untitled.canvas"
+    "Character Classes"
   ]
 }
