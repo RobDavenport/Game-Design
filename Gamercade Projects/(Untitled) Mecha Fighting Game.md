@@ -25,10 +25,10 @@ ABCS represent attack buttons. Directional inputs plus these buttons may result 
 **Character Summary**
 Characters categorized based on movement options (to pair with boost system) and their ideal or effective ranges. This chart may be expanded/adjusted in the future.
 
-| Movement      | Short Range        | Med Range           | Long Range                |     |
-| ------------- | ------------------ | ------------------- | ------------------------- | --- |
-| **Fast/Many** | Phoenix (Rushdown) | Specter (Mixup)     | Basilisk (Normal Zoner)   |     |
-| **Few/Slow**  | Kraken (Grappler)  | Guardian (Balanced) | Dragon (Projectile Zoner) |     |
+| Movement      | Short Range        | Med Range           | Long Range                |
+| ------------- | ------------------ | ------------------- | ------------------------- |
+| **Fast/Many** | Phoenix (Rushdown) | Specter (Mixup)     | Basilisk (Normal Zoner)   |
+| **Few/Slow**  | Kraken (Grappler)  | Guardian (Balanced) | Dragon (Projectile Zoner) |
 
 **Phoenix: Rushdown**
 Visual Design: Nimble, sleek, agile design. Sharp and pointed.
