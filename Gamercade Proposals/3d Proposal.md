@@ -66,7 +66,7 @@ The following limitations are built with the core principals in mind: they shoul
 		- Point Light
 		- Spotlight
 	- Lights can be adjusted freely at runtime
-	- Fixed Light Rendering Models
+	- Fixed Function Rendering Models
 		- Unlit
 		- Flat Shading
 		- Blinn-Phong Shading
