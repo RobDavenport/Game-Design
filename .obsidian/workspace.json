@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "249fe684d4bcd0bd",
+        "id": "5f0ce0660ef7554f",
         "type": "tabs",
         "children": [
           {
-            "id": "1a45166172be3c3a",
+            "id": "b7ce721e925c8a1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
+                "file": "Gamercade 3d Proposal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
+                "file": "Gamercade 3d Proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
+                "file": "Gamercade 3d Proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gamercade Projects/(Untitled) Mecha Fighting Game.md"
+                "file": "Gamercade 3d Proposal.md"
               }
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a45166172be3c3a",
+  "active": "b7ce721e925c8a1c",
   "lastOpenFiles": [
-    "Gamercade Projects/Launch Projects.md",
     "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
+    "Gamercade 3d Proposal.md",
+    "Gamercade Projects/Launch Projects.md",
     "Untitled.canvas",
     "Important Considerations/Finality of Choices.md",
     "Important Considerations/Readability.md",
