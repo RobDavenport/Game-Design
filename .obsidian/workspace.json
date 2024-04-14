@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gamercade 3d Proposal.md",
+                "file": "Gamercade Proposals/3d Proposal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gamercade 3d Proposal.md",
+                "file": "Gamercade Proposals/3d Proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gamercade 3d Proposal.md",
+                "file": "Gamercade Proposals/3d Proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gamercade 3d Proposal.md"
+                "file": "Gamercade Proposals/3d Proposal.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "b7ce721e925c8a1c",
   "lastOpenFiles": [
+    "Gamercade Proposals/Post-Draw Shaders.md",
+    "Gamercade Proposals/3d Proposal.md",
+    "Gamercade Proposals",
     "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
-    "Gamercade 3d Proposal.md",
     "Gamercade Projects/Launch Projects.md",
     "Untitled.canvas",
     "Important Considerations/Finality of Choices.md",
@@ -181,7 +183,6 @@
     "Character Class Systems/Horizontal Progression/Loadout Based.md",
     "Character Class Systems/Horizontal Progression",
     "Class Swapping.md",
-    "Downtime Class Swapping.md",
     "Character Classes"
   ]
 }
