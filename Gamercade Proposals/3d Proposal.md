@@ -52,6 +52,8 @@ The following limitations are built with the core principals in mind: they shoul
 
 - General
 	- Right Handed Coordinate System
+	- CCW Winding Order
+	- Automatic Backface Culling
 - Textures
 	- 32bit RGBA
 	- 512x512 max size (~1mb)
@@ -92,20 +94,57 @@ The following limitations are built with the core principals in mind: they shoul
 	- Support for Location, Rotation, and Scale
 	- Up to 4 Bone Influences per Vertex
 #### Api Proposal
-For simplicity sake a **stateful api** is suggested
+For simplicity sake a **stateful api** is suggested for the current implementation. This is due to the WASM Module <--> Host Communication layer only supporting (i32, i64, f32, f64) datatypes, and managing pointers between these can be handled at a later date.
+
+```rust
+// Model Matrix Manipulation:
+set_model_translation(x: f32, y: f32, z: f32);
+set_model_rotation(x: f32, y: f32, z: f32, w: f32);
+set_model_scale(x: f32, y: f32, z: f32);
+
+// Camera Manipulation
+camera_translate_local(x: f32, y: f32, z: f32);
+camera_translate_global(x: f32, y: f32, z: f32);
+camera_set_location(x: f32, y: f32, z: f32);
+camera_look_at(x: f32, y: f32, z: f32);
+camera_rotate_around_x(radians: f32);
+camera_rotate_around_y(radians: f32);
+camera_rotate_around_z(radians: f32);
 
 
+
+```
 ### Potential Issues and Mitigation
 #### Size of 3d Assets vs ROM Size Limits
 The inclusion of 3d models and their accompanying data (textures, vertex colors, animation and skinning data) will heavily increase storage needs within the ROM. We should place some limits on the assets themselves, such as maximum vertex counts, triangle counts, or texture sizes.
 #### 3d Rendering and Lighting
 It's quite rare to see unlit 3d games, and this is likely the reason for such a severe complexity jump from 2d -> 3d. We should limit the number and kinds of lights that the engine supports to keep things simple and straightforward.
 ### Possible Long Term Additions
+#### Additional Stateless API
+A stateless API could also be implemented, but would require passing of pointers to values rather than the stateful approach. All the parameters needed to draw a mesh would be included as parameters to the function call, instead of relying on in-between state. Example:
 
+```rust
+// Updating the model transform matrix:
+// Stateful Approach
+set_model_translation(x: f32, y: f32, z: f32);
+set_model_rotation(x: f32, y: f32, z: f32, w: f32);
+set_model_scale(x: f32, y: f32, z: f32);
+draw_mesh(mesh_parameters: i32);
+
+// Stateless Approach
+set_model_transform(transform_ptr: i32);
+draw_mesh(mesh_parameters:i32);
+
+// Alternative Stateless:
+draw_mesh(mesh_parameters: i32, transform_ptr: i32);
+```
 #### 3d Data Access in Code
 Allow accessing the 3d data used for rendering, such as uploading meshes or textures to the GPU. This opens up the option of procedurally generated content, such as terrain, or even procedural meshes and textures to be used for rendering later.
 #### Graphics Engine Tweaking
-Allow users to adjust simple settings like texture filtering, mirroring, or repeating behavior, or animation changes like tweaking the maximum bone count per vertex to values between 1 and 4.
+Allow users to adjust simple settings like:
+- Texture filtering, mirroring, or repeating behavior
+- Animation system adjustments, tweak the max bone influences per vertex from 1-4
+- Winding order of triangles, backface culling
 #### Animation Blending
 Support blending for animations between 2 (or N) number of states.
 #### Support for Multiple Viewport or Cameras
