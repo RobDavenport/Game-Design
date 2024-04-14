@@ -54,6 +54,7 @@ The following limitations are built with the core principals in mind: they shoul
 	- Right Handed Coordinate System
 	- CCW Winding Order
 	- Automatic Backface Culling
+	- Column Major Matrices
 - Textures
 	- 32bit RGBA
 	- 512x512 max size (~1mb)
@@ -101,15 +102,16 @@ For simplicity sake a **stateful api** is suggested for the current implementati
 set_model_translation(x: f32, y: f32, z: f32);
 set_model_rotation(x: f32, y: f32, z: f32, w: f32);
 set_model_scale(x: f32, y: f32, z: f32);
+clear_model_transform();
+set_model_transform(transform_ptr: i32); // Column-Major
 
 // Camera Manipulation
 camera_translate_local(x: f32, y: f32, z: f32);
 camera_translate_global(x: f32, y: f32, z: f32);
 camera_set_location(x: f32, y: f32, z: f32);
-camera_look_at(x: f32, y: f32, z: f32);
-camera_rotate_around_x(radians: f32);
-camera_rotate_around_y(radians: f32);
-camera_rotate_around_z(radians: f32);
+camera_look_at(x: f32, y: f32, z: f32); // Additional "Look To" variant
+camera_rotate_around_local_x(radians: f32); // Also Y and Z Variants
+camera_rotate_around_global_x(radians: f32); // Also Y and Z Variants
 
 
 
