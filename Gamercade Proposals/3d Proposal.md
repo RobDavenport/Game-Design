@@ -79,14 +79,13 @@ The following limitations are built with the core principals in mind: they shoul
 		- Adjust Near & Far Planes
 		- Adjust FOV
 - Lighting 
-	- Single Flat Ambient Light Value
-	- Up to 4 of:
+	- Up to 8 of:
+		- Ambient Lights
 		- Directional Lights
 		- Point Lights
 		- Spotlights
 	- Lights can be adjusted freely at runtime
 	- Fixed Function Rendering, based on Blinn-Phong, enable via flags
-		- Toggle ambient lighting component
 		- Toggle diffuse map or base color
 		- Toggle specular map or specular material properties
 		- Toggle fragment normal via normal map, vertex parameters, or both
@@ -95,21 +94,24 @@ The following limitations are built with the core principals in mind: they shoul
 	- Keyframed Animation
 	- Support for Location, Rotation, and Scale
 	- Up to 4 Bone Influences per Vertex
-	- Up to u8::Max bones (u8)
+	- Up to 64 bones per skeleton
 #### Api Proposal
-For simplicity sake a **stateful api** is suggested for the current implementation. This is due to the WASM Module <--> Host Communication layer only supporting (i32, i64, f32, f64) datatypes, and managing pointers between these can be handled at a later date.
+For simplicity sake a **stateful api** is suggested for the current implementation. This is due to the WASM Module <--> Host Communication layer only supporting (i32, i64, f32, f64) datatypes, and managing pointers between these can be handled at a later date. The following draft is still a work-in-progress
 
 ```rust
-// Model Matrix Manipulation:
+// Model Matrix Manipulation
 set_model_translation(x: f32, y: f32, z: f32);
 set_model_rotation(x: f32, y: f32, z: f32, w: f32);
 set_model_scale(x: f32, y: f32, z: f32);
 clear_model_transform();
 set_model_transform(transform_ptr: i32); // Column-Major
 
-// Texture Settings
-set_texture
-
+// Texture Settings (Index is a 16bit number)
+set_texture_diffuse(index: i32);
+set_texture_normal(index: i32);
+set_texture_specular(index: i32);
+set_texture_emissive(index: i32);
+set_textures_multi(textures: i64); // Bitpacked values
 
 // Camera Manipulation
 camera_translate_local(x: f32, y: f32, z: f32);
@@ -119,8 +121,21 @@ camera_look_to(x: f32, y: f32, z: f32); // Additional "Look At" variant
 camera_rotate_around_local_x(radians: f32); // Also Y and Z Variants
 camera_rotate_around_global_x(radians: f32); // Also Y and Z Variants
 
+// Light Settings
+set_light_direction(slot: i32, x: f32, y: f32, z: f32); // Affects: Directional, Spot
+set_light_range(slot: i32, value: f32); // Affects: Point, Spot
+set_light_location(slot: i32, x: f32, y: f32, z: f32); // Affects: Point, Spot
+set_light_color(slot: i32, r: f32, g: f32, b: f32);
+set_light_enabled(slot: i32, value: i32); // 0: Disabled, Non-0: Enabled
 
+// Draw Calls
+// TODO
 
+// Rendering Flags
+// TODO
+
+// Animation
+// TODO
 ```
 ### Potential Issues and Mitigation
 #### Size of 3d Assets vs ROM Size Limits

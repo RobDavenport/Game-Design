@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2117bab3a34b5203",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7ce721e925c8a1c",
+  "active": "2117bab3a34b5203",
   "lastOpenFiles": [
     "Gamercade Proposals/Post Processing Shaders.md",
     "Gamercade Proposals/3d Proposal.md",
