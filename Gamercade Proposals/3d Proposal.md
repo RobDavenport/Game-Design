@@ -1,16 +1,15 @@
 ### Summary
 A suggestion for a simple 3d functionality extension for Gamercade. 
 ### Motivation
-
 At its core, Gamercade will remain a Neo-Retro Fantasy Console. We define Neo-Retro as:
 
 >  In our definition, it means something which is retro-looking, but still has many capabilities of modern times. In the case of Gamercade, this means that the games themselves are retro-like in their appearance, such as with lower resolutions and pixel graphics.
-
+ 
 Since Gamercade targets the mid 90s to early 2000s home game consoles, it would be realistic to also support a basic form of 3d. Consoles of that generation include the Sega Saturn, PlayStation, and Nintendo 64. These consoles featured specific hardware to accelerate 3d graphics compared to the software implementations of the previous generation. As Gamercade is a Neo-Retro fantasy console, it should match the capabilities of those consoles. Those consoles are severely outclassed by modern hardware, but they still created engaging and memorable experiences.
 
 Of course, the complexity jump from 2d to 3d is large, but the added dimension opens up more substantially options for modern day creatives. As Gamercade currently only natively supports 2d, developers are somewhat restricted in the kinds of experiences they can create. Adding the third dimension opens up the console to showcase the talent of 3d artists like modelers, riggers, and animators. The recent popularity of low poly artwork and stylized games show that there is still large appeal for graphically simplistic games. This is further enhanced by the faster workflow and simpler development process of these art styles. 
 
-Example References:
+**Example References:**
 [Compound VR](https://www.youtube.com/watch?v=x0N56nCqLu4) - 3d FPS VR game with pixel art textures, no lighting.
 [Sketchfab #256fes Models](https://sketchfab.com/search?q=256fes&type=models) - Models from the 256fes hashtag on twitter. 256 triangle limit with 256x256 textures
 [BlockBench](https://www.blockbench.net/) - Low Poly 3d modeling software
@@ -26,7 +25,6 @@ Similar to the 2d API via `GraphicsParameters` and `sprite` functions, simple on
 ##### Editor Improvements & Accurate Viewer
 The editor should represent exactly what the models would look like in-game. This means adjustments to the editor to support 3d rendering of models with animations, file importers, and bundler updates. Using a WYSIWYG workflow (similar to the Sound Engine) ensures an accurate, simple, and easily understandable representation of assets.
 #### Non-Goals
-
 ##### Photorealism
 Realistic shaders and high definition graphics are not necessary. They would severely increase performance requirements, increase difficulty in asset creation, and go against the Neo-Retro focus of the console. Additionally, the texture sizes needed to support this would take up much of the ROMs capacity.
 ##### Scene/Level Editor
@@ -49,27 +47,16 @@ Due to the complexity of the full rendering pipeline, we should not expose this 
 	- Console runtime
 	- gamercade_rs
 	- API Docs
-
-#### Feature Set Proposal
-##### Graphics Engine Specs & Limitations
+#### Graphics Engine Specs & Limitations
 The following limitations are built with the core principals in mind: they should be simple yet flexible, and support the Neo-Retro goal of the project. Some of these features are influenced by modern day standards (such as tangent space normal maps, and 4-bone influence animation), other constraints will keep things back within the retro feel.
 
+- General
+	- Right Handed Coordinate System
 - Textures
 	- 32bit RGBA
 	- 512x512 max size (~1mb)
 	- Nearest Filtering Only
 	- Repeating/Tiling Only
-- Lighting 
-	- Single Flat Ambient Light Value
-	- Up to 4 of:
-		- Directional Light
-		- Point Light
-		- Spotlight
-	- Lights can be adjusted freely at runtime
-	- Fixed Function Rendering Models
-		- Unlit
-		- Flat Shading
-		- Blinn-Phong Shading
 - Meshes
 	- Only indexed and triangulated geometry
 	- Supported Vertex Parameters
@@ -83,10 +70,30 @@ The following limitations are built with the core principals in mind: they shoul
 		- Normal Map (Tangent Space)
 		- Specular Map 
 		- Emissive Map
+- Camera
+	- Orthographic or Perspective Camera
+		- Adjust Near & Far Planes
+		- Adjust FOV
+- Lighting 
+	- Single Flat Ambient Light Value
+	- Up to 4 of:
+		- Directional Lights
+		- Point Lights
+		- Spotlights
+	- Lights can be adjusted freely at runtime
+	- Fixed Function Rendering, based on Blinn-Phong, enable via flags
+		- Toggle ambient lighting component
+		- Toggle diffuse map or base color
+		- Toggle specular map or specular material properties
+		- Toggle fragment normal via normal map, vertex parameters, or both
+		- Toggle emissive material
 - Skeletal Animation
 	- Keyframed Animation
 	- Support for Location, Rotation, and Scale
 	- Up to 4 Bone Influences per Vertex
+#### Api Proposal
+For simplicity sake a **stateful api** is suggested
+
 
 ### Potential Issues and Mitigation
 #### Size of 3d Assets vs ROM Size Limits
@@ -99,8 +106,10 @@ It's quite rare to see unlit 3d games, and this is likely the reason for such a 
 Allow accessing the 3d data used for rendering, such as uploading meshes or textures to the GPU. This opens up the option of procedurally generated content, such as terrain, or even procedural meshes and textures to be used for rendering later.
 #### Graphics Engine Tweaking
 Allow users to adjust simple settings like texture filtering, mirroring, or repeating behavior, or animation changes like tweaking the maximum bone count per vertex to values between 1 and 4.
-##### Animation Blending
+#### Animation Blending
 Support blending for animations between 2 (or N) number of states.
+#### Support for Multiple Viewport or Cameras
+Add functionality to render multiple scenes from different views, such as for split screen multiplayer
 #### Custom Shaders
 Expose the shaders out to developers to allow them to write their own shaders for custom effects.
 #### Performance Oriented API Additions
