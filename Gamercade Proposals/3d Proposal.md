@@ -60,6 +60,7 @@ The following limitations are built with the core principals in mind: they shoul
 	- 512x512 max size (~1mb)
 	- Nearest Filtering Only
 	- Repeating/Tiling Only
+	- Up to u16 Texture Slots (65,535)
 - Meshes
 	- Only indexed and triangulated geometry
 	- Supported Vertex Parameters
@@ -94,6 +95,7 @@ The following limitations are built with the core principals in mind: they shoul
 	- Keyframed Animation
 	- Support for Location, Rotation, and Scale
 	- Up to 4 Bone Influences per Vertex
+	- Up to u8::Max bones (u8)
 #### Api Proposal
 For simplicity sake a **stateful api** is suggested for the current implementation. This is due to the WASM Module <--> Host Communication layer only supporting (i32, i64, f32, f64) datatypes, and managing pointers between these can be handled at a later date.
 
@@ -105,11 +107,15 @@ set_model_scale(x: f32, y: f32, z: f32);
 clear_model_transform();
 set_model_transform(transform_ptr: i32); // Column-Major
 
+// Texture Settings
+set_texture
+
+
 // Camera Manipulation
 camera_translate_local(x: f32, y: f32, z: f32);
 camera_translate_global(x: f32, y: f32, z: f32);
 camera_set_location(x: f32, y: f32, z: f32);
-camera_look_at(x: f32, y: f32, z: f32); // Additional "Look To" variant
+camera_look_to(x: f32, y: f32, z: f32); // Additional "Look At" variant
 camera_rotate_around_local_x(radians: f32); // Also Y and Z Variants
 camera_rotate_around_global_x(radians: f32); // Also Y and Z Variants
 
