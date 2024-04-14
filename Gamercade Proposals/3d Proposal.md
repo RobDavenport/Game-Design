@@ -51,34 +51,37 @@ Due to the complexity of the full rendering pipeline, we should not expose this 
 	- API Docs
 
 #### Feature Set Proposal
+##### Graphics Engine Specs & Limitations
+The following limitations are built with the core principals in mind: they should be simple yet flexible, and support the Neo-Retro goal of the project. Some of these features are influenced by modern day standards (such as tangent space normal maps, and 4-bone influence animation), other constraints will keep things back within the retro feel.
 
-##### Graphics Engine Limitations
 - Textures
 	- 32bit RGBA
 	- 512x512 max size (~1mb)
-	- Nearest Filtering
-	- Repeating/Tiling
+	- Nearest Filtering Only
+	- Repeating/Tiling Only
 - Lighting 
 	- Single Flat Ambient Light Value
 	- Up to 4 of:
 		- Directional Light
 		- Point Light
 		- Spotlight
+	- Lights can be adjusted freely at runtime
 	- Fixed Light Rendering Models
 		- Unlit
 		- Flat Shading
 		- Blinn-Phong Shading
 - Meshes
+	- Only indexed and triangulated geometry
 	- Supported Vertex Parameters
 		- Position
 		- UV
 		- Color
 		- Normal
 		- Tangent
-	- - Up to 4 Textures per Mesh
-		- Diffuse Map
-		- Normal Map
-		- Specular Map
+	- Up to 4 Textures per Mesh
+		- Diffuse Map (Albedo)
+		- Normal Map (Tangent Space)
+		- Specular Map 
 		- Emissive Map
 - Skeletal Animation
 	- Keyframed Animation
@@ -95,7 +98,7 @@ It's quite rare to see unlit 3d games, and this is likely the reason for such a 
 #### 3d Data Access in Code
 Allow accessing the 3d data used for rendering, such as uploading meshes or textures to the GPU. This opens up the option of procedurally generated content, such as terrain, or even procedural meshes and textures to be used for rendering later.
 #### Graphics Engine Tweaking
-Allow users to adjust simple settings like texture filtering, transparency/alpha, blend modes, max bones per vertex for animation, etc
+Allow users to adjust simple settings like texture filtering, mirroring, or repeating behavior, or animation changes like tweaking the maximum bone count per vertex to values between 1 and 4.
 ##### Animation Blending
 Support blending for animations between 2 (or N) number of states.
 #### Custom Shaders
