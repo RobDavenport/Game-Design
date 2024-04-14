@@ -53,23 +53,37 @@ Due to the complexity of the full rendering pipeline, we should not expose this 
 #### Feature Set Proposal
 
 ##### Graphics Engine Limitations
-- Texture Limits
+- Textures
 	- 32bit RGBA
 	- 512x512 max size (~1mb)
+	- Nearest Filtering
+	- Repeating/Tiling
 - Lighting 
 	- Single Flat Ambient Light Value
-	- 
-- Fixed Function Rendering Pipelines
-	- Unlit
-	- Flat Shading
-	- Blinn-Phong Shading
-- Single Vertex Type
-	- Position
-	- UV
-	- Color
-	- Normal
-	- Tangent
-- 
+	- Up to 4 of:
+		- Directional Light
+		- Point Light
+		- Spotlight
+	- Fixed Light Rendering Models
+		- Unlit
+		- Flat Shading
+		- Blinn-Phong Shading
+- Meshes
+	- Supported Vertex Parameters
+		- Position
+		- UV
+		- Color
+		- Normal
+		- Tangent
+	- - Up to 4 Textures per Mesh
+		- Diffuse Map
+		- Normal Map
+		- Specular Map
+		- Emissive Map
+- Skeletal Animation
+	- Keyframed Animation
+	- Support for Location, Rotation, and Scale
+	- Up to 4 Bone Influences per Vertex
 
 ### Potential Issues and Mitigation
 #### Size of 3d Assets vs ROM Size Limits
@@ -81,7 +95,9 @@ It's quite rare to see unlit 3d games, and this is likely the reason for such a 
 #### 3d Data Access in Code
 Allow accessing the 3d data used for rendering, such as uploading meshes or textures to the GPU. This opens up the option of procedurally generated content, such as terrain, or even procedural meshes and textures to be used for rendering later.
 #### Graphics Engine Tweaking
-Allow users to adjust simple settings like texture filtering, transparency/alpha, blend modes, etc.
+Allow users to adjust simple settings like texture filtering, transparency/alpha, blend modes, max bones per vertex for animation, etc
+##### Animation Blending
+Support blending for animations between 2 (or N) number of states.
 #### Custom Shaders
 Expose the shaders out to developers to allow them to write their own shaders for custom effects.
 #### Performance Oriented API Additions
