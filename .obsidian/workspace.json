@@ -23,9 +23,11 @@
             "id": "2117bab3a34b5203",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Gamercade Proposals/3d Proposal.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
