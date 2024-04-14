@@ -14,23 +14,26 @@ Of course, the complexity jump from 2d to 3d is large, but the added dimension o
 ### Goals & Targets
 
 #### Primary Goals
-##### Simplistic 3d Rendering
-Simplicity and usability are key. We should provide a fixed-function rendering pipeline with a few adjustable knobs. Removal of user-defined shaders drastically 
+
+The primary goals focus on simplicity, approachability, and usability
+##### Basic 3d Rendering
+We should provide a fixed-function rendering pipeline with a few adjustable knobs. Removal of user-defined shaders drastically eases the introduction into 3d. Use easy to understand shading models like vertex-colors, basic texture maps, or Blinn-Phong shading. 
 ##### Simple 3d API Extension
-
-##### WYSIWYG Viewer and Editor Improvements
-
+Similar to the 2d API via `GraphicsParameters` and `sprite` functions, simple one-liners or a small number of function calls to draw 3d objects. Users should not need to worry about completely understanding the graphics pipeline, cameras, or GPU memory layout, and should instead be provided with a solid set of defaults to be tweaked when necessary.
+##### Editor Improvements & Accurate Viewer
+The editor should represent exactly what the models would look like in-game. This means adjustments to the editor to support 3d rendering of models with animations, file importers, and bundler updates.
 #### Non-Goals
 
 ##### Photorealism
-
+Realistic shaders and high definition graphics are not necessary. They would severely increase performance requirements, increase difficulty in asset creation, and go against the Neo-Retro focus of the console. Additionally, the texture sizes needed to support this would take up much of the ROMs capacity.
 ##### Scene/Level Editor
-
+Gamercade is not intended to be a game engine. The concept of a scene or level are up to the decisions of the developer. Developers wanting to make use of other (or their own) tools to assist in Gamercade development can make use of the `datapack` feature set.
 ##### High Performance
-
+While we are not specifically aiming for bad performance, this 3d proposal just covers basic functionality and "good enough" performance. Due to the constraints on ROM size, its likely that most modern GPUs and iGPUs will be able to handle whatever we can throw at it without much effort.
 ##### Full Rendering Pipeline Access
+Due to the complexity of the 
 
-### Implementation Scope
+### Implementation Details
 
 #### Core Changes
 - Adjustments to the ROM to include optional 3d Assets
