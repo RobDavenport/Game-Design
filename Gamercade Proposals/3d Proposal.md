@@ -55,6 +55,7 @@ The following limitations are built with the core principals in mind: they shoul
 	- CCW Winding Order
 	- Automatic Backface Culling
 	- Column Major Matrices
+	- // TODO: Limited Polygon Budget Per Frame / Second
 - Textures
 	- 32bit RGBA
 	- 512x512 max size (~1mb)
