@@ -55,7 +55,7 @@ The following limitations are built with the core principals in mind: they shoul
 	- CCW Winding Order
 	- Automatic Backface Culling
 	- Column Major Matrices
-	- // TODO: Limited Polygon Budget Per Frame / Second
+	- Limited Polygon Budget (See Table Below)
 - Textures
 	- 32bit RGBA
 	- 512x512 max size (~1mb)
@@ -96,6 +96,55 @@ The following limitations are built with the core principals in mind: they shoul
 	- Support for Location, Rotation, and Scale
 	- Up to 4 Bone Influences per Vertex
 	- Up to 64 bones per skeleton
+##### Rendering Limits & Gas
+In order to simulate the limited GPU of the console, a limited amount of **Gas** is available to be used for each frame. Each draw call will consume gas, depending on the complexity of the function. The amount of gas available depends on the target frame rate of the rom, as well as the rendering resolution. Therefore, high resolutions and frame rates will provide less gas per frame, and low resolutions and frame rates will provide more gas per frame. Gas will be replenished up to the maximum value on each refresh. This creates opportunity for developers to optimize their projects by tweaking graphics settings (resolution, fps) or art asset complexity to match their desired vision
+
+The base gas amount is `512,000,000` for the medium resolution. A **scaling factor** can be calculated for other resolutions as follows:
+`scaling_factor = sqrt(medium res total pixels / other res total pixels)`
+Below is a list of the gas available for each of the 16:9 resolutions:
+
+| Resolution | Total Pixels | Scale Factor | Total Gas Per Second |
+| ---------- | ------------ | ------------ | -------------------- |
+| UltraLow   | 9,216        | 3.75         | 1,920,000,000        |
+| VeryLow    | 14,400       | 3            | 1,536,000,000        |
+| Low        | 57,600       | 1.5          | 768,000,000          |
+| **Medium**     | **129,600**      | **1**            | **512,000,000**          |
+| High       | 230,400      | 0.75         | 384,000,000          |
+| VeryHigh   | 921,600      | 0.375        | 192,000,000          |
+| UltraHigh  | 2,073,600    | 0.25         | 128,000,000          |
+As the available gas is listed in gas per second, the amount available per frame is simply taking the per-second amount and diving it by the ROM's `fps` value. See the following table for some examples:
+
+| Resolution | Gas Per Second | FPS | Gas Per Frame |
+| ---------- | -------------- | --- | ------------- |
+| Medium     | 512,000,000    | 30  | ~17,066,666   |
+| Medium     | 512,000,000    | 60  | ~8,533,333    |
+| High       | 384,000,000    | 30  | 12,800,000    |
+| High       | 384,000,000    | 120 | 3,200,000     |
+| Low        | 768,000,000    | 60  | 12,800,000    |
+| UltraHigh  | 128,000,000    | 24  | ~5,333,333    |
+Each rendering function call will consume the gas value according to the following table:
+
+| Base Parts           | Cost | Note                                              |
+| -------------------- | ---- | ------------------------------------------------- |
+| Polygon Base         | 300  | Base cost for every triangle                      |
+| Texture Lookup       | 100  | Multiplied for each texture lookup                |
+| Param: UV            | 100  | Base cost to use UVs for textures                 |
+| Param: Vertex Color  | 150  | Base cost to use Vertex Colors                    |
+| Param: Normal        | 150  | Base cost to use Normals for lighting             |
+| Param: Tangent       | 150  | Base cost to use Tangents for normal maps         |
+| Lighting Calculation | 100  | Multiplied for each lighting calculation          |
+| Skeleton (Per Bone)  | 10   | Multiplied for each bone, once per draw call      |
+| Skinning (Weights)   | 30   | Multiplied for each triangle for each max weights |
+This allows us to build a couple of combination piece depending on the complexity of the draw call:
+
+| Combinations       | Cost | Note                                                   |
+| ------------------ | ---- | ------------------------------------------------------ |
+| Add Diffuse Map    | 200  | Include UV + Texture Lookup                            |
+| Add Emissive Map   | 100  | Texture Lookup                                         |
+| Add Specular Map   | 200  | Texture Lookup + Lighting Calculation                  |
+| Add Normal Map     | 350  | Texture Lookup + Incude Tangent + Lighting Calculation |
+| Add Basic Lighting | 250  | Include Normal + Lighting Calculation                  |
+
 #### Api Proposal
 For simplicity sake a **stateful api** is suggested for the current implementation. This is due to the WASM Module <--> Host Communication layer only supporting (i32, i64, f32, f64) datatypes, and managing pointers between these can be handled at a later date. The following draft is still a work-in-progress
 
