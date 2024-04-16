@@ -144,7 +144,7 @@ This allows us to build a couple of combination piece depending on the complexit
 | Add Specular Map   | 200  | Texture Lookup + Lighting Calculation                  |
 | Add Normal Map     | 350  | Texture Lookup + Incude Tangent + Lighting Calculation |
 | Add Basic Lighting | 250  | Include Normal + Lighting Calculation                  |
-
+// TODO: Add more examples
 #### Api Proposal
 For simplicity sake a **stateful api** is suggested for the current implementation. This is due to the WASM Module <--> Host Communication layer only supporting (i32, i64, f32, f64) datatypes, and managing pointers between these can be handled at a later date. The following draft is still a work-in-progress
 
