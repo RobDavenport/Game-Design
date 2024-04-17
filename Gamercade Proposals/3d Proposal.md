@@ -196,7 +196,15 @@ It's quite rare to see unlit 3d games, and this is likely the reason for such a 
 ### Possible Long Term Additions
 The following contains a list of possible extensions that could be made after the initial MVP for 3d is released. These are sorted in generally by importance, although not a strict guideline by any means.
 #### Built-in Primitive Drawing
-Similar to the already existing 2d primitives like `circle` `rect` and `line`, it would useful to have some built-in primitives to use for prototyping or debugging development. These primitives should be flexible, ie, have proper vertex UVs or tweakable colors. This may relate to [3d Data Access in Code] 
+Similar to the already existing 2d primitives like `circle` `rect` and `line`, it would useful to have some built-in primitives to use for prototyping or debugging development. These primitives should be flexible and game-ready, such as have proper vertex UVs, tweakable vertex colors, etc. This may relate to [[#3d Data Access in Code]] since we could be editing the geometry at runtime.
+A good list of shapes to start out with are:
+- cube(width, height, depth)
+- plane(width, height)
+- sphere(radius, segments)
+- circle(radius, segments)
+- cylinder(radius, segments)
+- cone(radius, height, segments)
+Width, height, depth, radius are self explanatory. Segments in this case refers to polycount or quality of the shapes. For example, a sphere with low segments would look very blocky, and therefore a sphere with high segments would look very smooth and rounded. 
 #### Additional Stateless API
 A stateless API could also be implemented, but would require passing of pointers to values rather than the stateful approach. All the parameters needed to draw a mesh would be included as parameters to the function call, instead of relying on in-between state. Example:
 
@@ -223,9 +231,9 @@ Allow users to adjust simple settings like:
 - Animation system adjustments, tweak the max bone influences per vertex from 1-4
 - Winding order of triangles, backface culling
 #### Animation Blending
-Support blending for animations between 2 (or N) number of states.
+Support blending for animations between 2 (or N) number of states. If [[#3d Data Access in Code]] is done, it may be possible to omit this entirely and leave it up to the user to handle themselves.
 #### Support for Multiple Viewport or Cameras
-Add functionality to render multiple scenes from different views, such as for split screen multiplayer
+Add functionality to render multiple scenes from different views, such as for split screen multiplayer.
 #### Custom Shaders
 Expose the shaders out to developers to allow them to write their own shaders for custom effects.
 #### Performance Oriented API Additions

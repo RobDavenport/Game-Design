@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "304b8e4edbc5d690",
+        "id": "0f746ecac5fbc2cf",
         "type": "tabs",
         "children": [
           {
-            "id": "0bec224dd0c86a52",
+            "id": "c3d3383d5a076f31",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tree",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bec224dd0c86a52",
+  "active": "c3d3383d5a076f31",
   "lastOpenFiles": [
-    "README.md",
     "Gamercade Proposals/Post Processing Shaders.md",
     "Gamercade Proposals/3d Proposal.md",
+    "3d.md",
+    "Untitled.canvas",
+    "README.md",
     "Gamercade Proposals",
     "Gamercade Projects/Launch Projects.md",
     "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
@@ -179,10 +181,7 @@
     "Important Considerations",
     "Progression Systems",
     "Attachments",
-    "Character Class Systems/Horizontal Progression/Loadout Based.md",
     "Character Class Systems/Horizontal Progression",
-    "Class Swapping.md",
-    "Character Classes",
-    "Untitled.canvas"
+    "Character Classes"
   ]
 }
