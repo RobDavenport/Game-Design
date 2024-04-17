@@ -15,6 +15,7 @@ Of course, the complexity jump from 2d to 3d is large, but the added dimension o
 [BlockBench](https://www.blockbench.net/) - Low Poly 3d modeling software
 [Crocotile3d](https://crocotile3d.com/) - 3d Modeling software for making models and environments with tiled textures.
 Any Nintendo 64 or PlayStation game.
+[RPG Paper Maker](https://rpg-paper-maker.com/) - Unique 3d engine. Uses 2d sprites for a very 2.5d feel.
 ### Goals & Targets
 #### Primary Goals
 The primary goals focus on simplicity, approachability, and usability
@@ -144,7 +145,7 @@ This allows us to build a couple of combination piece depending on the complexit
 | Add Specular Map   | 200  | Texture Lookup + Lighting Calculation                  |
 | Add Normal Map     | 350  | Texture Lookup + Incude Tangent + Lighting Calculation |
 | Add Basic Lighting | 250  | Include Normal + Lighting Calculation                  |
-// TODO: Add more examples
+// TODO: Add more examples & Simulations
 #### Api Proposal
 For simplicity sake a **stateful api** is suggested for the current implementation. This is due to the WASM Module <--> Host Communication layer only supporting (i32, i64, f32, f64) datatypes, and managing pointers between these can be handled at a later date. The following draft is still a work-in-progress
 
@@ -193,6 +194,9 @@ The inclusion of 3d models and their accompanying data (textures, vertex colors,
 #### 3d Rendering and Lighting
 It's quite rare to see unlit 3d games, and this is likely the reason for such a severe complexity jump from 2d -> 3d. We should limit the number and kinds of lights that the engine supports to keep things simple and straightforward.
 ### Possible Long Term Additions
+The following contains a list of possible extensions that could be made after the initial MVP for 3d is released. These are sorted in generally by importance, although not a strict guideline by any means.
+#### Built-in Primitive Drawing
+Similar to the already existing 2d primitives like `circle` `rect` and `line`, it would useful to have some built-in primitives to use for prototyping or debugging development. These primitives should be flexible, ie, have proper vertex UVs or tweakable colors. This may relate to [3d Data Access in Code] 
 #### Additional Stateless API
 A stateless API could also be implemented, but would require passing of pointers to values rather than the stateful approach. All the parameters needed to draw a mesh would be included as parameters to the function call, instead of relying on in-between state. Example:
 
