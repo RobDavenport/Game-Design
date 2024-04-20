@@ -118,6 +118,7 @@ Below is a list of the gas available for each of the 16:9 resolutions:
 | High       | 230,400      | 0.75         | 384,000,000          |
 | VeryHigh   | 921,600      | 0.375        | 192,000,000          |
 | UltraHigh  | 2,073,600    | 0.25         | 128,000,000          |
+
 As the available gas is listed in gas per second, the amount available per frame is simply taking the per-second amount and diving it by the ROM's `fps` value. See the following table for some examples:
 
 | Resolution | Gas Per Second | FPS | Gas Per Frame |
@@ -128,6 +129,7 @@ As the available gas is listed in gas per second, the amount available per frame
 | High       | 384,000,000    | 120 | 3,200,000     |
 | Low        | 768,000,000    | 60  | 12,800,000    |
 | UltraHigh  | 128,000,000    | 24  | ~5,333,333    |
+
 Each rendering function call will consume the gas value according to the following table:
 
 | Base Parts           | Cost | Note                                              |
@@ -141,6 +143,7 @@ Each rendering function call will consume the gas value according to the followi
 | Lighting Calculation | 100  | Multiplied for each lighting calculation          |
 | Skeleton (Per Bone)  | 10   | Multiplied for each bone, once per draw call      |
 | Skinning (Weights)   | 30   | Multiplied for each triangle for each max weights |
+
 This allows us to build a couple of combination piece depending on the complexity of the draw call:
 
 | Combinations       | Cost | Note                                                   |
@@ -150,6 +153,7 @@ This allows us to build a couple of combination piece depending on the complexit
 | Add Specular Map   | 200  | Texture Lookup + Lighting Calculation                  |
 | Add Normal Map     | 350  | Texture Lookup + Incude Tangent + Lighting Calculation |
 | Add Basic Lighting | 250  | Include Normal + Lighting Calculation                  |
+
 // TODO: Add more examples & Simulations
 ### Api Proposal
 For simplicity sake a **stateful api** is suggested for the current implementation. This is due to the WASM Module <--> Host Communication layer only supporting (i32, i64, f32, f64) datatypes, and managing pointers between these can be handled at a later date. The following draft is still a work-in-progress
@@ -203,12 +207,15 @@ The following contains a list of possible extensions that could be made after th
 ### Built-in Primitive Drawing
 Similar to the already existing 2d primitives like `circle` `rect` and `line`, it would useful to have some built-in primitives to use for prototyping or debugging development. These primitives should be flexible and game-ready, such as have proper vertex UVs, tweakable vertex colors, etc. This may relate to [[#3d Data Access in Code]] since we could be editing the geometry at runtime.
 A good list of shapes to start out with are:
-- cube(width, height, depth)
-- plane(width, height)
-- sphere(radius, segments)
-- circle(radius, segments)
-- cylinder(radius, segments)
-- cone(radius, height, segments)
+```js
+cube(width, height, depth)
+plane(width, height)
+sphere(radius, segments)
+circle(radius, segments)
+cylinder(radius, segments)
+cone(radius, height, segments)
+```
+
 Width, height, depth, radius are self explanatory. Segments in this case refers to polycount or quality of the shapes. For example, a sphere with low segments would look very blocky, and therefore a sphere with high segments would look very smooth and rounded. 
 ### Additional Stateless API
 A stateless API could also be implemented, but would require passing of pointers to values rather than the stateful approach. All the parameters needed to draw a mesh would be included as parameters to the function call, instead of relying on in-between state. Example:
