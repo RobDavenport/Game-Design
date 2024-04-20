@@ -7,13 +7,13 @@ At its core, Gamercade will remain a Neo-Retro Fantasy Console. We define Neo-Re
 
 Since Gamercade targets the mid 90s to early 2000s home game consoles, it would be realistic to also support a basic form of 3D. Consoles of that generation include the Sega Saturn, PlayStation, and Nintendo 64. These consoles featured specific hardware to accelerate 3D graphics compared to the software implementations of the previous generation. As Gamercade is a Neo-Retro fantasy console, it should match the capabilities of those consoles. Those consoles are severely outclassed by modern hardware, but they still created engaging and memorable experiences.
 
-Of course, the complexity jump fROM 2D to 3D is large, but the added dimension opens up more substantially options for modern day creatives. As Gamercade currently only natively supports 2D, developers are somewhat restricted in the kinds of experiences they can create. Adding the third dimension opens up the console to showcase the talent of 3D artists like modelers, riggers, and animators. The recent popularity of low poly artwork and stylized games show that there is still large appeal for graphically simplistic games. This is further enhanced by the faster workflow and simpler development process of these art styles. 
+Of course, the complexity jump from 2D to 3D is large, but the added dimension opens up more substantially options for modern day creatives. As Gamercade currently only natively supports 2D, developers are somewhat restricted in the kinds of experiences they can create. Adding the third dimension opens up the console to showcase the talent of 3D artists like modelers, riggers, and animators. The recent popularity of low poly artwork and stylized games show that there is still large appeal for graphically simplistic games. This is further enhanced by the faster workflow and simpler development process of these art styles. 
 
 ### Example References:
 
 [Compound VR](https://www.youtube.com/watch?v=x0N56nCqLu4) - 3D FPS VR game with pixel art textures, no lighting.
 
-[Sketchfab #256fes Models](https://sketchfab.com/search?q=256fes&type=models) - Models fROM the 256fes hashtag on twitter. 256 triangle limit with 256x256 textures.
+[Sketchfab #256fes Models](https://sketchfab.com/search?q=256fes&type=models) - Models from the 256fes hashtag on twitter. 256 triangle limit with 256x256 textures.
 
 [BlockBench](https://www.blockbench.net/) - Low Poly 3D modeling software.
 
@@ -103,7 +103,7 @@ The following limitations are built with the core principals in mind: they shoul
 	- Up to 4 Bone Influences per Vertex
 	- Up to 64 bones per skeleton
 #### Rendering Limits & Gas
-In order to simulate the limited GPU of the console, a limited amount of **Gas** is available to be used for each frame. Each draw call will consume gas, depending on the complexity of the function. The amount of gas available depends on the target frame rate of the ROM, as well as the rendering resolution. Therefore, high resolutions and frame rates will provide less gas per frame, and low resolutions and frame rates will provide more gas per frame. Gas will be replenished up to the maximum value on each refresh. This creates opportunity for developers to optimize their projects by tweaking graphics settings (resolution, fps) or art asset complexity to match their desired vision
+In order to simulate the limited GPU of the console, a limited amount of **Gas** is available to be used for each frame. Each draw call will consume gas, depending on the complexity of the function. The amount of gas available depends on the target frame rate of the rom, as well as the rendering resolution. Therefore, high resolutions and frame rates will provide less gas per frame, and low resolutions and frame rates will provide more gas per frame. Gas will be replenished up to the maximum value on each refresh. This creates opportunity for developers to optimize their projects by tweaking graphics settings (resolution, fps) or art asset complexity to match their desired vision
 
 The base gas amount is `512,000,000` for the medium resolution. A **scaling factor** can be calculated for other resolutions as follows:
 `scaling_factor = sqrt(medium res total pixels / other res total pixels)`
@@ -201,7 +201,7 @@ set_light_enabled(slot: i32, value: i32); // 0: Disabled, Non-0: Enabled
 ### Size of 3D Assets vs ROM Size Limits
 The inclusion of 3D models and their accompanying data (textures, vertex colors, animation and skinning data) will heavily increase storage needs within the ROM. We should place some limits on the assets themselves, such as maximum vertex counts, triangle counts, or texture sizes.
 ### 3D Rendering and Lighting
-It's quite rare to see unlit 3D games, and this is likely the reason for such a severe complexity jump fROM 2D -> 3D. We should limit the number and kinds of lights that the engine supports to keep things simple and straightforward.
+It's quite rare to see unlit 3D games, and this is likely the reason for such a severe complexity jump from 2D -> 3D. We should limit the number and kinds of lights that the engine supports to keep things simple and straightforward.
 ## Possible Long Term Additions
 The following contains a list of possible extensions that could be made after the initial MVP for 3D is released. These are sorted in generally by importance, although not a strict guideline by any means.
 ### Built-in Primitive Drawing
@@ -240,12 +240,12 @@ Allow accessing the 3D data used for rendering, such as uploading meshes or text
 ### Graphics Engine Tweaking
 Allow users to adjust simple settings like:
 - Texture filtering, mirroring, or repeating behavior
-- Animation system adjustments, tweak the max bone influences per vertex fROM 1-4
+- Animation system adjustments, tweak the max bone influences per vertex from 1-4
 - Winding order of triangles, backface culling
 ### Animation Blending
 Support blending for animations between 2 (or N) number of states. If [[#3D Data Access in Code]] is done, it may be possible to omit this entirely and leave it up to the user to handle themselves.
 ### Support for Multiple Viewport or Cameras
-Add functionality to render multiple scenes fROM different views, such as for split screen multiplayer.
+Add functionality to render multiple scenes from different views, such as for split screen multiplayer.
 ### Custom Shaders
 Expose the shaders out to developers to allow them to write their own shaders for custom effects.
 ### Performance Oriented API Additions
