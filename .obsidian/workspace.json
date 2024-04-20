@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gamercade Proposals/3d Proposal.md",
+                "file": "Bad Luck Prevention.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gamercade Proposals/3d Proposal.md",
+                "file": "Bad Luck Prevention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gamercade Proposals/3d Proposal.md",
+                "file": "Bad Luck Prevention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gamercade Proposals/3d Proposal.md"
+                "file": "Bad Luck Prevention.md"
               }
             }
           }
@@ -148,22 +148,23 @@
   },
   "active": "c3d3383d5a076f31",
   "lastOpenFiles": [
-    "Gamercade Proposals/Post Processing Shaders.md",
-    "Gamercade Proposals/3d Proposal.md",
-    "3d.md",
-    "Untitled.canvas",
+    "How to Design.md",
     "README.md",
-    "Gamercade Proposals",
-    "Gamercade Projects/Launch Projects.md",
-    "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
-    "Gamercade Projects",
     "Randomized Rewards.md",
+    "Character Classes/Class Selection.md",
+    "Character Classes/Character Roles.md",
     "Favorite Mechanics/Weighted Rock-Paper-Scissors.md",
     "Favorite Mechanics/Drafting.md",
+    "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
+    "Gamercade Proposals/3d Proposal.md",
+    "Gamercade Proposals/Post Processing Shaders.md",
+    "3d.md",
+    "Untitled.canvas",
+    "Gamercade Proposals",
+    "Gamercade Projects/Launch Projects.md",
+    "Gamercade Projects",
     "Favorite Mechanics",
     "Bad Luck Prevention.md",
-    "Character Classes/Character Roles.md",
-    "How to Design.md",
     "Progression Systems/Skill Trees.md",
     "Progression Systems/Horizontal Progression.md",
     "Progression Systems/Vertical Progression.md",
@@ -174,7 +175,6 @@
     "Important Considerations/Finality of Choices.md",
     "Important Considerations/Content Relevance.md",
     "Important Considerations/Depth vs Complexity.md",
-    "Character Classes/Class Selection.md",
     "LICENSE",
     "PvP Design Issues.md",
     "Progression Systems/Important Considerations.md",
