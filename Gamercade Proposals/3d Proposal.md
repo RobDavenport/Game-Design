@@ -32,7 +32,7 @@ Similar to the 2D API via `GraphicsParameters` and `sprite` functions, simple on
 The editor should represent exactly what the models would look like in-game. This means adjustments to the editor to support 3D rendering of models with animations, file importers, and bundler updates. Using a WYSIWYG workflow (similar to the Sound Engine) ensures an accurate, simple, and easily understandable representation of assets.
 ### Non-Goals
 #### Photorealism
-Realistic shaders and high definition graphics are not necessary. They would severely increase performance requirements, increase difficulty in asset creation, and go against the Neo-Retro focus of the console. Additionally, the texture sizes needed to support this would take up much of the ROMs capacity.
+Realistic shaders and high definition graphics are not necessary. They would severely increase performance requirements, difficulty in asset creation, and go against the Neo-Retro focus of the console. Additionally, the texture sizes needed to support this would take up much of the ROM's available capacity.
 #### Scene/Level Editor
 Gamercade is not intended to be a game engine. The concept of a scene or level is up to the decisions of the developer. Developers wanting to make use of other (or their own) tools to assist in Gamercade development can make use of the `datapack` feature set.
 #### Ultra High Performance
