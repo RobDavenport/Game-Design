@@ -1,41 +1,46 @@
-### Summary
+## Summary
 A suggestion for a simple 3d functionality extension for Gamercade. 
-### Motivation
+## Motivation
 At its core, Gamercade will remain a Neo-Retro Fantasy Console. We define Neo-Retro as:
 
 >  In our definition, it means something which is retro-looking, but still has many capabilities of modern times. In the case of Gamercade, this means that the games themselves are retro-like in their appearance, such as with lower resolutions and pixel graphics.
- 
+
 Since Gamercade targets the mid 90s to early 2000s home game consoles, it would be realistic to also support a basic form of 3d. Consoles of that generation include the Sega Saturn, PlayStation, and Nintendo 64. These consoles featured specific hardware to accelerate 3d graphics compared to the software implementations of the previous generation. As Gamercade is a Neo-Retro fantasy console, it should match the capabilities of those consoles. Those consoles are severely outclassed by modern hardware, but they still created engaging and memorable experiences.
 
 Of course, the complexity jump from 2d to 3d is large, but the added dimension opens up more substantially options for modern day creatives. As Gamercade currently only natively supports 2d, developers are somewhat restricted in the kinds of experiences they can create. Adding the third dimension opens up the console to showcase the talent of 3d artists like modelers, riggers, and animators. The recent popularity of low poly artwork and stylized games show that there is still large appeal for graphically simplistic games. This is further enhanced by the faster workflow and simpler development process of these art styles. 
 
-**Example References:**
+### Example References:
+
 [Compound VR](https://www.youtube.com/watch?v=x0N56nCqLu4) - 3d FPS VR game with pixel art textures, no lighting.
-[Sketchfab #256fes Models](https://sketchfab.com/search?q=256fes&type=models) - Models from the 256fes hashtag on twitter. 256 triangle limit with 256x256 textures
-[BlockBench](https://www.blockbench.net/) - Low Poly 3d modeling software
+
+[Sketchfab #256fes Models](https://sketchfab.com/search?q=256fes&type=models) - Models from the 256fes hashtag on twitter. 256 triangle limit with 256x256 textures.
+
+[BlockBench](https://www.blockbench.net/) - Low Poly 3d modeling software.
+
 [Crocotile3d](https://crocotile3d.com/) - 3d Modeling software for making models and environments with tiled textures.
 Any Nintendo 64 or PlayStation game.
+
 [RPG Paper Maker](https://rpg-paper-maker.com/) - Unique 3d engine. Uses 2d sprites for a very 2.5d feel.
-### Goals & Targets
-#### Primary Goals
+## Goals & Targets
+### Primary Goals
 The primary goals focus on simplicity, approachability, and usability
-##### Basic 3d Rendering
+#### Basic 3d Rendering
 We should provide a fixed-function rendering pipeline with a few adjustable knobs. Removal of user-defined shaders drastically eases the introduction into 3d. Use easy to understand shading models like vertex-colors, basic texture maps, flat shading, or Blinn-Phong shading. Lighting should be limited to a few basic light types, and the number of lights should also be limited.
-##### Simple 3d API Extension
+#### Simple 3d API Extension
 Similar to the 2d API via `GraphicsParameters` and `sprite` functions, simple one-liners or a small number of function calls to draw 3d objects. Users should not need to worry about completely understanding the graphics pipeline, cameras, or GPU memory layout, and should instead be provided with a solid set of defaults to be tweaked when necessary.
-##### Editor Improvements & Accurate Viewer
+#### Editor Improvements & Accurate Viewer
 The editor should represent exactly what the models would look like in-game. This means adjustments to the editor to support 3d rendering of models with animations, file importers, and bundler updates. Using a WYSIWYG workflow (similar to the Sound Engine) ensures an accurate, simple, and easily understandable representation of assets.
-#### Non-Goals
-##### Photorealism
+### Non-Goals
+#### Photorealism
 Realistic shaders and high definition graphics are not necessary. They would severely increase performance requirements, increase difficulty in asset creation, and go against the Neo-Retro focus of the console. Additionally, the texture sizes needed to support this would take up much of the ROMs capacity.
-##### Scene/Level Editor
+#### Scene/Level Editor
 Gamercade is not intended to be a game engine. The concept of a scene or level are up to the decisions of the developer. Developers wanting to make use of other (or their own) tools to assist in Gamercade development can make use of the `datapack` feature set.
-##### High Performance
+#### Ultra High Performance
 While we are not specifically aiming for bad performance, this 3d proposal just covers basic functionality and "good enough" performance. Due to the constraints on ROM size, its likely that most modern GPUs and iGPUs will be able to handle whatever we can throw at it without much effort.
-##### Full Rendering Pipeline Access
+#### Full Rendering Pipeline Access
 Due to the complexity of the full rendering pipeline, we should not expose this to users. For example, wanting to support custom vertex shaders or fragment shaders means we need to consider data layout on the GPU itself, or some kind of reflection/parsing of the shader code to ensure provided parameters get to where they need to.
-### Implementation Details
-#### Change Summary
+## Implementation Details
+### Change Summary
 - Adjustments to the ROM to include optional 3d Assets
 	- Support Models and Textures
 	- "Global Rendering Settings"
@@ -48,7 +53,7 @@ Due to the complexity of the full rendering pipeline, we should not expose this 
 	- Console runtime
 	- gamercade_rs
 	- API Docs
-#### Graphics Engine Specs & Limitations
+### Graphics Engine Specs & Limitations
 The following limitations are built with the core principals in mind: they should be simple yet flexible, and support the Neo-Retro goal of the project. Some of these features are influenced by modern day standards (such as tangent space normal maps, and 4-bone influence animation), other constraints will keep things back within the retro feel.
 
 - General
@@ -97,7 +102,7 @@ The following limitations are built with the core principals in mind: they shoul
 	- Support for Location, Rotation, and Scale
 	- Up to 4 Bone Influences per Vertex
 	- Up to 64 bones per skeleton
-##### Rendering Limits & Gas
+#### Rendering Limits & Gas
 In order to simulate the limited GPU of the console, a limited amount of **Gas** is available to be used for each frame. Each draw call will consume gas, depending on the complexity of the function. The amount of gas available depends on the target frame rate of the rom, as well as the rendering resolution. Therefore, high resolutions and frame rates will provide less gas per frame, and low resolutions and frame rates will provide more gas per frame. Gas will be replenished up to the maximum value on each refresh. This creates opportunity for developers to optimize their projects by tweaking graphics settings (resolution, fps) or art asset complexity to match their desired vision
 
 The base gas amount is `512,000,000` for the medium resolution. A **scaling factor** can be calculated for other resolutions as follows:
@@ -146,7 +151,7 @@ This allows us to build a couple of combination piece depending on the complexit
 | Add Normal Map     | 350  | Texture Lookup + Incude Tangent + Lighting Calculation |
 | Add Basic Lighting | 250  | Include Normal + Lighting Calculation                  |
 // TODO: Add more examples & Simulations
-#### Api Proposal
+### Api Proposal
 For simplicity sake a **stateful api** is suggested for the current implementation. This is due to the WASM Module <--> Host Communication layer only supporting (i32, i64, f32, f64) datatypes, and managing pointers between these can be handled at a later date. The following draft is still a work-in-progress
 
 ```rust
@@ -188,14 +193,14 @@ set_light_enabled(slot: i32, value: i32); // 0: Disabled, Non-0: Enabled
 // Animation
 // TODO
 ```
-### Potential Issues and Mitigation
-#### Size of 3d Assets vs ROM Size Limits
+## Potential Issues and Mitigation
+### Size of 3d Assets vs ROM Size Limits
 The inclusion of 3d models and their accompanying data (textures, vertex colors, animation and skinning data) will heavily increase storage needs within the ROM. We should place some limits on the assets themselves, such as maximum vertex counts, triangle counts, or texture sizes.
-#### 3d Rendering and Lighting
+### 3d Rendering and Lighting
 It's quite rare to see unlit 3d games, and this is likely the reason for such a severe complexity jump from 2d -> 3d. We should limit the number and kinds of lights that the engine supports to keep things simple and straightforward.
-### Possible Long Term Additions
+## Possible Long Term Additions
 The following contains a list of possible extensions that could be made after the initial MVP for 3d is released. These are sorted in generally by importance, although not a strict guideline by any means.
-#### Built-in Primitive Drawing
+### Built-in Primitive Drawing
 Similar to the already existing 2d primitives like `circle` `rect` and `line`, it would useful to have some built-in primitives to use for prototyping or debugging development. These primitives should be flexible and game-ready, such as have proper vertex UVs, tweakable vertex colors, etc. This may relate to [[#3d Data Access in Code]] since we could be editing the geometry at runtime.
 A good list of shapes to start out with are:
 - cube(width, height, depth)
@@ -205,7 +210,7 @@ A good list of shapes to start out with are:
 - cylinder(radius, segments)
 - cone(radius, height, segments)
 Width, height, depth, radius are self explanatory. Segments in this case refers to polycount or quality of the shapes. For example, a sphere with low segments would look very blocky, and therefore a sphere with high segments would look very smooth and rounded. 
-#### Additional Stateless API
+### Additional Stateless API
 A stateless API could also be implemented, but would require passing of pointers to values rather than the stateful approach. All the parameters needed to draw a mesh would be included as parameters to the function call, instead of relying on in-between state. Example:
 
 ```rust
@@ -223,18 +228,18 @@ draw_mesh(mesh_parameters:i32);
 // Alternative Stateless:
 draw_mesh(mesh_parameters: i32, transform_ptr: i32);
 ```
-#### 3d Data Access in Code
+### 3d Data Access in Code
 Allow accessing the 3d data used for rendering, such as uploading meshes or textures to the GPU. This opens up the option of procedurally generated content, such as terrain, or even procedural meshes and textures to be used for rendering later.
-#### Graphics Engine Tweaking
+### Graphics Engine Tweaking
 Allow users to adjust simple settings like:
 - Texture filtering, mirroring, or repeating behavior
 - Animation system adjustments, tweak the max bone influences per vertex from 1-4
 - Winding order of triangles, backface culling
-#### Animation Blending
+### Animation Blending
 Support blending for animations between 2 (or N) number of states. If [[#3d Data Access in Code]] is done, it may be possible to omit this entirely and leave it up to the user to handle themselves.
-#### Support for Multiple Viewport or Cameras
+### Support for Multiple Viewport or Cameras
 Add functionality to render multiple scenes from different views, such as for split screen multiplayer.
-#### Custom Shaders
+### Custom Shaders
 Expose the shaders out to developers to allow them to write their own shaders for custom effects.
-#### Performance Oriented API Additions
+### Performance Oriented API Additions
 Mesh instancing, automated batching, etc, for advanced users who want to push the limit.
