@@ -244,9 +244,9 @@ Allow users to adjust simple settings like:
 - Winding order of triangles, backface culling
 ### Animation Blending
 Support blending for animations between 2 (or N) number of states. If [[#3D Data Access in Code]] is done, it may be possible to omit this entirely and leave it up to the user to handle themselves.
-### Support for Multiple Viewport or Cameras
-Add functionality to render multiple scenes from different views, such as for split screen multiplayer.
+### Support for Multiple Viewports or Cameras
+Add functionality to render multiple scenes from different views, for example: split screen multiplayer.
 ### Custom Shaders
-Expose the shaders out to developers to allow them to write their own shaders for custom effects.
+Expose shader access to developers to allow them to write their own shaders for custom effects.
 ### Performance Oriented API Additions
 Mesh instancing, automated batching, etc, for advanced users who want to push the limit.
