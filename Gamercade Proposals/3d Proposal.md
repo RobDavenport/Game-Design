@@ -5,9 +5,9 @@ At its core, Gamercade will remain a Neo-Retro Fantasy Console. We define Neo-Re
 
 >  In our definition, it means something which is retro-looking, but still has many capabilities of modern times. In the case of Gamercade, this means that the games themselves are retro-like in their appearance, such as with lower resolutions and pixel graphics.
 
-Since Gamercade targets the mid 90s to early 2000s home game consoles, it would be realistic to also support a basic form of 3D. Consoles of that generation include the Sega Saturn, PlayStation, and Nintendo 64. These consoles featured specific hardware to accelerate 3D graphics compared to the software implementations of the previous generation. As Gamercade is a Neo-Retro fantasy console, it should match the capabilities of those consoles. Those consoles are severely outclassed by modern hardware, but they still created engaging and memorable experiences.
+Since Gamercade targets the mid '90s to early 2000s home game consoles, it would be realistic to also support a basic form of 3D. Consoles of that generation include the Sega Saturn, PlayStation, and Nintendo 64. These consoles featured specific hardware to accelerate 3D graphics compared to the software implementations of the previous generation. As Gamercade is a Neo-Retro fantasy console, it should match the capabilities of those consoles. Those consoles are severely outclassed by modern hardware, but they still created engaging and memorable experiences.
 
-Of course, the complexity jump from 2D to 3D is large, but the added dimension opens up more substantially options for modern day creatives. As Gamercade currently only natively supports 2D, developers are somewhat restricted in the kinds of experiences they can create. Adding the third dimension opens up the console to showcase the talent of 3D artists like modelers, riggers, and animators. The recent popularity of low poly artwork and stylized games show that there is still large appeal for graphically simplistic games. This is further enhanced by the faster workflow and simpler development process of these art styles. 
+Of course, the complexity jump from 2D to 3D is large, but the added dimension opens up substantially more options for modern day creatives. As Gamercade currently only natively supports 2D, developers are somewhat restricted in the kinds of experiences they can create. Adding the third dimension opens up the console to showcase the talent of 3D artists like modelers, riggers, and animators. The recent popularity of low poly artwork and stylized games show that there is still large appeal for graphically simplistic games. This is further enhanced by the faster workflow and simpler development process of these art styles. 
 
 ### Example References:
 
@@ -20,7 +20,7 @@ Of course, the complexity jump from 2D to 3D is large, but the added dimension o
 [Crocotile3D](https://crocotile3D.com/) - 3D Modeling software for making models and environments with tiled textures.
 Any Nintendo 64 or PlayStation game.
 
-[RPG Paper Maker](https://rpg-paper-maker.com/) - Unique 3D engine. Uses 2D sprites for a very 2.5d feel.
+[RPG Paper Maker](https://rpg-paper-maker.com/) - Unique 3D engine. Uses 2D sprites for a very 2.5D feel.
 ## Goals & Targets
 ### Primary Goals
 The primary goals focus on simplicity, approachability, and usability
@@ -34,7 +34,7 @@ The editor should represent exactly what the models would look like in-game. Thi
 #### Photorealism
 Realistic shaders and high definition graphics are not necessary. They would severely increase performance requirements, increase difficulty in asset creation, and go against the Neo-Retro focus of the console. Additionally, the texture sizes needed to support this would take up much of the ROMs capacity.
 #### Scene/Level Editor
-Gamercade is not intended to be a game engine. The concept of a scene or level are up to the decisions of the developer. Developers wanting to make use of other (or their own) tools to assist in Gamercade development can make use of the `datapack` feature set.
+Gamercade is not intended to be a game engine. The concept of a scene or level is up to the decisions of the developer. Developers wanting to make use of other (or their own) tools to assist in Gamercade development can make use of the `datapack` feature set.
 #### Ultra High Performance
 While we are not specifically aiming for bad performance, this 3D proposal just covers basic functionality and "good enough" performance. Due to the constraints on ROM size, its likely that most modern GPUs and iGPUs will be able to handle whatever we can throw at it without much effort.
 #### Full Rendering Pipeline Access
