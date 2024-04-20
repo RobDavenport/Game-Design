@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bad Luck Prevention.md",
+                "file": "Gamercade Proposals/3d Proposal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bad Luck Prevention.md",
+                "file": "Gamercade Proposals/3d Proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bad Luck Prevention.md",
+                "file": "Gamercade Proposals/3d Proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bad Luck Prevention.md"
+                "file": "Gamercade Proposals/3d Proposal.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "c3d3383d5a076f31",
   "lastOpenFiles": [
+    "Bad Luck Prevention.md",
     "How to Design.md",
     "README.md",
     "Randomized Rewards.md",
@@ -164,7 +165,6 @@
     "Gamercade Projects/Launch Projects.md",
     "Gamercade Projects",
     "Favorite Mechanics",
-    "Bad Luck Prevention.md",
     "Progression Systems/Skill Trees.md",
     "Progression Systems/Horizontal Progression.md",
     "Progression Systems/Vertical Progression.md",
