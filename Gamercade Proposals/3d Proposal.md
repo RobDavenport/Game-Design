@@ -205,7 +205,7 @@ It's quite rare to see unlit 3D games, and this is likely the reason for such a 
 ## Possible Long Term Additions
 The following contains a list of possible extensions that could be made after the initial MVP for 3D is released. These are sorted in generally by importance, although not a strict guideline by any means.
 ### Built-in Primitive Drawing
-Similar to the already existing 2D primitives like `circle` `rect` and `line`, it would useful to have some built-in primitives to use for prototyping or debugging development. These primitives should be flexible and game-ready, such as have proper vertex UVs, tweakable vertex colors, etc. This may relate to [[#3D Data Access in Code]] since we could be editing the geometry at runtime.
+Similar to the already existing 2D primitives like `circle` `rect` and `line`, it would be beneficial to have simple built-in primitives to use for prototyping or debugging during development. These primitives should be flexible and game-ready, such as having proper vertex UVs, tweakable vertex colors, etc. This may relate to [[#3D Data Access in Code]] since we may also be editing the geometry at runtime.
 A good list of shapes to start out with are:
 ```js
 cube(width, height, depth)
@@ -216,7 +216,7 @@ cylinder(radius, segments)
 cone(radius, height, segments)
 ```
 
-Width, height, depth, radius are self explanatory. Segments in this case refers to polycount or quality of the shapes. For example, a sphere with low segments would look very blocky, and therefore a sphere with high segments would look very smooth and rounded. 
+Width, height, depth, radius are self explanatory. Segments in this case refers to the polycount or quality of the shapes. For example, a sphere with low segments would look very blocky, and therefore a sphere with high segments would look very smooth and rounded. 
 ### Additional Stateless API
 A stateless API could also be implemented, but would require passing of pointers to values rather than the stateful approach. All the parameters needed to draw a mesh would be included as parameters to the function call, instead of relying on in-between state. Example:
 
