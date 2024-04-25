@@ -190,12 +190,15 @@ set_light_enabled(slot: i32, value: i32); // 0: Disabled, Non-0: Enabled
 
 // Draw Calls
 // TODO
+draw_static_mesh(mesh_id: i32); // Uses the previously set transformation
 
 // Rendering Flags
 // TODO
 
 // Animation
 // TODO
+draw_animated_mesh(mesh_id: i32, animation_id: i32, time: f32) // Mesh & Skin are predefined
+
 ```
 ## Potential Issues and Mitigation
 ### Size of 3D Assets vs ROM Size Limits
