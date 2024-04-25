@@ -101,7 +101,7 @@ The following limitations are built with the core principals in mind: they shoul
 	- Keyframed Animation
 	- Support for Location, Rotation, and Scale
 	- Up to 4 Bone Influences per Vertex
-	- Up to 64 bones per skeleton
+	- Up to 64/128 bones per skeleton
 #### Rendering Limits & Gas
 In order to simulate the limited GPU of the console, a limited amount of **Gas** is available to be used for each frame. Each draw call will consume gas, depending on the complexity of the function. The amount of gas available depends on the target frame rate of the rom, as well as the rendering resolution. Therefore, high resolutions and frame rates will provide less gas per frame, and low resolutions and frame rates will provide more gas per frame. Gas will be replenished up to the maximum value on each refresh. This creates opportunity for developers to optimize their projects by tweaking graphics settings (resolution, fps) or art asset complexity to match their desired vision
 
@@ -201,7 +201,7 @@ set_light_enabled(slot: i32, value: i32); // 0: Disabled, Non-0: Enabled
 ### Size of 3D Assets vs ROM Size Limits
 The inclusion of 3D models and their accompanying data (textures, vertex colors, animation and skinning data) will heavily increase storage needs within the ROM. We should place some limits on the assets themselves, such as maximum vertex counts, triangle counts, or texture sizes.
 ### 3D Rendering and Lighting
-It's quite rare to see unlit 3D games, and this is likely the reason for such a severe complexity jump from 2D -> 3D. We should limit the number and kinds of lights that the engine supports to keep things simple and straightforward.
+It's quite rare to see unlit 3D games, and this is likely the reason for such a severe complexity jump from 2D -> 3D. We should limit the number and kinds of lights that the engine supports to keep things simple and straightforward. Forcing lights to be managed via code also ensures they are used for improving gameplay and not purely cosmetic.
 ## Possible Long Term Additions
 The following contains a list of possible extensions that could be made after the initial MVP for 3D is released. These are sorted in generally by importance, although not a strict guideline by any means.
 ### Built-in Primitive Drawing
@@ -236,7 +236,7 @@ draw_mesh(mesh_parameters:i32);
 draw_mesh(mesh_parameters: i32, transform_ptr: i32);
 ```
 ### 3D Data Access in Code
-Allow accessing the 3D data used for rendering, such as uploading meshes or textures to the GPU. This opens up the option of procedurally generated content, such as terrain, or even procedural meshes and textures to be used for rendering later.
+Allow accessing the 3D data used for rendering, such as uploading meshes or textures to the GPU. This opens up the option of procedurally generated content, such as terrain, or even procedural meshes and textures to be used for rendering later. Additionally, this could allow for things like IK bones driven by code, or procedural animation.
 ### Graphics Engine Tweaking
 Allow users to adjust simple settings like:
 - Texture filtering, mirroring, or repeating behavior
