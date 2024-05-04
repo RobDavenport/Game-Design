@@ -27,9 +27,9 @@ Characters categorized based on movement options (to pair with boost system) and
 
 | Movement      | Short Range        | Med Range           | Long Range                |
 | ------------- | ------------------ | ------------------- | ------------------------- |
-| **Fast/Many** | Phoenix (Rushdown) | ??? (Footsies)      | ??? (Trap Zoner)          |
+| **Fast/Many** | Phoenix (Rushdown) | Strider (Footsies)  | Sentry (Trap Zoner)       |
 | **Med/Avg**   | Specter (Mixup)    | Guardian (Balanced) | Basilisk (Normal Zoner)   |
-| **Few/Slow**  | Kraken (Grappler)  | ??? (Solid)         | Dragon (Projectile Zoner) |
+| **Few/Slow**  | Kraken (Grappler)  | Ironclad (Solid)    | Dragon (Projectile Zoner) |
 
 **Phoenix: Rushdown**
 Visual Design: Nimble, sleek, agile design. Sharp and pointed.
