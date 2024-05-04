@@ -41,14 +41,12 @@ Visual Design: Unconventional, enigmatic design.
 Gameplay:
 Moves:
 
-
-**Basilisk: Normal Zoner**
-Visual Design:
+**Kraken: Grappler**
+Visual Design: Large, bulky frame. Heavily armored. Extra legs.
 Gameplay:
 Moves:
 
-
-**Kraken: Grappler**
+**Strider: Footsies**
 Visual Design: Large, bulky frame. Heavily armored. Extra legs.
 Gameplay:
 Moves:
@@ -69,6 +67,20 @@ Moves:
 |   5S, 6S   | Tectonic Upper | BC, SP | An uppercut style attack. The 5 version is less committal than the 6 version, by being slightly faster and better recovery, but dealing less damage and traveling less vertical and horizontal distance. |       |
 | 1S, 2S, 3S |  Quake Stone   | BC, SP | A slow moving projectile along the ground. Projectile speed and recovery are dependent on the direction. 1 is slow, 2 is medium, and 3 is fast.                                                          |       |
 
+**Ironclad: Solid**
+Visual Design:
+Gameplay:
+Moves:
+
+**Weaver: Trap Zoner**
+Visual Design:
+Gameplay:
+Moves:
+
+**Basilisk: Normal Zoner**
+Visual Design:
+Gameplay:
+Moves:
 
 **Dragon: Projectile Zoner**
 Visual Design:
