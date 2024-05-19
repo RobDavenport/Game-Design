@@ -98,7 +98,8 @@ The following limitations are built with the core principals in mind: they shoul
 		- Toggle fragment normal via normal map, vertex parameters, or both
 		- Toggle emissive material
 - Skeletal Animation
-	- Keyframed Animation
+	- Keyframe Driven Animation
+	- No Interpolation
 	- Support for Location, Rotation, and Scale
 	- Up to 4 Bone Influences per Vertex
 	- Up to 64/128 bones per skeleton
@@ -245,6 +246,8 @@ Allow users to adjust simple settings like:
 - Texture filtering, mirroring, or repeating behavior
 - Animation system adjustments, tweak the max bone influences per vertex from 1-4
 - Winding order of triangles, backface culling
+### Animation Interpolation
+Original implementation is completely keyframe driven animation. This feature would allow interpolation between keyframes to smooth transitions between. Some research is necessary to provide the requirements and limitations of this system, such as the kinds of interpolation (or only supporting those built-in to GLTF), blending, etc.
 ### Animation Blending
 Support blending for animations between 2 (or N) number of states. If [[#3D Data Access in Code]] is done, it may be possible to omit this entirely and leave it up to the user to handle themselves.
 ### Support for Multiple Viewports or Cameras

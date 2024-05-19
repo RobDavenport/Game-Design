@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
+                "file": "Gamercade Proposals/3d Proposal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
+                "file": "Gamercade Proposals/3d Proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
+                "file": "Gamercade Proposals/3d Proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gamercade Projects/(Untitled) Mecha Fighting Game.md"
+                "file": "Gamercade Proposals/3d Proposal.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "c3d3383d5a076f31",
   "lastOpenFiles": [
-    "Gamercade Projects/Launch Projects.md",
     "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
+    "Gamercade Projects/Launch Projects.md",
     "Gamercade Proposals/3d Proposal.md",
     "Bad Luck Prevention.md",
     "How to Design.md",
