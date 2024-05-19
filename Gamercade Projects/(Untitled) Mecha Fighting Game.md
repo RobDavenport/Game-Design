@@ -22,7 +22,7 @@ Boost Shift: Defensive. Escape pressure with an invulnerable burst of movement i
 **Combat System:**
 ABCS represent attack buttons. Directional inputs plus these buttons may result in different attacks. The combo system is based around links, special cancels, the boost system, and super cancels.
 
-**Attack Types**
+**Attack Properties**
 Attacks have three different "height" properties to define how they must be guarded against:
 mid, low, and high.
 
