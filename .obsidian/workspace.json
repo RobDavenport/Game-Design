@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
+                "file": "Projects/Roguelike Tile FPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
+                "file": "Projects/Roguelike Tile FPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
+                "file": "Projects/Roguelike Tile FPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gamercade Projects/(Untitled) Mecha Fighting Game.md"
+                "file": "Projects/Roguelike Tile FPS.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "c3d3383d5a076f31",
   "lastOpenFiles": [
-    "Gamercade Proposals/3d Proposal.md",
+    "Projects/Roguelike Fantasy Breakout.md",
+    "Projects/Roguelike Tile FPS.md",
+    "Untitled.canvas",
     "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
+    "Projects",
+    "Gamercade Proposals/3d Proposal.md",
     "Gamercade Projects/Launch Projects.md",
     "Bad Luck Prevention.md",
     "How to Design.md",
@@ -161,7 +165,6 @@
     "Favorite Mechanics/Drafting.md",
     "Gamercade Proposals/Post Processing Shaders.md",
     "3d.md",
-    "Untitled.canvas",
     "Gamercade Proposals",
     "Gamercade Projects",
     "Favorite Mechanics",
@@ -177,7 +180,6 @@
     "Important Considerations/Depth vs Complexity.md",
     "LICENSE",
     "PvP Design Issues.md",
-    "Progression Systems/Important Considerations.md",
     "Important Considerations",
     "Progression Systems",
     "Attachments",
