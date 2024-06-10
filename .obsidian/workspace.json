@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3862ff6f92ab02fe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3d3383d5a076f31",
+  "active": "3862ff6f92ab02fe",
   "lastOpenFiles": [
     "Projects/Roguelike Fantasy Breakout.md",
     "Projects/Roguelike Tile FPS.md",
