@@ -28,9 +28,32 @@
                 "currentVersion": "1.6.2"
               }
             }
+          },
+          {
+            "id": "6c6a660b7c78385c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1f8782496bdf3c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Roguelike Fantasy Breakout.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Roguelike Fantasy Breakout.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Roguelike Fantasy Breakout.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -157,8 +180,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5d4af5b0f6e2cb2",
+  "active": "d1f8782496bdf3c8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Projects/Roguelike Tile FPS.md",
     "Projects/Roguelike Fantasy Breakout.md",
     "Gamercade Proposals/3d Proposal.md",
@@ -189,7 +213,6 @@
     "Character Classes/Class Selection.md",
     "LICENSE",
     "PvP Design Issues.md",
-    "Progression Systems/Important Considerations.md",
     "Important Considerations",
     "Progression Systems",
     "Attachments",
