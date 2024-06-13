@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "0f746ecac5fbc2cf",
+        "id": "304b8e4edbc5d690",
         "type": "tabs",
         "children": [
           {
-            "id": "c3d3383d5a076f31",
+            "id": "0bec224dd0c86a52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Roguelike Tile FPS.md",
+                "file": "Projects/Roguelike Fantasy Breakout.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5d4af5b0f6e2cb2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Roguelike Tile FPS.md",
+                "file": "Projects/Roguelike Fantasy Breakout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Roguelike Tile FPS.md",
+                "file": "Projects/Roguelike Fantasy Breakout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Roguelike Tile FPS.md"
+                "file": "Projects/Roguelike Fantasy Breakout.md"
               }
             }
           }
@@ -146,28 +157,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3d3383d5a076f31",
+  "active": "f5d4af5b0f6e2cb2",
   "lastOpenFiles": [
-    "Projects/Roguelike Fantasy Breakout.md",
     "Projects/Roguelike Tile FPS.md",
-    "Untitled.canvas",
-    "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
-    "Projects",
+    "Projects/Roguelike Fantasy Breakout.md",
     "Gamercade Proposals/3d Proposal.md",
-    "Gamercade Projects/Launch Projects.md",
-    "Bad Luck Prevention.md",
-    "How to Design.md",
+    "Projects",
     "README.md",
+    "Gamercade Proposals/Post Processing Shaders.md",
+    "Gamercade Proposals",
+    "Gamercade Projects/Launch Projects.md",
+    "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
+    "Gamercade Projects",
     "Randomized Rewards.md",
-    "Character Classes/Class Selection.md",
-    "Character Classes/Character Roles.md",
     "Favorite Mechanics/Weighted Rock-Paper-Scissors.md",
     "Favorite Mechanics/Drafting.md",
-    "Gamercade Proposals/Post Processing Shaders.md",
-    "3d.md",
-    "Gamercade Proposals",
-    "Gamercade Projects",
     "Favorite Mechanics",
+    "Bad Luck Prevention.md",
+    "Character Classes/Character Roles.md",
+    "How to Design.md",
     "Progression Systems/Skill Trees.md",
     "Progression Systems/Horizontal Progression.md",
     "Progression Systems/Vertical Progression.md",
@@ -178,12 +186,15 @@
     "Important Considerations/Finality of Choices.md",
     "Important Considerations/Content Relevance.md",
     "Important Considerations/Depth vs Complexity.md",
+    "Character Classes/Class Selection.md",
     "LICENSE",
     "PvP Design Issues.md",
+    "Progression Systems/Important Considerations.md",
     "Important Considerations",
     "Progression Systems",
     "Attachments",
     "Character Class Systems/Horizontal Progression",
-    "Character Classes"
+    "Character Classes",
+    "Untitled.canvas"
   ]
 }
