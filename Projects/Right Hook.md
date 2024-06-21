@@ -1,1 +1,1 @@
-Melee FPS game where left mouse controls a grappling hook, and right click charges a powerful dash punch.
+Melee FPS game where one mouse button controls a grappling hook, and the other charges a powerful dash punch. Focused around freedom of movement and velocity.
