@@ -20,27 +20,31 @@
             }
           },
           {
-            "id": "def0c3cf4786e8c6",
+            "id": "9dfa1c90f380e2ae",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "Projects/Right Hook.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "3862ff6f92ab02fe",
+            "id": "6719a730af86480a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.2"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Roguelike Fantasy Breakout.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Roguelike Fantasy Breakout.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Roguelike Fantasy Breakout.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -167,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "def0c3cf4786e8c6",
+  "active": "6719a730af86480a",
   "lastOpenFiles": [
+    "Projects/Right Hook.md",
+    "conflict-files-obsidian-git.md",
     "Projects/Roguelike Tile FPS.md",
     "Projects/Roguelike Fantasy Breakout.md",
     "Untitled.canvas",
@@ -198,9 +204,7 @@
     "Important Considerations/Power Curve.md",
     "Important Considerations/Finality of Choices.md",
     "Important Considerations/Content Relevance.md",
-    "Important Considerations/Depth vs Complexity.md",
     "LICENSE",
-    "PvP Design Issues.md",
     "Important Considerations",
     "Progression Systems",
     "Attachments",
