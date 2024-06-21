@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Roguelike Tile FPS.md",
+                "file": "Projects/Roguelike Fantasy Breakout.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "def0c3cf4786e8c6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
               }
             }
           },
@@ -96,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Roguelike Tile FPS.md",
+                "file": "Projects/Roguelike Fantasy Breakout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Roguelike Tile FPS.md",
+                "file": "Projects/Roguelike Fantasy Breakout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Roguelike Tile FPS.md"
+                "file": "Projects/Roguelike Fantasy Breakout.md"
               }
             }
           }
@@ -157,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3862ff6f92ab02fe",
+  "active": "def0c3cf4786e8c6",
   "lastOpenFiles": [
-    "Projects/Roguelike Fantasy Breakout.md",
     "Projects/Roguelike Tile FPS.md",
+    "Projects/Roguelike Fantasy Breakout.md",
     "Untitled.canvas",
     "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
     "Projects",
