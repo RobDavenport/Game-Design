@@ -16,8 +16,21 @@
                 "currentVersion": "1.6.5"
               }
             }
+          },
+          {
+            "id": "4120d4a28ba64044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Starter Deck (Northern Performance) Feedback & Suggestions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Geometric Survivors.md",
+                "file": "Starter Deck (Northern Performance) Feedback & Suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Geometric Survivors.md",
+                "file": "Starter Deck (Northern Performance) Feedback & Suggestions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Geometric Survivors.md"
+                "file": "Starter Deck (Northern Performance) Feedback & Suggestions.md"
               }
             }
           }
@@ -144,8 +157,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d6e38d17542425d",
+  "active": "4120d4a28ba64044",
   "lastOpenFiles": [
+    "Starter Deck (Northern Performance) Feedback & Suggestions.md",
     "Projects/Right Hook.md",
     "Projects/Geometric Survivors.md",
     "conflict-files-obsidian-git.md",
@@ -176,7 +190,6 @@
     "Important Considerations/Readability.md",
     "Important Considerations/Randomness.md",
     "Important Considerations/Power Curve.md",
-    "Important Considerations/Finality of Choices.md",
     "LICENSE",
     "Important Considerations",
     "Progression Systems",
