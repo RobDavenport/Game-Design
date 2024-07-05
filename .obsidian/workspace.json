@@ -16,21 +16,8 @@
                 "currentVersion": "1.6.5"
               }
             }
-          },
-          {
-            "id": "4120d4a28ba64044",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Starter Deck (North Performance) Feedback & Suggestions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Starter Deck (North Performance) Feedback & Suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Starter Deck (North Performance) Feedback & Suggestions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Starter Deck (North Performance) Feedback & Suggestions.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,7 +140,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4120d4a28ba64044",
+  "active": "6d6e38d17542425d",
   "lastOpenFiles": [
     "Starter Deck (North Performance) Feedback & Suggestions.md",
     "Projects/Right Hook.md",
