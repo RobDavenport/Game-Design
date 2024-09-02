@@ -1,2 +1,4 @@
 High Level Concept
 A roguelike FPS where the level is built and expanded by the player as they progress. During the game, players are presented with a reward which can be placed into the level. Cards can be anything like additional rooms, enemy spawners, weapons, health and ammo pick ups, chests, etc. More difficult encounters result in better rewards.
+
+Setting:
