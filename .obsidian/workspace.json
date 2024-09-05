@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Right Hook.md",
+                "file": "Projects/Concept Stage/Right Hook.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Right Hook.md",
+                "file": "Projects/Concept Stage/Right Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Right Hook.md",
+                "file": "Projects/Concept Stage/Right Hook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Right Hook.md"
+                "file": "Projects/Concept Stage/Right Hook.md"
               }
             }
           }
@@ -148,17 +148,21 @@
   },
   "active": "23f8c4c048fb14bd",
   "lastOpenFiles": [
-    "Projects/Roguelike Tile FPS.md",
+    "Projects/Concept Stage/Geometric Survivors.md",
+    "Projects/Concept Stage/Right Hook.md",
+    "Projects/Concept Stage/Roguelike Tile FPS.md",
+    "Projects/Concept Stage/Roguelike Fantasy Breakout.md",
+    "Gamercade Projects/Launch Projects.md",
+    "Projects/Untitled",
+    "Projects/Production",
+    "Projects/Pre Production",
+    "Projects/Concept Stage",
     "Starter Deck (North Performance) Feedback & Suggestions.md",
-    "Projects/Right Hook.md",
-    "Projects/Geometric Survivors.md",
     "conflict-files-obsidian-git.md",
-    "Projects/Roguelike Fantasy Breakout.md",
     "Untitled.canvas",
     "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
     "Projects",
     "Gamercade Proposals/3d Proposal.md",
-    "Gamercade Projects/Launch Projects.md",
     "Bad Luck Prevention.md",
     "How to Design.md",
     "README.md",
@@ -178,12 +182,7 @@
     "Progression Systems/Equipment Progression.md",
     "Important Considerations/Readability.md",
     "Important Considerations/Randomness.md",
-    "Important Considerations/Power Curve.md",
     "LICENSE",
-    "Important Considerations",
-    "Progression Systems",
-    "Attachments",
-    "Character Class Systems/Horizontal Progression",
-    "Character Classes"
+    "Important Considerations"
   ]
 }
