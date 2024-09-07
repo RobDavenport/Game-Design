@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Concept Stage/Right Hook.md",
+                "file": "Projects/Concept/Right Hook.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Concept Stage/Right Hook.md",
+                "file": "Projects/Concept/Right Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Concept Stage/Right Hook.md",
+                "file": "Projects/Concept/Right Hook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Concept Stage/Right Hook.md"
+                "file": "Projects/Concept/Right Hook.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "23f8c4c048fb14bd",
   "lastOpenFiles": [
-    "Projects/Concept Stage/Geometric Survivors.md",
-    "Projects/Concept Stage/Right Hook.md",
-    "Projects/Concept Stage/Roguelike Tile FPS.md",
-    "Projects/Concept Stage/Roguelike Fantasy Breakout.md",
+    "Projects/Concept/Geometric Survivors.md",
+    "Projects/Concept/Right Hook.md",
+    "Projects/Concept/Roguelike Tile FPS.md",
+    "Projects/Concept/Roguelike Fantasy Breakout.md",
     "Gamercade Projects/Launch Projects.md",
     "Projects/Untitled",
     "Projects/Production",
     "Projects/Pre Production",
-    "Projects/Concept Stage",
+    "Projects/Concept",
     "Starter Deck (North Performance) Feedback & Suggestions.md",
     "conflict-files-obsidian-git.md",
     "Untitled.canvas",
