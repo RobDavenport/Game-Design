@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23f8c4c048fb14bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Concept/Right Hook.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "156c345b828ee69b",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9134b5c610b7f1a1",
@@ -147,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
