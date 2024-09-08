@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Market Analysis Notes.md",
+                "file": "Projects/Concept/Dice Based Roguelike.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9134b5c610b7f1a1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Market Analysis Notes.md",
+                "file": "Projects/Concept/Dice Based Roguelike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Market Analysis Notes.md",
+                "file": "Projects/Concept/Dice Based Roguelike.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Market Analysis Notes.md"
+                "file": "Projects/Concept/Dice Based Roguelike.md"
               }
             }
           }
@@ -150,8 +149,9 @@
   },
   "active": "156c345b828ee69b",
   "lastOpenFiles": [
-    "Projects/Concept/Right Hook.md",
     "Market Analysis Notes.md",
+    "Projects/Concept/Dice Based Roguelike.md",
+    "Projects/Concept/Right Hook.md",
     "Projects/Concept/Geometric Survivors.md",
     "Projects/Concept/Roguelike Tile FPS.md",
     "Projects/Concept/Roguelike Fantasy Breakout.md",
@@ -184,7 +184,6 @@
     "Progression Systems/Vertical Progression.md",
     "Progression Systems/Equipment Progression.md",
     "Important Considerations/Readability.md",
-    "Important Considerations/Randomness.md",
     "LICENSE",
     "Important Considerations"
   ]
