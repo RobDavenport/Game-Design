@@ -43,10 +43,10 @@ Phantom Dice X: Rolls an additional dX along side with it and uses the value
 Critical: A specific face could be deemed a crit (or upgraded). This would create some synergies for low-face dice since they could have a higher crit probability
 
 Alternate 1:
-No cards, just strict actions and dice can be allocated accordingly to attacking or blocking. Although this seems much less exciting, with less strategy.
+No cards, just strict actions and dice can be allocated accordingly to attacking or blocking. Card faces must be more unique with actual spells, effects on them, like:
+- Cleave effects
+- Deal Damage equal to your block
+This is closer to a true "roguelike dicebuilder" game
 
 Alternate 2:
-No block, just HP + damage. Cards have no cost, but dice can be used to "boost" the outcome, which are limited per use
-
-Alternate 3:
-All cards are "played" each turn, instead, players just allocate dice into the cards accordingly.
+All cards are "played" each turn, instead, players just allocate dice into the cards accordingly. Cards have "slots," including 0 slots sometimes, for dice to be inserted into to add special effects. Cards may or may not be activated based on the number of dice invested in them. Can have special attribute to cards for them to "activate" even without any dice slotted.
