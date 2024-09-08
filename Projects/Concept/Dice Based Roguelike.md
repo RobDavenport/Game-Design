@@ -47,3 +47,6 @@ No cards, just strict actions and dice can be allocated accordingly to attacking
 
 Alternate 2:
 No block, just HP + damage. Cards have no cost, but dice can be used to "boost" the outcome, which are limited per use
+
+Alternate 3:
+All cards are "played" each turn, instead, players just allocate dice into the cards accordingly.
