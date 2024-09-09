@@ -57,12 +57,12 @@ Potential Titles:
 - Events that temporarily modify dice for a single run could add unique twists, like turning all blank faces into critical hits.
 
 Potential Characters:
-1. ??: Warrior variant. Expends / creates dice
+1. Boneslinger: Gunslinger variant, balanced, gun/bullet mechanic
 2. Dice Mage: Mage variant. "Mana" resource which builds and spends. Ice themed abilities.
-3. Boneslinger: Gunslinger variant, bullet/gun mechanic
+3. Blockbreaker: Warrior variant. Balanced, Expends / creates / modifies dice
 4. Fatespinner: Crits, luck manipulation, setup, gambler 
 
-### **Story and Setting: Boneslingers**
+### **Story and Setting**
 
 In the arid wastelands of the frontier, where the sun scorches the earth and legends are born from dust, a new force has risen from the grave. The **Boneslingers**, once legendary heroes and villains of the Old West, have been resurrected by dark, arcane powers. No longer bound by the constraints of life, they now wield dice carved from the bones of the fallen, each roll determining their fate in the battle between life and death.
 
