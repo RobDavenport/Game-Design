@@ -1,4 +1,12 @@
 Roguelike Deckbuilder, but instead of cards, dice are used.
+
+Potential Titles:
+- Boneslingers
+- The Quick and the Undead
+- Tumblebones
+- Six-Sided-Shooters
+- Dead Roll Redemption
+- Snake Eyes & Skeletons
 ### **Core Mechanics**
 **Dice Pool Management**
 - Players collect different types of dice, each with unique faces representing various actions (damage, healing, blocking, etc.).
