@@ -59,8 +59,8 @@ Potential Titles:
 Potential Characters:
 1. ??: Warrior variant. Expends / creates dice
 2. Dice Mage: Mage variant. "Mana" resource which builds and spends. Ice themed abilities.
-3. Boneslinger: Gunslinger variant, "bullet/gun" mechanic
-4. Fatespinner: Crits, luck manipulation, "setup"
+3. Boneslinger: Gunslinger variant, bullet/gun mechanic
+4. Fatespinner: Crits, luck manipulation, setup, gambler 
 
 ### **Story and Setting: Boneslingers**
 
