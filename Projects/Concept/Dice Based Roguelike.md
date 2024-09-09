@@ -49,7 +49,7 @@ Potential Titles:
 **Dice Rewards and Unlocks**
 - After battles or events, players can **choose new dice** or **upgrades** for existing dice, offering a constant sense of progression.
 - Introduce **random events** where players can upgrade or mutate their dice (e.g., a shrine where you permanently turn a dice face into a healing effect but lose another face’s attack effect).
-**Shop / Merchant System**
+**Shop / Merchant System** (Dust Dealer)
 - Players can visit a shop between runs to **buy new dice**, pay to **reroll face upgrades**, or **purchase relics**, introducing more control over luck.
 - Selling unwanted dice can help manage the dice pool and clear out bad dice, similar to card removal.
 **Events / Shrines / Curses**
@@ -57,10 +57,10 @@ Potential Titles:
 - Events that temporarily modify dice for a single run could add unique twists, like turning all blank faces into critical hits.
 
 Potential Characters:
-1. Bone Crusher: Warrior variant. Expends / creates dice
-2. Dice Mage: Mage variant. "Mana" resource which builds and spends
+1. ??: Warrior variant. Expends / creates dice
+2. Dice Mage: Mage variant. "Mana" resource which builds and spends. Ice themed abilities.
 3. Boneslinger: Gunslinger variant, "bullet/gun" mechanic
-4. Fatespinner: Crits, luck manipulation
+4. Fatespinner: Crits, luck manipulation, "setup"
 
 ### **Story and Setting: Boneslingers**
 
