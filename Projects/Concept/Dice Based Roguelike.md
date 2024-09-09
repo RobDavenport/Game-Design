@@ -36,7 +36,7 @@ Potential Titles:
 - **Conditional Blocking:** Some blocks might be conditional (e.g., block + heal if two dice match a condition like both rolling shields).
 **Buffs and Debuffs**
 - Buff faces can apply **temporary effects** to the player, like increasing all future healing or damage for the next few turns.
-- Increase the effectivness of the next played dice by adding values or doubling.
+- Increase the effectiveness of the next played dice by adding values or doubling.
 - Debuffs apply status effects to enemies:
 	- **Weaken Enemies:** Lower their damage or defense.
 	- **Poison/Burn:** Apply damage over time.
