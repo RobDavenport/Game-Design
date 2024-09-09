@@ -58,7 +58,7 @@ Potential Titles:
 
 Potential Characters:
 Boneslinger: Gunslinger variant
-Bonespinner: Mage variant
+Dice Mage: Mage variant
 #### Example Cards
 Strike:
 Cost 1
