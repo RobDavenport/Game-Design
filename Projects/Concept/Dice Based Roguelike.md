@@ -57,10 +57,10 @@ Potential Titles:
 - Events that temporarily modify dice for a single run could add unique twists, like turning all blank faces into critical hits.
 
 Potential Characters:
-1. "Basic" balanced character
-2. Dice Mage: Mage variant. "Mana" resource which builds and spends
-3. Boneslinger: Gunslinger variant, "bullet" mechanic or crits
-4. ??
+1. 
+2. Bone Crusher: Warrior variant. Expends / creates dice
+3. Dice Mage: Mage variant. "Mana" resource which builds and spends
+4. Boneslinger: Gunslinger variant, "bullet" mechanic or crits
 
 
 ### **Story and Setting: Boneslingers**
