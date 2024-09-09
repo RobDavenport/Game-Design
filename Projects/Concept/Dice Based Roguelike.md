@@ -59,60 +59,27 @@ Potential Titles:
 Potential Characters:
 Boneslinger: Gunslinger variant
 Dice Mage: Mage variant
-#### Example Cards
-Strike:
-Cost 1
-Deals X damage
 
-Big Strike:
-Cost 2
-Deals X + Y damage
+### **Story and Setting: Boneslingers**
 
-Risky Strike:
-Cost 2
-Deals X damage Y times
+In the arid wastelands of the frontier, where the sun scorches the earth and legends are born from dust, a new force has risen from the grave. The **Boneslingers**, once legendary heroes and villains of the Old West, have been resurrected by dark, arcane powers. No longer bound by the constraints of life, they now wield dice carved from the bones of the fallen, each roll determining their fate in the battle between life and death.
 
-Block:
-Cost 1
-Gain X Block
+The player takes on the role of a newly awakened Boneslinger, a hero brought back to life by a powerful necromancer. These heroes come from various backgrounds—bounty hunters, sheriffs, outlaws, and more—all endowed with the necromancer's magic and equipped with bone dice that hold ancient and mysterious powers. Each dice roll becomes a decisive factor in duels, battles, and quests, allowing the player to harness the power of the dead to overcome challenges and adversaries.
 
-Big Block:
-Cost 2
-Gain X + Y Block
+### **Setting:**
 
-Risky Block:
-Cost 2
-Gain X block Y times
+**The Dustlands** – A sprawling, desolate frontier where the remnants of civilization are intertwined with the supernatural. Ghost towns, haunted mines, and spectral landscapes dominate the terrain. The land is both a graveyard and a battlefield, where the living and the dead coexist in a delicate balance. The Dustlands are filled with eerie, atmospheric locations that challenge the player to survive and thrive amidst the undead.
 
+**Grave Towns** – These spectral settlements act as hubs for the Boneslingers. They are populated by a mix of ghostly figures and other undead entities. Here, players can interact with NPCs, upgrade their dice, acquire new abilities, and undertake quests. Each town has its own unique charm and secrets, from haunted saloons to mystical shops run by the spirits of the old world.
 
-If the above cards have too high variance, consider something like "Deals 6 + 1d6 damage" instead.
+**The Necromancer’s Citadel** – At the heart of the Dustlands lies the Necromancer's stronghold, a foreboding fortress of bone and dark magic. The Necromancer is a mysterious and enigmatic figure who has brought the Boneslingers back to life, but whose true motives remain shrouded in mystery. The stronghold is both a source of power and a potential source of conflict, as players must navigate its dangers and uncover the truth behind their resurrection.
 
-#### Relics/Upgrades Examples:
-Replaces d6 with d8 (or d12, d20 whatever)
-Lowest/Highest Dice sides get +1
+**Rival Boneslingers** – Throughout the frontier, other resurrected heroes with their own agendas roam the land. These rivals might seek to challenge the player, forge alliances, or vie for control of the Dustlands. Encounters with these characters are frequent and varied, adding layers of intrigue and competition to the player's journey.
 
-Card gets + X 
-Dice "Size" Upgrade (d4, d6, d8, d10, d12, d20 )
-Dice "Face" Upgrades 
-Dice Face when rolled Gain 1 Block
-Dice Face when rolled Deal 1 Damage 
+### **Tone and Atmosphere:**
 
-#### Mechanics:
-Phantom Dice X: Rolls an additional dX along side with it and uses the value
-Critical: A specific face could be deemed a crit (or upgraded). This would create some synergies for low-face dice since they could have a higher crit probability
+Boneslingers blends a gritty, supernatural frontier with dark fantasy elements. The world is both haunting and adventurous, with a tone that balances eerie, mystical elements with moments of dark humor and high-stakes drama. Characters are not merely battling the forces of the dead but are also navigating a world where their own mortality is a constant factor.
 
-Alternate 1:
-No cards, just strict actions and dice can be allocated accordingly to attacking or blocking. Die faces must be more unique with actual spells, effects on them, like:
-- Cleave effects
-- Deal Damage equal to your block
-This is closer to a true "roguelike dicebuilder" game
+The gameplay involves mastering the use of bone dice to control the forces of fate, summon spirits, and influence the outcomes of conflicts. Each dice roll is both a chance and a challenge, reflecting the unpredictable nature of the world in which the Boneslingers live.
 
-Alternate 2:
-All cards are "played" each turn, instead, players just allocate dice into the cards accordingly. Cards have "slots," including 0 slots sometimes, for dice to be inserted into to add special effects. Cards may or may not be activated based on the number of dice invested in them. Can have special attribute to cards for them to "activate" even without any dice slotted.
-
-Alternate 3:
-Dice instead of cards:  
-  
-1. Dice themselves can be preset named objects, like cards would be, and added to the dice bag. Something like a d6, but with one 3 damage side, two 2 damage sides, and three 1 damage sides, or a block dice, or a hybrid dice which could do either. A d4 with an effect like (draw 1 card, with 1 side being draw 2). Dice, like cards, can have rarity, be upgraded and modified. Player will draw 5 dice per turn and can roll 3.
-  
-2. Dice are objects instead of cards, and could have a cost/something associated with them in order to roll. Either mana cost unique to each die, or a flat number of dice available to roll per turn.
+In this world, survival and success depend on harnessing the power of the dead, making strategic use of the mystical dice, and uncovering the mysteries of the Dustlands. Players will experience a blend of combat, exploration, and story, all driven by the enigmatic and supernatural elements of their necromantic powers.
