@@ -57,9 +57,9 @@ Potential Titles:
 - Events that temporarily modify dice for a single run could add unique twists, like turning all blank faces into critical hits.
 
 Potential Characters:
-1. Boneslinger: Gunslinger variant, balanced, gun/bullet mechanic
-2. Dice Mage: Mage variant. "Mana" resource which builds and spends. Ice themed abilities.
-3. Facebreaker: Warrior variant. Balanced, Expends / creates / modifies dice
+1. Faceshaper: Warrior variant. Balanced, Expends / creates / modifies dice
+2. Boneslinger: Gunslinger variant, balanced, gun/bullet mechanic
+3. Dice Mage: Mage variant. "Mana" resource which builds and spends. Ice themed abilities.
 4. Edgeroller: Crits, luck manipulation, setup, gambler 
 
 ### **Story and Setting**
@@ -72,16 +72,16 @@ The player takes on the role of a newly awakened hero brought back to life by a 
 
 **The Dustlands** – A sprawling, desolate frontier where the remnants of civilization are intertwined with the supernatural. Ghost towns, haunted mines, and spectral landscapes dominate the terrain. The land is both a graveyard and a battlefield, where the living and the dead coexist in a delicate balance. The Dustlands are filled with eerie, atmospheric locations that challenge the player to survive and thrive amidst the undead.
 
-**Grave Towns** – These spectral settlements act as hubs for the Boneslingers. They are populated by a mix of ghostly figures and other undead entities. Here, players can interact with NPCs, upgrade their dice, acquire new abilities, and undertake quests. Each town has its own unique charm and secrets, from haunted saloons to mystical shops run by the spirits of the old world.
+**Grave Towns** – These spectral settlements act as hubs for the Player. They are populated by a mix of ghostly figures and other undead entities. Here, players can interact with NPCs, upgrade their dice, acquire new abilities, and undertake quests. Each town has its own unique charm and secrets, from haunted saloons to mystical shops run by the spirits of the old world.
 
-**The Necromancer’s Citadel** – At the heart of the Dustlands lies the Necromancer's stronghold, a foreboding fortress of bone and dark magic. The Necromancer is a mysterious and enigmatic figure who has brought the Boneslingers back to life, but whose true motives remain shrouded in mystery. The stronghold is both a source of power and a potential source of conflict, as players must navigate its dangers and uncover the truth behind their resurrection.
+**The Necromancer’s Citadel** – At the heart of the Dustlands lies the Necromancer's stronghold, a foreboding fortress of bone and dark magic. The Necromancer is a mysterious and enigmatic figure who has brought the players back to life, but whose true motives remain shrouded in mystery. The stronghold is both a source of power and a potential source of conflict, as players must navigate its dangers and uncover the truth behind their resurrection.
 
 **Rivals** – Throughout the frontier, other resurrected heroes with their own agendas roam the land. These rivals might seek to challenge the player, forge alliances, or vie for control of the Dustlands. Encounters with these characters are frequent and varied, adding layers of intrigue and competition to the player's journey.
 
 ### **Tone and Atmosphere:**
 
-Boneslingers blends a gritty, supernatural frontier with dark fantasy elements. The world is both haunting and adventurous, with a tone that balances eerie, mystical elements with moments of dark humor and high-stakes drama. Characters are not merely battling the forces of the dead but are also navigating a world where their own mortality is a constant factor.
+Tumblebones blends a western frontier with fantasy elements. The world is both haunting and adventurous, with a tone that balances vmystical elements with moments of humor and high-stakes drama.
 
-The gameplay involves mastering the use of bone dice to control the forces of fate, summon spirits, and influence the outcomes of conflicts. Each dice roll is both a chance and a challenge, reflecting the unpredictable nature of the world in which the Boneslingers live.
+The gameplay involves mastering the use of dice to influence the outcomes of conflicts. Each dice roll is both a chance and a challenge, reflecting the unpredictable nature of the world in which the players live.
 
 In this world, survival and success depend on harnessing the power of the dead, making strategic use of the mystical dice, and uncovering the mysteries of the Dustlands. Players will experience a blend of combat, exploration, and story, all driven by the enigmatic and supernatural elements of their necromantic powers.
