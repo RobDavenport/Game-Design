@@ -59,9 +59,8 @@ Potential Titles:
 Potential Characters:
 1. Bone Crusher: Warrior variant. Expends / creates dice
 2. Dice Mage: Mage variant. "Mana" resource which builds and spends
-3. Boneslinger (Rib Ranger): Gunslinger variant, "bullet/Gun" mechanic
+3. Boneslinger: Gunslinger variant, "bullet/gun" mechanic
 4. Fatespinner: Crits, luck manipulation
-
 
 ### **Story and Setting: Boneslingers**
 
