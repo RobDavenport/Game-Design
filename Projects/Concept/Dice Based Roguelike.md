@@ -55,6 +55,10 @@ Potential Titles:
 **Events / Shrines / Curses**
 - Special events that allow dice modification or face rerolling, but with a cost (e.g., **curses** that replace one face of a die with a negative effect like "lose HP").
 - Events that temporarily modify dice for a single run could add unique twists, like turning all blank faces into critical hits.
+
+Potential Characters:
+Boneslinger: Gunslinger variant
+Bonespinner: Mage variant
 #### Example Cards
 Strike:
 Cost 1

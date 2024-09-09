@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9134b5c610b7f1a1",
@@ -150,6 +149,7 @@
   },
   "active": "156c345b828ee69b",
   "lastOpenFiles": [
+    "Untitled.md",
     "Projects/Concept/Dice Based Roguelike.md",
     "Market Analysis Notes.md",
     "Projects/Concept/Right Hook.md",
@@ -184,7 +184,6 @@
     "Progression Systems/Horizontal Progression.md",
     "Progression Systems/Vertical Progression.md",
     "Progression Systems/Equipment Progression.md",
-    "Important Considerations/Readability.md",
     "LICENSE",
     "Important Considerations"
   ]
