@@ -46,7 +46,7 @@ Potential Titles:
 	- **Dice Synergy:** Rolling a heal, block, and damage dice together might trigger a “balanced” combo, where you deal damage and gain health.
 	- **Face Alignment:** Rolling three of the same face (like three shields) might give a bonus effect (e.g., gain extra block).
 ### **Progression Mechanics**
-**Dice Rewards and Unlocks**
+**Dice Rewards and Unlocks** (Boneforge)
 - After battles or events, players can **choose new dice** or **upgrades** for existing dice, offering a constant sense of progression.
 - Introduce **random events** where players can upgrade or mutate their dice (e.g., a shrine where you permanently turn a dice face into a healing effect but lose another face’s attack effect).
 **Shop / Merchant System** (Dust Dealer)
@@ -64,9 +64,9 @@ Potential Characters:
 
 ### **Story and Setting**
 
-In the arid wastelands of the frontier, where the sun scorches the earth and legends are born from dust, a new force has risen from the grave. The **Boneslingers**, once legendary heroes and villains of the Old West, have been resurrected by dark, arcane powers. No longer bound by the constraints of life, they now wield dice carved from the bones of the fallen, each roll determining their fate in the battle between life and death.
+In the arid wastelands of the frontier, where the sun scorches the earth and legends are born from dust, a new force has risen from the grave. Once legendary heroes and villains of the Old West, have been resurrected by dark, arcane powers. No longer bound by the constraints of life, they now wield dice carved from the bones of the fallen, each roll determining their fate in the battle between life and death.
 
-The player takes on the role of a newly awakened Boneslinger, a hero brought back to life by a powerful necromancer. These heroes come from various backgrounds—bounty hunters, sheriffs, outlaws, and more—all endowed with the necromancer's magic and equipped with bone dice that hold ancient and mysterious powers. Each dice roll becomes a decisive factor in duels, battles, and quests, allowing the player to harness the power of the dead to overcome challenges and adversaries.
+The player takes on the role of a newly awakened hero brought back to life by a powerful necromancer. These heroes come from various backgrounds, endowed with the necromancer's magic and equipped with bone dice that hold ancient and mysterious powers. Each dice roll becomes a decisive factor in duels, battles, and quests, allowing the player to harness the power of the dead to overcome challenges and adversaries.
 
 ### **Setting:**
 
@@ -76,7 +76,7 @@ The player takes on the role of a newly awakened Boneslinger, a hero brought bac
 
 **The Necromancer’s Citadel** – At the heart of the Dustlands lies the Necromancer's stronghold, a foreboding fortress of bone and dark magic. The Necromancer is a mysterious and enigmatic figure who has brought the Boneslingers back to life, but whose true motives remain shrouded in mystery. The stronghold is both a source of power and a potential source of conflict, as players must navigate its dangers and uncover the truth behind their resurrection.
 
-**Rival Boneslingers** – Throughout the frontier, other resurrected heroes with their own agendas roam the land. These rivals might seek to challenge the player, forge alliances, or vie for control of the Dustlands. Encounters with these characters are frequent and varied, adding layers of intrigue and competition to the player's journey.
+**Rivals** – Throughout the frontier, other resurrected heroes with their own agendas roam the land. These rivals might seek to challenge the player, forge alliances, or vie for control of the Dustlands. Encounters with these characters are frequent and varied, adding layers of intrigue and competition to the player's journey.
 
 ### **Tone and Atmosphere:**
 
