@@ -43,7 +43,7 @@ Phantom Dice X: Rolls an additional dX along side with it and uses the value
 Critical: A specific face could be deemed a crit (or upgraded). This would create some synergies for low-face dice since they could have a higher crit probability
 
 Alternate 1:
-No cards, just strict actions and dice can be allocated accordingly to attacking or blocking. Card faces must be more unique with actual spells, effects on them, like:
+No cards, just strict actions and dice can be allocated accordingly to attacking or blocking. Die faces must be more unique with actual spells, effects on them, like:
 - Cleave effects
 - Deal Damage equal to your block
 This is closer to a true "roguelike dicebuilder" game
@@ -54,6 +54,6 @@ All cards are "played" each turn, instead, players just allocate dice into the c
 Alternate 3:
 Dice instead of cards:  
   
-1. Dice themselves can be preset objects, like cards and added to the dice bag. Something like a d6, but with one 3 damage side, two 2 damage sides, and three 1 damage sides, or a block dice, or a hybrid dice which could do either. Dice, like cards, can have rarity, be upgraded and modified. Player will draw 5 dice per turn and can roll 3.
+1. Dice themselves can be preset named objects, like cards would be, and added to the dice bag. Something like a d6, but with one 3 damage side, two 2 damage sides, and three 1 damage sides, or a block dice, or a hybrid dice which could do either. A d4 with an effect like (draw 1 card, with 1 side being draw 2). Dice, like cards, can have rarity, be upgraded and modified. Player will draw 5 dice per turn and can roll 3.
   
 2. Dice are objects instead of cards, and could have a cost/something associated with them in order to roll. Either mana cost unique to each die, or a flat number of dice available to roll per turn.
