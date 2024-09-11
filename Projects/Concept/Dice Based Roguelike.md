@@ -85,3 +85,13 @@ Tumblebones blends a western frontier with fantasy elements. The world is both h
 The gameplay involves mastering the use of dice to influence the outcomes of conflicts. Each dice roll is both a chance and a challenge, reflecting the unpredictable nature of the world in which the players live.
 
 In this world, survival and success depend on harnessing the power of the dead, making strategic use of the mystical dice, and uncovering the mysteries of the Dustlands. Players will experience a blend of combat, exploration, and story, all driven by the enigmatic and supernatural elements of their necromantic powers.
+
+Notes:
+Dice Upgrade Ideas:
+- All Single target faces now hit all targets
+	- Could be enemies only, or could include hitting self with attacks
+Face Upgrade Ideas:
+- Convert Single Target face to AoE
+- Increase Value
+- Add X block
+- Add "Cantrip"
