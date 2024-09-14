@@ -7,6 +7,7 @@ Potential Titles:
 - Six-Sided-Shooters
 - Dead Roll Redemption
 - Snake Eyes & Skeletons
+- Rolling in Graves (or some variant)
 ### **Core Mechanics**
 **Dice Pool Management**
 - Players collect different types of dice, each with unique faces representing various actions (damage, healing, blocking, etc.).
