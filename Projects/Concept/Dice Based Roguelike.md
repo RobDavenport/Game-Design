@@ -58,8 +58,8 @@ Potential Titles:
 - Events that temporarily modify dice for a single run could add unique twists, like turning all blank faces into critical hits.
 
 Potential Characters:
-1. Faceshaper: Warrior variant. Balanced, Expends / creates / modifies dice
-2. Boneslinger: Gunslinger variant, balanced, gun/bullet mechanic
+1. Facepounder: Warrior variant. Balanced, Expends / creates / modifies dice
+2. Boneslinger: Gunslinger variant, tricky, gun/bullet mechanic
 3. Dice Mage: Mage variant. "Mana" resource which builds and spends. Ice themed abilities.
 4. Edgeroller: Crits, luck manipulation, setup, gambler 
 
