@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Concept/Dice Based Roguelike.md",
+                "file": "Projects/Pre Production/Dice Based Roguelike.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9134b5c610b7f1a1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Concept/Dice Based Roguelike.md",
+                "file": "Projects/Pre Production/Dice Based Roguelike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Concept/Dice Based Roguelike.md",
+                "file": "Projects/Pre Production/Dice Based Roguelike.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Concept/Dice Based Roguelike.md"
+                "file": "Projects/Pre Production/Dice Based Roguelike.md"
               }
             }
           }
@@ -148,15 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "156c345b828ee69b",
+  "active": "f0c72d8082ed19ae",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Projects/Concept/Dice Based Roguelike.md",
-    "Market Analysis Notes.md",
-    "Projects/Concept/Right Hook.md",
-    "Projects/Concept/Geometric Survivors.md",
+    "Projects/Concept/Fantasy RTS (RTT) Dungeon Game.md",
+    "Projects/Pre Production/Dice Based Roguelike.md",
     "Projects/Concept/Roguelike Tile FPS.md",
     "Projects/Concept/Roguelike Fantasy Breakout.md",
+    "Projects/Concept/Right Hook.md",
+    "Projects/Concept/Geometric Survivors.md",
+    "Untitled.md",
+    "Market Analysis Notes.md",
     "Gamercade Projects/Launch Projects.md",
     "Projects/Untitled",
     "Projects/Production",
@@ -184,7 +184,6 @@
     "Progression Systems/Skill Trees.md",
     "Progression Systems/Horizontal Progression.md",
     "Progression Systems/Vertical Progression.md",
-    "Progression Systems/Equipment Progression.md",
     "LICENSE",
     "Important Considerations"
   ]
