@@ -50,6 +50,12 @@ Potential Titles:
 **Dice Rewards and Unlocks** (Boneforge)
 - After battles or events, players can **choose new dice** or **upgrades** for existing dice, offering a constant sense of progression.
 - Introduce **random events** where players can upgrade or mutate their dice (e.g., a shrine where you permanently turn a dice face into a healing effect but lose another face’s attack effect).
+- Dice themselves can be upgraded in the following ways:
+	- Upgrade Face
+		- Individual Dice faces may be upgraded
+	- Upgrade Dice Frame
+		- The frame of the dice can be upgraded to provide some kind of benefit
+	- Up
 **Shop / Merchant System** (Dust Dealer)
 - Players can visit a shop between runs to **buy new dice**, pay to **reroll face upgrades**, or **purchase relics**, introducing more control over luck.
 - Selling unwanted dice can help manage the dice pool and clear out bad dice, similar to card removal.
