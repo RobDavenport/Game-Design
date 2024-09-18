@@ -100,5 +100,11 @@ Dice Upgrade Ideas:
 Face Upgrade Ideas:
 - Convert Single Target face to AoE
 - Increase Value
-- Add X block
+- Add X block, Attack, Area Attack
+- Add Pips
+	- Damage pips on use
+	- Block pips on use
 - Add "Cantrip"
+Face Ideas:
+- Activate all rolled attacks
+- Activate all faces of die
