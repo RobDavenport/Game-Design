@@ -108,3 +108,7 @@ Face Upgrade Ideas:
 Face Ideas:
 - Activate all rolled attacks
 - Activate all faces of die
+Face Passive Ideas:
+- Rerolls automatically if not used
+- Can't be rerolled
+- Activates on roll
