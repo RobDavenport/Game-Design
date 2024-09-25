@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Concept/Island-In-A-Jar.md",
+                "file": "Projects/Pre Production/Dice Based Roguelike.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Concept/Island-In-A-Jar.md",
+                "file": "Projects/Pre Production/Dice Based Roguelike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Concept/Island-In-A-Jar.md",
+                "file": "Projects/Pre Production/Dice Based Roguelike.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Concept/Island-In-A-Jar.md"
+                "file": "Projects/Pre Production/Dice Based Roguelike.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "156c345b828ee69b",
   "lastOpenFiles": [
-    "Projects/Pre Production/Dice Based Roguelike.md",
+    "Projects/Concept/Wrecking Ball Survivorslike.md",
     "Projects/Concept/Island-In-A-Jar.md",
+    "Projects/Pre Production/Dice Based Roguelike.md",
     "Projects/Concept/Fantasy RTS (RTT) Dungeon Game.md",
     "Projects/Concept/Roguelike Tile FPS.md",
     "Projects/Concept/Roguelike Fantasy Breakout.md",
@@ -183,7 +184,6 @@
     "Gamercade Projects",
     "Favorite Mechanics",
     "Progression Systems/Skill Trees.md",
-    "Progression Systems/Horizontal Progression.md",
     "LICENSE",
     "Important Considerations"
   ]
