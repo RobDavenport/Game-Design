@@ -112,3 +112,13 @@ Face Passive Ideas:
 - Rerolls automatically if not used
 - Can't be rerolled
 - Activates on roll
+
+### Map Screen
+Typical roguelike map progression. 
+
+Possible Nodes:
+- Normal Enemy
+- Elite Enemy
+- Event
+- Shop
+- Trinket
