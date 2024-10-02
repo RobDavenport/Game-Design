@@ -137,3 +137,9 @@ Mechanics:
 Dice Mage:
 Mechanics:
 - Mana -> Buildable resource which is expended by other faces
+
+Edgeroller:
+
+Trinket:
+Mechanics:
+- "Matching Faces" -> special effects when rolling same or synced faces
