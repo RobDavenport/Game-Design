@@ -128,6 +128,12 @@ Possible Nodes:
 
 Character Design Notes
 Face Pounder:
+Starting Trinket: 
+Heavy Glove: Unspent rerolls deal X damage to all enemies at end of turn.
 Mechanics:
 - Pound X -> Reroll X dice instantly
 - Momentum -> 
+
+Dice Mage:
+Mechanics:
+- Mana -> Buildable resource which is expended by other faces
