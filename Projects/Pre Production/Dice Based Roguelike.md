@@ -112,6 +112,8 @@ Face Passive Ideas:
 - Rerolls automatically if not used
 - Can't be rerolled
 - Activates on roll
+-Trinket Ideas:
+- Salt Shaker: Deals X damage to a random enemy (all enemies) whenever a die is rerolled
 
 ### Map Screen
 Typical roguelike map progression. 
