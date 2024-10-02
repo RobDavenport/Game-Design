@@ -108,6 +108,7 @@ Face Upgrade Ideas:
 Face Ideas:
 - Activate all rolled attacks
 - Activate all faces of die
+- Shatter a dice from combat but activate all of their effects immediately
 Face Passive Ideas:
 - Rerolls automatically if not used
 - Can't be rerolled
@@ -124,3 +125,9 @@ Possible Nodes:
 - Event
 - Shop
 - Trinket
+
+Character Design Notes
+Face Pounder:
+Mechanics:
+- Pound X -> Reroll X dice instantly
+- Momentum -> 
