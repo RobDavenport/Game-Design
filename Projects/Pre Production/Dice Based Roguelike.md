@@ -126,13 +126,24 @@ Possible Nodes:
 - Shop
 - Trinket
 
-Character Design Notes
-Face Pounder:
-Starting Trinket: 
-Heavy Glove: Unspent rerolls deal X damage to all enemies at end of turn.
-Mechanics:
+Fragile - Can only be used once before shattering
+Shatter - Face is temporarily removed 
+
+**Character Design Notes**
+**Face Pounder:**
+**Starting Trinket:** 
+- Heavy Glove
+	- Unspent rerolls deal X damage to all enemies at end of turn.
+**Gameplay**
+Core Mechanics:
 - Pound X -> Reroll X dice instantly
-- Momentum -> 
+- Shattered / Fragile Faces -> Cards which shatter faces, scale off of shattered faces, or reforge shattered faces
+- 
+
+Gameplay Style:
+- Built around generally useful faces with high value. 
+- Simple and straightforward effects for cost. 
+- Powerful one-time uses or tempo faces that shatter
 
 Dice Mage:
 Mechanics:
