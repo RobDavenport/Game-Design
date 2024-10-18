@@ -26,3 +26,4 @@ Upgrade Parts (3 per manufacturer)
 
 Total Mesh needs:
 45 Sponsor Parts
+5 Starting Parts
