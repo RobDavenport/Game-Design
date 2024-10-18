@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8d620c500c379838",
+        "id": "ac88c6071228825f",
         "type": "tabs",
         "children": [
           {
-            "id": "156c345b828ee69b",
+            "id": "9edd46959380b1b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Concept/Island-In-A-Jar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d5b18eac3bc8db8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Concept/2v2 Mech Fighter.md",
+                "file": "Projects/Concept/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Concept/2v2 Mech Fighter.md",
+                "file": "Projects/Concept/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Concept/2v2 Mech Fighter.md",
+                "file": "Projects/Concept/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Concept/2v2 Mech Fighter.md"
+                "file": "Projects/Concept/Untitled.md"
               }
             }
           }
@@ -160,15 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d5b18eac3bc8db8",
+  "active": "9edd46959380b1b6",
   "lastOpenFiles": [
-    "Projects/Pre Production/Dice Based Roguelike.md",
+    "Projects/Concept/Untitled.md",
+    "Projects/Concept/Island-In-A-Jar.md",
     "Projects/Concept/2v2 Mech Fighter.md",
+    "Projects/Pre Production/Dice Based Roguelike.md",
     "Projects/Concept/Wrecking Ball Survivorslike.md",
     "Projects/Concept/Roguelike Tile FPS.md",
     "Projects/Concept/Roguelike Fantasy Breakout.md",
     "Projects/Concept/Right Hook.md",
-    "Projects/Concept/Island-In-A-Jar.md",
     "Projects/Concept/Geometric Survivors.md",
     "Projects/Concept/Fantasy RTS (RTT) Dungeon Game.md",
     "Untitled.md",
@@ -193,7 +181,6 @@
     "Favorite Mechanics/Weighted Rock-Paper-Scissors.md",
     "Favorite Mechanics/Drafting.md",
     "Gamercade Proposals/Post Processing Shaders.md",
-    "3d.md",
     "Gamercade Proposals",
     "Gamercade Projects",
     "Favorite Mechanics",
