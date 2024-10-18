@@ -1,0 +1,1 @@
+Isometric Arena fighter. Think Samurai Gun meets Gundam VS. Arcade style controls. Single screen with arcade style movement, such as an 8way run, and 

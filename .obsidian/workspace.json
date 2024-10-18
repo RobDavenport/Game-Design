@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Pre Production/Dice Based Roguelike.md",
+                "file": "Projects/Concept/2v2 Mech Fighter.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Pre Production/Dice Based Roguelike.md",
+                "file": "Projects/Concept/2v2 Mech Fighter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Pre Production/Dice Based Roguelike.md",
+                "file": "Projects/Concept/2v2 Mech Fighter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Pre Production/Dice Based Roguelike.md"
+                "file": "Projects/Concept/2v2 Mech Fighter.md"
               }
             }
           }
@@ -162,14 +162,15 @@
   },
   "active": "5d5b18eac3bc8db8",
   "lastOpenFiles": [
-    "Projects/Concept/Right Hook.md",
-    "Projects/Concept/Fantasy RTS (RTT) Dungeon Game.md",
     "Projects/Pre Production/Dice Based Roguelike.md",
-    "Projects/Concept/Island-In-A-Jar.md",
+    "Projects/Concept/2v2 Mech Fighter.md",
     "Projects/Concept/Wrecking Ball Survivorslike.md",
-    "Projects/Concept/Roguelike Fantasy Breakout.md",
     "Projects/Concept/Roguelike Tile FPS.md",
+    "Projects/Concept/Roguelike Fantasy Breakout.md",
+    "Projects/Concept/Right Hook.md",
+    "Projects/Concept/Island-In-A-Jar.md",
     "Projects/Concept/Geometric Survivors.md",
+    "Projects/Concept/Fantasy RTS (RTT) Dungeon Game.md",
     "Untitled.md",
     "Market Analysis Notes.md",
     "Gamercade Projects/Launch Projects.md",
@@ -196,7 +197,6 @@
     "Gamercade Proposals",
     "Gamercade Projects",
     "Favorite Mechanics",
-    "Progression Systems/Skill Trees.md",
     "LICENSE",
     "Important Considerations"
   ]
