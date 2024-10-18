@@ -6,3 +6,11 @@ Player is an engineer and pilot for a struggling mech developer. They need to va
 Hades-Like upgrade system:
 Gain sponsorship ranking after each battle, which adds upgrades to the possible upgrade menu. Players can only accumulate a limited number of sponsors
 
+10 Total Slots per Mech
+
+1. Core
+2. Sensor
+3. Arms
+4. Legs
+5. Weapon L
+6. Weapon R
