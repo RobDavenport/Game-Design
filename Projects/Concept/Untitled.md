@@ -3,3 +3,6 @@
 Plot:
 Player is an engineer and pilot for a struggling mech developer. They need to validate their latest creation and gain sponsorships to survive in the difficult market.
 
+Hades-Like upgrade system:
+Gain sponsorship ranking after each battle, which adds upgrades to the possible upgrade menu. Players can only accumulate a limited number of sponsors
+
