@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Concept/Mech Gladiator Wave Game.md",
+                "file": "Projects/Production/Mech Gladiator Wave Game.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Mech Gladiator Wave Game"
+            }
+          },
+          {
+            "id": "f6dc37dbb4d40680",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Concept/Mech Gladiator Wave Game.md",
+                "file": "Projects/Production/Mech Gladiator Wave Game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mech Gladiator Wave Game"
             }
           },
           {
@@ -102,10 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Concept/Mech Gladiator Wave Game.md",
+                "file": "Projects/Production/Mech Gladiator Wave Game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mech Gladiator Wave Game"
             }
           },
           {
@@ -116,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Concept/Mech Gladiator Wave Game.md"
-              }
+                "file": "Projects/Production/Mech Gladiator Wave Game.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mech Gladiator Wave Game"
             }
           }
         ],
@@ -147,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9edd46959380b1b6",
+  "active": "f6dc37dbb4d40680",
   "lastOpenFiles": [
     "Projects/Concept/Roguelike Tile FPS.md",
     "Projects/Concept/Roguelike Fantasy Breakout.md",
@@ -156,7 +185,7 @@
     "Projects/Concept/Geometric Survivors.md",
     "Projects/Concept/Fantasy RTS (RTT) Dungeon Game.md",
     "Projects/Concept/2v2 Mech Fighter.md",
-    "Projects/Concept/Mech Gladiator Wave Game.md",
+    "Projects/Production/Mech Gladiator Wave Game.md",
     "Projects/Pre Production/Dice Based Roguelike.md",
     "Projects/Concept/Wrecking Ball Survivorslike.md",
     "Untitled.md",
