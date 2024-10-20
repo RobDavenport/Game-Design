@@ -25,12 +25,14 @@
             "id": "f6dc37dbb4d40680",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "Projects/Ideas & Inspiration/Mechs.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Mechs"
             }
           }
         ],
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Production/Mech Gladiator Wave Game.md",
+                "file": "Projects/Ideas & Inspiration/Mechs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mech Gladiator Wave Game"
+              "title": "Backlinks for Mechs"
             }
           },
           {
@@ -125,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Production/Mech Gladiator Wave Game.md",
+                "file": "Projects/Ideas & Inspiration/Mechs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mech Gladiator Wave Game"
+              "title": "Outgoing links from Mechs"
             }
           },
           {
@@ -152,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Production/Mech Gladiator Wave Game.md"
+                "file": "Projects/Ideas & Inspiration/Mechs.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Mech Gladiator Wave Game"
+              "title": "Outline of Mechs"
             }
           }
         ],
@@ -178,6 +180,8 @@
   },
   "active": "f6dc37dbb4d40680",
   "lastOpenFiles": [
+    "Projects/Ideas & Inspiration/Mechs.md",
+    "Projects/Ideas & Inspiration",
     "Projects/Concept/Roguelike Tile FPS.md",
     "Projects/Concept/Roguelike Fantasy Breakout.md",
     "Projects/Concept/Right Hook.md",
@@ -191,7 +195,6 @@
     "Untitled.md",
     "Market Analysis Notes.md",
     "Gamercade Projects/Launch Projects.md",
-    "Projects/Untitled",
     "Projects/Production",
     "Projects/Pre Production",
     "Projects/Concept",
@@ -209,7 +212,6 @@
     "Character Classes/Character Roles.md",
     "Favorite Mechanics/Weighted Rock-Paper-Scissors.md",
     "Favorite Mechanics/Drafting.md",
-    "Gamercade Proposals/Post Processing Shaders.md",
     "Gamercade Proposals",
     "Gamercade Projects",
     "Favorite Mechanics",
