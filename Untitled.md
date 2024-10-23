@@ -8,4 +8,4 @@ Company:
 
 Interviewer:
 1. What made you want to start up your own venture?
-2. 
+2. What drew you to finance (and crypto) in the first place?
