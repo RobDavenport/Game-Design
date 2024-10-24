@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Ideas & Inspiration/Mechs.md",
+                "file": "Gamercade Proposals/3d Proposal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechs"
+              "title": "3d Proposal"
             }
           }
         ],
@@ -194,8 +194,9 @@
   },
   "active": "3dd5cbaf245e758b",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Gamercade Proposals/Post Processing Shaders.md",
     "Projects/Ideas & Inspiration/Mechs.md",
+    "Untitled.md",
     "Projects/Concept/2v2 Mech Fighter.md",
     "Projects/Ideas & Inspiration",
     "Projects/Concept/Roguelike Tile FPS.md",
@@ -225,7 +226,6 @@
     "Character Classes/Class Selection.md",
     "Character Classes/Character Roles.md",
     "Favorite Mechanics/Weighted Rock-Paper-Scissors.md",
-    "Favorite Mechanics/Drafting.md",
     "Gamercade Proposals",
     "Gamercade Projects",
     "Favorite Mechanics",
