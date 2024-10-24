@@ -3,7 +3,7 @@ https://sketchfab.com/3d-models/exix-technic-rocket-14aec15bd4614de19298f467fe0b
 https://sketchfab.com/3d-models/bt-ronin-4b8648744a7749dc8a838a276d54a8f7
 
 General Examples:
-https://sketchfab.com/crelco/collections/lowpoly-greatexamples-16265b62aebd444bb43f00ba38668ef2
+https://sketchfab.com/search?q=pixel&type=collections
 
 1m = 16 pixels
 4m = 64 pixels
