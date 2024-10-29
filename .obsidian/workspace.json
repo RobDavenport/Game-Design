@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gamercade Proposals/3d Proposal.md",
+                "file": "Projects/Concept/Tile Laying Roguelike.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3d Proposal"
+              "title": "Tile Laying Roguelike"
             }
           }
         ],
@@ -194,6 +194,8 @@
   },
   "active": "3dd5cbaf245e758b",
   "lastOpenFiles": [
+    "Gamercade Proposals/3d Proposal.md",
+    "Projects/Concept/Tile Laying Roguelike.md",
     "Gamercade Proposals/Post Processing Shaders.md",
     "Projects/Ideas & Inspiration/Mechs.md",
     "Untitled.md",
@@ -218,14 +220,12 @@
     "Untitled.canvas",
     "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
     "Projects",
-    "Gamercade Proposals/3d Proposal.md",
     "Bad Luck Prevention.md",
     "How to Design.md",
     "README.md",
     "Randomized Rewards.md",
     "Character Classes/Class Selection.md",
     "Character Classes/Character Roles.md",
-    "Favorite Mechanics/Weighted Rock-Paper-Scissors.md",
     "Gamercade Proposals",
     "Gamercade Projects",
     "Favorite Mechanics",
