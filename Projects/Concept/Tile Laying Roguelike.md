@@ -20,3 +20,5 @@ Deciding between:
 Related Games:
 1. Party House (UFO 50)
 2. Tiny Islands
+
+46-50 Possible Tiles
