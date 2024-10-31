@@ -28,3 +28,8 @@ To tie the random draw mechanic into your asteroid mining theme while adding a c
 ### Story Context
 
 The player is an independent operator contracted by a massive, bureaucratic mining corporation (think _AstroMining Unlimited_ or _Frontier Industries_). They’re tasked with managing the extraction and resource management on remote asteroids. However, due to corporate cost-cutting, inefficiency, or even the unpredictable nature of deep-space supply chains, the player’s **supplies are randomized**. Each “day,” corporate sends a batch of drones (tiles) from their main distribution center, but the types and quality vary widely, sometimes even including dangerous or malfunctioning units.
+
+Danger Bust Mechanics:
+Consider:
+1. Instead of full bust, gain partial resources (like 25, 50 or 75%)
+2. Gain full resources, but pay flat or scaling penalty after collection
