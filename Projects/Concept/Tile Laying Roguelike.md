@@ -33,3 +33,24 @@ Danger Bust Mechanics:
 Consider:
 1. Instead of full bust, gain partial resources (like 25, 50 or 75%)
 2. Gain full resources, but pay flat or scaling penalty after collection
+
+First Goal:
+8 Items Per Shop (3 static, 5 random)
+15-20 Unique Tiles
+
+Tile List:
+1. Mining Bot:
+	1. Cost: 1
+	2. +1 Credit
+	3. Always in Static Shop
+2. Energy Bot
+	1. Cost 2
+	2. +1 Energy
+	3. Always available in Static Shop
+3. Dangerous Mining Bot
+	1.  Not Purchasable
+	2. +2 Credit
+	3. 1 Danger
+4. Win Bot
+	1. Cost 40
+	2. +1 Win point
