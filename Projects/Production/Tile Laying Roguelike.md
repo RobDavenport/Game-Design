@@ -127,3 +127,10 @@ story/theme constraints:
 4. all of the tiles from the deck, and those purchased from the shop, remain in the deck until the end of the run
 
 5. the level being a blank grid which is reset between each level, needs to make sense
+
+
+
+TODOs:
+- Add visual indicator for score on tile visual 
+	- probably a control UI
+- come up with the rest of the cards
