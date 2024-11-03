@@ -120,10 +120,10 @@ key gameplay mechanics:
 
 story/theme constraints:
 
-1. has to fit within my personal skill set
-
 2. tiles being drawn randomly, with player only controlling position of them needs to make sense
 
 3. players purchasing new tiles to add to the deck at the shop, needs to make sense
 
-4. the level being a blank grid which is reset between each level, needs to make sense
+4. all of the tiles from the deck, and those purchased from the shop, remain in the deck until the end of the run
+
+5. the level being a blank grid which is reset between each level, needs to make sense
