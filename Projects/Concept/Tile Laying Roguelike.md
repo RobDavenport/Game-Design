@@ -54,3 +54,76 @@ Tile List:
 4. Win Bot
 	1. Cost 40
 	2. +1 Win point
+
+Potential gpt prompt:
+primary gameplay mechanics:
+
+- placing tiles
+
+- buying tiles at the end of each round
+
+- attempting to reach 4 "win points" to win a run
+
+- drawing 3 or more danger will end the round prematurely
+
+resource dynamics
+
+- two main resources.
+
+- 1 is for obtaining new tiles. primary resource, easily generated
+
+- 1 is for using bot abilities as well as buying grid expansions. not as easily generated. more grid space allows more tiles to be placed on each round
+
+theme preferences:
+
+- something sci fi
+
+- needs to work well with low poly 3d models, or pixel art
+
+- super short development cycle (1month), so modularity and flexibility
+
+- bonus points for something which lets players connect with certain tiles or strategies, for example, cool and interesting robots.
+
+- no time or skill to do organic objects
+
+level structure:
+
+- player draws a random tile and places that tile somewhere on the grid
+
+- then they can decide to end the level, to avoid busting, or continue drawing another tile.
+
+- should the player draw 3 danger, they must end the level after placing it
+
+- a window to activate any last tile abilities
+
+- on level end, all resource earnings are calculated and pooled into the players inventory to be used in the shop
+
+shop screen:
+
+- contains 8 tiles, assortment of pre-selected and randomly selected tiles
+
+- can purchase tiles to add to the deck for the next round
+
+- can spend 2nd resource to expand the grid
+
+- upon ending, goes into the next level, where the grid is reset
+
+key gameplay mechanics:
+
+- push your luck
+
+- engine building
+
+- deck building
+
+- tile placement
+
+story/theme constraints:
+
+1. has to fit within my personal skill set
+
+2. tiles being drawn randomly, with player only controlling position of them needs to make sense
+
+3. players purchasing new tiles to add to the deck at the shop, needs to make sense
+
+4. the level being a blank grid which is reset between each level, needs to make sense
