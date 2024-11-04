@@ -39,6 +39,7 @@ First Goal:
 15-20 Unique Tiles
 
 Tile List:
+Basic Tiles
 1. Mining Bot:
 	1. Cost: 1
 	2. +1 Credit
@@ -54,6 +55,34 @@ Tile List:
 4. Win Bot
 	1. Cost 40
 	2. +1 Win point
+
+Ability Tiles:
+Score Tiles:
+
+
+Peekers:
+1. Peek on Use, Credits
+	1. Cost 4
+	2. +1 Credits
+2. Peek on Use, Larger Credits
+	1. Cost 7
+	2. +2 Credits
+3. Peek on Entry, Energy
+	1.  Cost 5
+	2. +1 Energy
+4. Peek on Use, Energy
+	1. Cost 7
+	2.  +2 energy
+
+
+Booters:
+1. Horizontal Booter, credits
+2. Horizontal Booter, on entry, credits
+3. Vertical Booter, credits
+4. Vertical Booter, on entry, credits
+5. Global Booter,  on use
+
+Danger Suppressors
 
 Potential gpt prompt:
 primary gameplay mechanics:
