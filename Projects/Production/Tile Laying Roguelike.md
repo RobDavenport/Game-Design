@@ -56,11 +56,24 @@ Basic Tiles
 	1. Cost 40
 	2. +1 Win point
 
+Danger Mitigation Tiles:
+1. Global Danger Reducer, minor credits
+2. Global Danger Reducer, medium credits
+3. Reduces danger on tiles around on place or activation
+
 Ability Tiles:
 Score Tiles:
+1. Scaling Credit Generator
+	1. Gains +1 credit every time it enters
+2. Danger scaling credit generator
+3. Danger scaling energy generator
+
+Tutor Tiles, can fetch any tile from the deck next
+1. Basic Tutor (cost energy)
+2. Free tutor (no benefits)
 
 
-Peekers:
+Peekers, can view the next tile and keep/draw it or discard it
 1. Peek on Use, Credits
 	1. Cost 4
 	2. +1 Credits
@@ -75,7 +88,7 @@ Peekers:
 	2.  +2 energy
 
 
-Booters:
+Booters, removes a tile from the grid
 1. Horizontal Booter, credits
 2. Horizontal Booter, on entry, credits
 3. Vertical Booter, credits
