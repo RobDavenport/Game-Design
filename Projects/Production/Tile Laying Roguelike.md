@@ -103,13 +103,13 @@ Assorted tiles which are made to combo with specific situations or strategies
 6. Scales with "Empty cells on line". Scales with grid size, at end of round
 7. Generates +1 energy for each (3x3) neighboring credit-producing tile. on placed
 8. Generates +1 credits for each (3x3) neighboring energy-producing tile. on placed
-9. Generates +1 energy for each tile on LINE
-10. Generates +1 credits for each tile on LINE
+9. Generates +1 energy for each tile on LINE, on placed
+10. Generates +1 credits for each tile on LINE, on placed
 
 Utility Tiles:
-1. On placement, refresh all neighboring tiles abilities
-3. Summon and score the next tile (draws it)
-4. Score an adjacent already placed tile instantly
+1. On Placed, refresh all neighboring tiles user-activated abilities
+3. Activated: Summon and score the next tile (draws it)
+4. Activated: Score an adjacent already placed tile instantly
 
 Potential gpt prompt:
 primary gameplay mechanics:
