@@ -108,8 +108,11 @@ Assorted tiles which are made to combo with specific situations or strategies
 
 Utility Tiles:
 1. On Placed, refresh all neighboring tiles user-activated abilities
-3. Activated: Summon and score the next tile (draws it)
-4. Activated: Score an adjacent already placed tile instantly
+2. Activated: Increase a neighboring tile's Credits by 1
+4. Activated: Summon and score the next tile (draws it)
+5. Activated: Score an adjacent already placed tile instantly
+6. LINE Evacuator: On placement, all LINE tiles are returned to deck
+7. 
 
 Potential gpt prompt:
 primary gameplay mechanics:
