@@ -56,6 +56,12 @@ Basic tiles are simple, straight forward, and generally just generate some resou
 4. Win Bot
 	1. Cost 40
 	2. +1 Win point
+5. + 3-10 more
+
+Minor Boost Tiles:
+1. Score calculation: Earns +X credits if placed at the edge of the grid
+2. Score Calculation: Earns +X credits/energy if placed next to a danger tile
+3. +2-5 more
 
 Danger Mitigation Tiles
 Helps mitigate against danger, either reducing danger of the tiles, or increasing the danger cap
@@ -103,6 +109,7 @@ Assorted tiles which are made to combo with specific situations or strategies
 8. Generates +1 credits for each (3x3) neighboring energy-producing tile. on placed
 9. Generates +1 energy for each tile on LINE, on placed
 10. Generates +1 credits for each tile on LINE, on placed
+11. Generates +X credits/energy for each unique tile placed in the area around it
 
 Utility Tiles:
 1. On Placed, refresh all neighboring tiles user-activated abilities
