@@ -40,6 +40,7 @@ First Goal:
 
 Tile List:
 Basic Tiles
+Basic tiles are simple, straight forward, and generally just generate some resources.
 1. Mining Bot:
 	1. Cost: 1
 	2. +1 Credit
@@ -56,24 +57,22 @@ Basic Tiles
 	1. Cost 40
 	2. +1 Win point
 
-Danger Mitigation Tiles:
+Danger Mitigation Tiles
+Helps mitigate against danger 
 1. Global Danger Reducer, minor credits
 2. Global Danger Reducer, medium credits
-3. Reduces danger on tiles around on place or activation
+3. Reduces danger on tiles around around it
+4. One more
 
-Ability Tiles:
-Score Tiles:
-1. Scaling Credit Generator
-	1. Gains +1 credit every time it enters
-2. Danger scaling credit generator
-3. Danger scaling energy generator
+Booters
+have an ability which removes a tile from the grid for the round
+1. Row/Col booter, activated, credits
+2. Row/Col booter, on entry, credits
+3. Global Booter, on activate
+4. Global Booter, on entry
 
-Tutor Tiles, can fetch any tile from the deck next
-1. Basic Tutor (cost energy)
-2. Free tutor (no benefits)
-
-
-Peekers, can view the next tile and keep/draw it or discard it
+Peekers 
+Can view the next tile and keep/draw it or discard it
 1. Peek on Use, Credits
 	1. Cost 4
 	2. +1 Credits
@@ -87,14 +86,26 @@ Peekers, can view the next tile and keep/draw it or discard it
 	1. Cost 7
 	2.  +2 energy
 
+Tutor Tiles, 
+Can fetch any tile from the deck next
+1. Basic Tutor (cost energy)
+2. Free tutor (no benefits)
+3. Swap a current tile with any other tile in deck (current tile is removed)
 
-Booters, removes a tile from the grid
-1. Row/Col booter, activated, credits
-2. Row/Col booter, on entry, credits
-3. Global Booter, on activate
-4. Global Booter, on entry
+Payoff Tiles
+Assorted tiles which are made to combo with specific situations or strategies
+1. Scaling Credit Generator
+	1. Gains +1 credit every time it enters the grid
+2. Danger scaling credit generator, gain X credits per danger on grid
+3. Danger scaling energy generator, gain X energy per danger on grid
+4. "Scales with self" credit generator. Each copy of this on the grid increases earnings
+5. Scales with Basic mining bot credit generator. 
+6. Scales with "Empty cells on line". Scales with grid size
 
-Danger Suppressors
+Utility Tiles:
+1. Global range, Refresh all tile's abilities (except self to prevent infintes)
+2. Summon and score next tile
+3. Score an already placed tile instantly
 
 Potential gpt prompt:
 primary gameplay mechanics:
