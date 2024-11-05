@@ -34,6 +34,9 @@ Consider:
 1. Instead of full bust, gain partial resources (like 25, 50 or 75%)
 2. Gain full resources, but pay flat or scaling penalty after collection
 
+Party House Reference
+![[Pasted image 20241106000308.png]]
+
 First Goal:
 8 Items Per Shop (3 static, 5 random)
 15-20 Unique Tiles
