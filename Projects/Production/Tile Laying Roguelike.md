@@ -59,17 +59,17 @@ Basic tiles are simple, straight forward, and generally just generate some resou
 
 Danger Mitigation Tiles
 Helps mitigate against danger 
-1. Global Danger Reducer, minor credits
-2. Global Danger Reducer, medium credits
-3. Reduces danger on tiles around around it
-4. One more
+1. LINE Danger Reducer, passive,  minor credits
+2. LINE Danger Reducer, passive, medium credits
+3. Reduces danger on (3x3) tiles around around it, passive
+4. ??? 1 more
 
 Booters
 have an ability which removes a tile from the grid for the round
-1. Row/Col booter, activated, credits
-2. Row/Col booter, on entry, credits
-3. Global Booter, on activate
-4. Global Booter, on entry
+1. LINE booter, activated, credits
+2. LINE booter, on entry, credits
+3. ADJACENT Booter, on activate
+4. ADJACENT Booter, on entry
 
 Peekers 
 Can view the next tile and keep/draw it or discard it
@@ -96,13 +96,15 @@ Payoff Tiles
 Assorted tiles which are made to combo with specific situations or strategies
 1. Scaling Credit Generator
 	1. Gains +1 credit every time it enters the grid
-2. Danger scaling credit generator, gain X credits per danger on grid
-3. Danger scaling energy generator, gain X energy per danger on grid
-4. "Scales with self" credit generator. Each copy of this on the grid increases earnings
-5. Scales with Basic mining bot credit generator. 
-6. Scales with "Empty cells on line". Scales with grid size
-7. Generates +1 energy for each neighboring credit-producing tile
-8. Generates +1 credits for eight neighboring energy-producing tile
+2. Danger scaling credit generator, gain X credits per danger on grid, at end of round
+3. Danger scaling energy generator, gain X energy per danger on grid, at end of round
+4. "Scales with self" credit generator. Each copy of this on the grid increases earnings, at end of round
+5. Scales with Basic mining bot credit generator, at end of round
+6. Scales with "Empty cells on line". Scales with grid size, at end of round
+7. Generates +1 energy for each (3x3) neighboring credit-producing tile. on placed
+8. Generates +1 credits for each (3x3) neighboring energy-producing tile. on placed
+9. Generates +1 energy for each tile on LINE
+10. Generates +1 credits for each tile on LINE
 
 Utility Tiles:
 1. Global range, Refresh a tile's abilities (except self to prevent infinite)
