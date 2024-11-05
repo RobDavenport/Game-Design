@@ -92,7 +92,7 @@ Booters, removes a tile from the grid
 1. Row/Col booter, activated, credits
 2. Row/Col booter, on entry, credits
 3. Global Booter, on activate
-4. 
+4. Global Booter, on entry
 
 Danger Suppressors
 
