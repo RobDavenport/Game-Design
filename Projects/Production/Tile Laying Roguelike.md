@@ -77,7 +77,7 @@ Peekers, can view the next tile and keep/draw it or discard it
 1. Peek on Use, Credits
 	1. Cost 4
 	2. +1 Credits
-2. Peek on Use, Larger Credits
+2. Peek on Entry, Larger Credits
 	1. Cost 7
 	2. +2 Credits
 3. Peek on Entry, Energy
@@ -89,11 +89,10 @@ Peekers, can view the next tile and keep/draw it or discard it
 
 
 Booters, removes a tile from the grid
-1. Horizontal Booter, credits
-2. Horizontal Booter, on entry, credits
-3. Vertical Booter, credits
-4. Vertical Booter, on entry, credits
-5. Global Booter,  on use
+1. Row/Col booter, activated, credits
+2. Row/Col booter, on entry, credits
+3. Global Booter, on activate
+4. 
 
 Danger Suppressors
 
