@@ -101,11 +101,14 @@ Assorted tiles which are made to combo with specific situations or strategies
 4. "Scales with self" credit generator. Each copy of this on the grid increases earnings
 5. Scales with Basic mining bot credit generator. 
 6. Scales with "Empty cells on line". Scales with grid size
+7. Generates +1 energy for each neighboring credit-producing tile
+8. Generates +1 credits for eight neighboring energy-producing tile
 
 Utility Tiles:
-1. Global range, Refresh all tile's abilities (except self to prevent infintes)
-2. Summon and score next tile
-3. Score an already placed tile instantly
+1. Global range, Refresh a tile's abilities (except self to prevent infinite)
+2. On placement, refresh all neighboring tiles abilities
+4. Summon and score the next tile (draws it)
+5. Score an already placed tile instantly
 
 Potential gpt prompt:
 primary gameplay mechanics:
