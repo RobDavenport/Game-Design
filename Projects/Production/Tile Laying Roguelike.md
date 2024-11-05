@@ -58,14 +58,13 @@ Basic tiles are simple, straight forward, and generally just generate some resou
 	2. +1 Win point
 
 Danger Mitigation Tiles
-Helps mitigate against danger 
-1. LINE Danger Reducer, passive, minor credits
-2. LINE Danger Reducer, passive, medium credits
-3. Reduces danger on (3x3) tiles around around it, passive
-4. ??? 1 more
+Helps mitigate against danger, either reducing danger of the tiles, or increasing the danger cap
+1. LINE Danger Reducer, passive
+2. AREA danger reducer, passive
+3. Global +1 danger cap increaser
 
 Booters
-have an ability which removes a tile from the grid for the round
+have an ability which removes a tile from the grid for the rest of the round
 1. LINE booter, activated, credits
 2. LINE booter, on entry, credits
 3. ADJACENT Booter, on activate
@@ -94,10 +93,9 @@ Can fetch any tile from the deck next
 
 Payoff Tiles
 Assorted tiles which are made to combo with specific situations or strategies
-1. Scaling Credit Generator
-	1. Gains +1 credit every time it enters the grid
-2. Danger scaling credit generator, gain X credits per danger on grid, at end of round
-3. Danger scaling energy generator, gain X energy per danger on grid, at end of round
+1. Scaling Credit Generator. Gains +1 credit every time it enters the grid
+2. Danger scaling credit generator, gain X credits per danger producer on grid, at end of round
+3. Danger scaling energy generator, gain X energy per danger producer on grid, at end of round
 4. "Scales with self" credit generator. Each copy of this on the grid increases earnings, at end of round
 5. Scales with Basic mining bot credit generator, at end of round
 6. Scales with "Empty cells on line". Scales with grid size, at end of round
@@ -111,8 +109,8 @@ Utility Tiles:
 2. Activated: Increase a neighboring tile's Credits by 1
 4. Activated: Summon and score the next tile (draws it)
 5. Activated: Score an adjacent already placed tile instantly
-6. LINE Evacuator: On placement, all LINE tiles are returned to deck
-7. 
+6. LINE Evacuator: On placement, all LINE tiles are returned to deck including self
+7. AREA Evacuator: On placement, all AROUND tiles are returned to deck including self
 
 Potential gpt prompt:
 primary gameplay mechanics:
