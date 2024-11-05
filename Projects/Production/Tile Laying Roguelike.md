@@ -59,7 +59,7 @@ Basic tiles are simple, straight forward, and generally just generate some resou
 
 Danger Mitigation Tiles
 Helps mitigate against danger 
-1. LINE Danger Reducer, passive,  minor credits
+1. LINE Danger Reducer, passive, minor credits
 2. LINE Danger Reducer, passive, medium credits
 3. Reduces danger on (3x3) tiles around around it, passive
 4. ??? 1 more
@@ -107,10 +107,9 @@ Assorted tiles which are made to combo with specific situations or strategies
 10. Generates +1 credits for each tile on LINE
 
 Utility Tiles:
-1. Global range, Refresh a tile's abilities (except self to prevent infinite)
-2. On placement, refresh all neighboring tiles abilities
-4. Summon and score the next tile (draws it)
-5. Score an already placed tile instantly
+1. On placement, refresh all neighboring tiles abilities
+3. Summon and score the next tile (draws it)
+4. Score an adjacent already placed tile instantly
 
 Potential gpt prompt:
 primary gameplay mechanics:
