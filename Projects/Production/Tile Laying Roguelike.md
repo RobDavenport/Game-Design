@@ -66,12 +66,15 @@ Basic tiles are simple, straight forward, and generally just generate some resou
 4. Win Bot
 	1. Cost 40
 	2. +1 Win point
-5. + 3-10 more
+
+3-10 more Basic
 
 Minor Boost Tiles:
 1. Score calculation: Earns +X credits if placed at the edge of the grid
 2. Score Calculation: Earns +X credits/energy if placed next to a danger tile
-3. +2-5 more
+
+2-5 more Minor Boost
+ 
 
 Danger Mitigation Tiles
 Helps mitigate against danger, either reducing danger of the tiles, or increasing the danger cap
