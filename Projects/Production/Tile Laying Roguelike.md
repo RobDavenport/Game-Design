@@ -69,11 +69,15 @@ Basic tiles are simple, straight forward, and generally just generate some resou
 
 3-10 more Basic
 
-Minor Boost Tiles:
+Minor Payoff Tiles (Soft Payoffs):
 1. Score calculation: Earns +X credits if placed at the edge of the grid
 2. Score Calculation: Earns +X credits/energy if placed next to a danger tile
+3. Score Calculation: Earns +X credits/energy if not placed adjacent to a Danger Tile
+4. Score Calculation: Earns +X credits/energy if nearby an Credit/Energy producer
+5. On Place: Generates +1 energy/credits for each (3x3) neighboring energy/credit-producing tile.
+	1. could be same resource or swap (ie nearby energy = +credits, )
 
-2-5 more Minor Boost
+2-5 more Minor Payoffs
  
 
 Danger Mitigation Tiles
@@ -110,19 +114,26 @@ Can fetch any tile from the deck next
 2. Free tutor (no benefits)
 3. Swap a current tile with any other tile in deck (current tile is removed)
 
-Payoff Tiles
-Assorted tiles which are made to combo with specific situations or strategies
+Soft Payoff Tiles
+1. Generates +1 credits/energy for each tile on LINE, on placed
+2. Generates +X credits/energy for each unique tile placed in the area around it
+	1. scales with "randomness"
+
+Hard Payoff Tiles (Scaling)
+Assorted tiles which are made to combo with specific situations or strategies, designed for late game scaling
 1. Scaling Credit Generator. Gains +1 credit every time it enters the grid
-2. Danger scaling credit generator, gain X credits per danger producer on grid, at end of round
-3. Danger scaling energy generator, gain X energy per danger producer on grid, at end of round
-4. "Scales with self" credit generator. Each copy of this on the grid increases earnings, at end of round
-5. Scales with Basic mining bot credit generator, at end of round
-6. Scales with "Empty cells on line". Scales with grid size, at end of round
-7. Generates +1 energy for each (3x3) neighboring credit-producing tile. on placed
-8. Generates +1 credits for each (3x3) neighboring energy-producing tile. on placed
-9. Generates +1 energy for each tile on LINE, on placed
-10. Generates +1 credits for each tile on LINE, on placed
-11. Generates +X credits/energy for each unique tile placed in the area around it
+	1. scaling over time, or "refreshing the grid"
+2. Danger scaling credit/energy generator, gain X credits per danger producer on grid, at end of round
+	1. scales with danger and danger prevention
+3. "Scales with self" credit generator. Each copy of this on the grid increases earnings, at end of round
+	1. simple stacking scaler
+4. Scales with Basic mining bot credit generator, at end of round
+	1. "weenie" approach which turns base cards into something better
+	2. scales with basic cards + grid size
+5. Scales with "Empty cells on line". Scales with grid size, at end of round
+	1. scaling over time, grid size etc
+	2. works as danger mitigation
+
 
 Utility Tiles:
 1. On Placed, refresh all neighboring tiles user-activated abilities
