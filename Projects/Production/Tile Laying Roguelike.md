@@ -41,6 +41,13 @@ First Goal:
 8 Items Per Shop (3 static, 5 random)
 15-20 Unique Tiles
 
+Consider a different approach for now, like:
+~12 Total cards per shop
+~3 Always available cards, same for each run
+~5 Always available this run, randomized for each run
+~4 Rotating per shop round
+
+
 Tile List:
 Basic Tiles
 Basic tiles are simple, straight forward, and generally just generate some resources.
