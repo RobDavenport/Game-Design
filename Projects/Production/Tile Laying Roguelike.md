@@ -42,10 +42,10 @@ First Goal:
 15-20 Unique Tiles
 
 Consider a different approach for now, like:
-~12 Total cards per shop
-~3 Always available cards, same for each run
-~5 Always available this run, randomized for each run
-~4 Rotating per shop round
+~10 Total cards per shop
+~2 Always available Basic cards, same for each run
+~5 Always available this run, randomized for each run (1 or 2 win cards guaranteed)
+~3 Rotating per shop round
 
 
 Tile List:
