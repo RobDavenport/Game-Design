@@ -223,3 +223,4 @@ TODOs:
 	- learn about rich text
 - Add ViewDeck UI
 - come up with the rest of the cards
+- Attribute OFL Fonts
