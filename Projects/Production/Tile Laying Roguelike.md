@@ -36,6 +36,7 @@ Consider:
 
 Party House Reference
 ![[Pasted image 20241106000308.png]]
+![[Pasted image 20241109232312.png]]
 
 First Goal:
 8 Items Per Shop (3 static, 5 random)
@@ -70,6 +71,10 @@ Basic tiles are simple, straight forward, and generally just generate some resou
 More Basics (3-10 total)
 1. Danger + high Energy
 2. High Energy
+3. Danger + high credits
+4. Danger + med energy + med credits
+5. High credits, -1 energy
+6. 
 
 Minor Payoff Tiles (Soft Payoffs, 5-10):
 1. Score calculation: Earns +X credits if placed at the edge of the grid
@@ -115,7 +120,7 @@ Can fetch any tile from the deck next
 3. Swap a current tile with any other tile in deck (current tile is removed)
 
 Soft Payoff Tiles
-1. Generates +1 credits/energy for each tile on LINE, on placed
+1. Generates +1 credits/energy for each tile matching condition on LINE, on placed
 2. Generates +X credits/energy for each unique tile placed in the area around it
 	1. scales with "randomness"
 
@@ -147,12 +152,15 @@ Utility Tiles:
 Prototype Game Mode:
 Only static tiles, 10 total (+2 basics):
 1. Win Bot
-2. Line Danger Reducer
-3. Basic Mining Bot Scaling Payoff (EoT Ability)
+2. AREA Danger Reducer
+3. 
 4. "Scales with Self" Payoff (EoT Ability)
 5. Adjacent Booter (Activated)
 6. Peeker (Activated)
-7. 
+7. Fetcher (Activated)
+8. High Energy
+9. Danger + value credits/energy
+10.  
 
 Potential gpt prompt:
 primary gameplay mechanics:
