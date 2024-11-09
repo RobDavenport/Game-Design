@@ -188,7 +188,7 @@ level structure:
 
 shop screen:
 
-- contains 8 tiles, assortment of pre-selected and randomly selected tiles
+- contains limited tiles, assortment of static, pre-selected and randomly selected tiles
 
 - can purchase tiles to add to the deck for the next round
 
