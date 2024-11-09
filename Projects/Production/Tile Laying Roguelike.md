@@ -151,16 +151,19 @@ Utility Tiles:
 
 Prototype Game Mode:
 Only static tiles, 10 total (+2 basics):
-1. Win Bot
-2. AREA Danger Reducer
-3. Low credits. If next to an energy producer, generates 1 energy (EoT Ability)
-4. "Scales with Self" Payoff (EoT Ability)
-5. Adjacent Booter (Activated)
-6. Peeker (Activated)
-7. Fetcher (Activated)
-8. High Energy, expensive
-9. Danger + value credits/energy
-10.  Soft "nearby danger" Payoff
+
+1. **Mining Bot** (Basic)
+2. Energy Bot (Basic)
+3. Win Bot
+4. AREA Danger Reducer
+5. Low credits. If next to an energy producer, generates 1 energy (EoT Ability)
+6. **Synergy Engine:** "Scales with Self" Payoff (EoT Ability)
+7. Adjacent Booter (Activated)
+8. Peeker (Activated)
+9. Fetcher (Activated)
+10. **Pulse Generator:** High Energy, expensive
+11. Danger + value credits/energy
+12.  Soft "nearby danger" Payoff
 
 Potential gpt prompt:
 primary gameplay mechanics:
