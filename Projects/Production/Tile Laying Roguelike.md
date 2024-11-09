@@ -153,14 +153,14 @@ Prototype Game Mode:
 Only static tiles, 10 total (+2 basics):
 1. Win Bot
 2. AREA Danger Reducer
-3. 
+3. Low credits. If next to an energy producer, generates 1 energy (EoT Ability)
 4. "Scales with Self" Payoff (EoT Ability)
 5. Adjacent Booter (Activated)
 6. Peeker (Activated)
 7. Fetcher (Activated)
-8. High Energy
+8. High Energy, expensive
 9. Danger + value credits/energy
-10.  
+10.  Soft "nearby danger" Payoff
 
 Potential gpt prompt:
 primary gameplay mechanics:
