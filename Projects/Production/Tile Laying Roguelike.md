@@ -67,17 +67,17 @@ Basic tiles are simple, straight forward, and generally just generate some resou
 	1. Cost 40
 	2. +1 Win point
 
-3-10 more Basic
+More Basics (3-10 total)
+1. Danger + high Energy
+2. High Energy
 
-Minor Payoff Tiles (Soft Payoffs):
+Minor Payoff Tiles (Soft Payoffs, 5-10):
 1. Score calculation: Earns +X credits if placed at the edge of the grid
 2. Score Calculation: Earns +X credits/energy if placed next to a danger tile
 3. Score Calculation: Earns +X credits/energy if not placed adjacent to a Danger Tile
 4. Score Calculation: Earns +X credits/energy if nearby an Credit/Energy producer
 5. On Place: Generates +1 energy/credits for each (3x3) neighboring energy/credit-producing tile.
 	1. could be same resource or swap (ie nearby energy = +credits, )
-
-2-5 more Minor Payoffs
  
 
 Danger Mitigation Tiles
@@ -142,6 +142,17 @@ Utility Tiles:
 5. Activated: Score an adjacent already placed tile instantly
 6. LINE Evacuator: On placement, all LINE tiles are returned to deck including self
 7. AREA Evacuator: On placement, all AROUND tiles are returned to deck including self
+
+
+Prototype Game Mode:
+Only static tiles, 10 total (+2 basics):
+1. Win Bot
+2. Line Danger Reducer
+3. Basic Mining Bot Scaling Payoff (EoT Ability)
+4. "Scales with Self" Payoff (EoT Ability)
+5. Adjacent Booter (Activated)
+6. Peeker (Activated)
+7. 
 
 Potential gpt prompt:
 primary gameplay mechanics:
@@ -224,5 +235,3 @@ TODOs:
 - Add ViewDeck UI
 - come up with the rest of the cards
 - Attribute OFL Fonts
-- Add tiles:
-	- 
