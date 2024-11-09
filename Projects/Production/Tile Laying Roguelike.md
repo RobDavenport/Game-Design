@@ -77,7 +77,7 @@ More Basics (3-10 total)
 6. 
 
 Minor Payoff Tiles (Soft Payoffs, 5-10):
-1. Score calculation: Earns +X credits if placed at the edge of the grid
+1. Score calculation: Earns +X credits/energy if placed at the edge of the grid
 2. Score Calculation: Earns +X credits/energy if placed next to a danger tile
 3. Score Calculation: Earns +X credits/energy if not placed adjacent to a Danger Tile
 4. Score Calculation: Earns +X credits/energy if nearby an Credit/Energy producer
