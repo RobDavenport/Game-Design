@@ -155,7 +155,7 @@ Only static tiles, 10 total (+2 basics):
 1. **Mining Bot (Basic) DONE**
 2. **Energy Bot (Basic) DONE**
 3. **Win Bot DONE**
-4. AREA Danger Reducer
+4. **Stabilizer Node: AREA Danger Reducer**
 5. Low credits. If next to an energy producer, generates 1 energy (EoT Ability)
 6. **Synergy Engine: "Scales with Self" Payoff (EoT Ability) DONE**
 7. Adjacent Booter (Activated)
