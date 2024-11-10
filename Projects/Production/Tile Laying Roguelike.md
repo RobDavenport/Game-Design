@@ -162,7 +162,7 @@ Only static tiles, 10 total (+2 basics):
 8. Peeker (Activated)
 9. Fetcher (Activated)
 10. **Pulse Generator: High Energy, expensive DONE**
-11. Danger + value credits/energy
+11. **Matter Reshaper:** Danger + value credits/energy
 12.  Soft "nearby danger" Payoff
 
 Potential gpt prompt:
