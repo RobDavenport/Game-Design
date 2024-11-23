@@ -1,5 +1,4 @@
-Minimalistic Creative Coding:
-
+# Minimalistic Creative Coding:
 https://tixy.land/
 - 16 x 16 grid of circles
 - time, index, x, y
