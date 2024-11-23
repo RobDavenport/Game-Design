@@ -13,8 +13,10 @@ https://muffinman.io/pulsar/
 - return value from 0 to 1
 - value determines size or opacity or both
 https://c50.fingswotidun.com/
-- ? x ?
+- 256 x 256
 - x, y, z (distance from center), time, u, v
 - 50 char limit
+https://susam.net/fxyt.html
+- 256 x 256
 https://www.dwitter.net/
 https://sliderland.blinry.org/
