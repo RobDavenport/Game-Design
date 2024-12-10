@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Snippets/Gouraud PBR.md",
+                "file": "Gamercade Proposals/3d 2.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gouraud PBR"
+              "title": "3d 2.0"
             }
           },
           {
@@ -179,6 +179,7 @@
   },
   "active": "e561f536d767660e",
   "lastOpenFiles": [
+    "Code Snippets/Gouraud PBR.md",
     "Gamercade Proposals/3d 2.0.md",
     "Gamercade Proposals/3d Proposal.md",
     "Projects/Register VM Creative Coding Project.md",
@@ -187,7 +188,6 @@
     "Bad Luck Prevention.md",
     "Projects/Untitled",
     "Projects/Games",
-    "Code Snippets/Gouraud PBR.md",
     "Code Snippets",
     "Gamercade Proposals/Post Processing Shaders.md",
     "Projects/Games/Production/Tile Laying Roguelike.md",
