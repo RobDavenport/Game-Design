@@ -199,8 +199,6 @@ void fragment() {
 
 	 // Diffuse term using Lambertian reflectance
     float diffuse = (1.0 - metallic) * frag_NdotL;
-	//float diffuseScale = 1.0 - fresnelSchlick(1.0, frag_F0); // Fresnel at grazing angles
-	//float diffuse = (1.0 - metallic) * frag_NdotL * diffuseScale;
 
 	// Calculate ambient component
 	vec3 ambient_component = ambient_color.rgb * ambient;
