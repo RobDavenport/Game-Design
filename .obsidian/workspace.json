@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Snippets/Gouraud PBR.md",
+                "file": "Gamercade Proposals/3d 2.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gouraud PBR"
+              "title": "3d 2.0"
             }
           }
         ]
@@ -165,9 +165,9 @@
   },
   "active": "e561f536d767660e",
   "lastOpenFiles": [
+    "Code Snippets/Gouraud PBR.md",
     "Gamercade Proposals/3d 2.0.md",
     "Projects/Register VM Creative Coding Project.md",
-    "Code Snippets/Gouraud PBR.md",
     "Gamercade Proposals/3d Proposal.md",
     "Cool Links.md",
     "Projects/Stack + SIMD Creative Coding Project.md",
