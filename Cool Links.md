@@ -32,3 +32,6 @@ https://www.dwitter.net/
 - 140 char limit
 - no return, call canvas instead
 https://doersino.github.io/tixyz/
+
+# PBR Resources
+https://mudstack.com/blog/tutorials/physically-based-rendering-study-part-2/
