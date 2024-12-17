@@ -35,3 +35,4 @@ https://doersino.github.io/tixyz/
 
 # PBR Resources
 https://mudstack.com/blog/tutorials/physically-based-rendering-study-part-2/
+https://mudstack.com/blog/tutorials/physically-based-rendering-study-part-3/
