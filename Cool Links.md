@@ -36,3 +36,5 @@ https://doersino.github.io/tixyz/
 # PBR Resources
 https://mudstack.com/blog/tutorials/physically-based-rendering-study-part-2/
 https://mudstack.com/blog/tutorials/physically-based-rendering-study-part-3/
+https://cdn2.unrealengine.com/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf
+https://graphicrants.blogspot.com/2013/08/specular-brdf-reference.html
