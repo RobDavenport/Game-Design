@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cool Links.md",
+                "file": "Gamercade Proposals/3d 2.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cool Links"
+              "title": "3d 2.0"
             }
           }
         ]
@@ -165,11 +165,11 @@
   },
   "active": "e561f536d767660e",
   "lastOpenFiles": [
+    "Gamercade Proposals/3d Proposal.md",
+    "Cool Links.md",
     "Gamercade Proposals/3d 2.0.md",
     "Code Snippets/Gouraud PBR.md",
     "Projects/Register VM Creative Coding Project.md",
-    "Gamercade Proposals/3d Proposal.md",
-    "Cool Links.md",
     "Projects/Stack + SIMD Creative Coding Project.md",
     "Bad Luck Prevention.md",
     "Projects/Untitled",
