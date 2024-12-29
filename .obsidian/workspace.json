@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gamercade Proposals/3d 2.0.md",
+                "file": "Code Snippets/Perspective Correct Matcap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3d 2.0"
+              "title": "Perspective Correct Matcap"
             }
           }
         ]
@@ -165,9 +165,10 @@
   },
   "active": "e561f536d767660e",
   "lastOpenFiles": [
+    "Gamercade Proposals/3d 2.0.md",
+    "Code Snippets/Perspective Correct Matcap.md",
     "Gamercade Proposals/3d Proposal.md",
     "Cool Links.md",
-    "Gamercade Proposals/3d 2.0.md",
     "Code Snippets/Gouraud PBR.md",
     "Projects/Register VM Creative Coding Project.md",
     "Projects/Stack + SIMD Creative Coding Project.md",
@@ -203,7 +204,6 @@
     "Untitled.canvas",
     "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
     "Projects",
-    "How to Design.md",
     "Gamercade Proposals"
   ]
 }
