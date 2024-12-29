@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Snippets/Perspective Correct Matcap.md",
+                "file": "Cool Links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perspective Correct Matcap"
+              "title": "Cool Links"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "e561f536d767660e",
   "lastOpenFiles": [
-    "Gamercade Proposals/3d 2.0.md",
     "Code Snippets/Perspective Correct Matcap.md",
+    "Gamercade Proposals/3d 2.0.md",
     "Gamercade Proposals/3d Proposal.md",
     "Cool Links.md",
     "Code Snippets/Gouraud PBR.md",
