@@ -41,4 +41,5 @@ https://graphicrants.blogspot.com/2013/08/specular-brdf-reference.html
 
 ## Matcap
 https://leegoonz.blog/2018/07/08/dual-parabolic-mat-cap-2/
+https://graphicsrunner.blogspot.com/2008/07/dual-paraboloid-reflections.html
 https://www.clicktorelease.com/blog/creating-spherical-environment-mapping-shader/
