@@ -5,3 +5,9 @@ Cool words:
 - Ether
 - Spectra
 - Vision
+- Cosmos
+- Paradise
+- Sky
+- Unlimited
+- Core
+- Box
