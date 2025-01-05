@@ -11,3 +11,6 @@ Cool words:
 - Unlimited
 - Core
 - Box
+- Zenith
+- Stellar
+- Arcadia
