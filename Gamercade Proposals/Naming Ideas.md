@@ -2,6 +2,7 @@
 
 Cool words:
 - Aether
+- Nether
 - Ether
 - Spectra
 - Vision
