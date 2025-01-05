@@ -15,3 +15,6 @@ Cool words:
 - Zenith
 - Stellar
 - Arcadia
+
+Nethercade?
+Nethercore?
