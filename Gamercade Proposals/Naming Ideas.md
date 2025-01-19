@@ -22,9 +22,9 @@ Nethercore?
 8 Blend Modes
 - Normal (Replace)
 - Add
-- Multiply
-- Overlay
 - Screen
 - Color Dodge
-- Color Burn
 - Subtract
+- Multiply
+- Color Burn
+- Overlay
