@@ -30,11 +30,8 @@ Subtract
 Multiply
 Color Burn
 
-Contrast 3:
+Contrast 4:
 Overlay
+Hard Light
 Soft Light
 Vivid Light
-
-Lightness 2:
-Lighter Color
-Darker Color
