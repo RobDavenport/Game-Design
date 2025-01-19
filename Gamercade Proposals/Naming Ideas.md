@@ -20,17 +20,21 @@ Nethercade?
 Nethercore?
 
 Color Blends:
-Lighten:
+Lighten 3:
 Add
 Screen
 Color Dodge
 
-Darken:
+Darken 3:
 Subtract
 Multiply
 Color Burn
 
-Contrast:
+Contrast 3:
 Overlay
 Soft Light
 Vivid Light
+
+Lightness 2:
+Lighter Color
+Darker Color
