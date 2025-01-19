@@ -18,3 +18,19 @@ Cool words:
 
 Nethercade?
 Nethercore?
+
+Color Blends:
+Lighten:
+Add
+Screen
+Color Dodge
+
+Darken:
+Subtract
+Multiply
+Color Burn
+
+Contrast:
+Overlay
+Soft Light
+Vivid Light
