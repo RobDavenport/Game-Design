@@ -30,5 +30,5 @@ Nethercore?
 - Overlay
 
 Push Constants: 128 Total Bytes:
-- 4 Bytes: Blend Modes (u8 x 4)
+- 4 Bytes: Blend Modes (u8 x 4) or u32
 - 
