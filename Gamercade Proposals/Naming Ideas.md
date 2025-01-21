@@ -29,6 +29,6 @@ Nethercore?
 - Color Burn
 - Overlay
 
-Push Constants: 256 Total Bytes:
+Push Constants: 128 Total Bytes:
 - 4 Bytes: Blend Modes (u8 x 4)
 - 
