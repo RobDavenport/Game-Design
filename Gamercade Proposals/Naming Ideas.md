@@ -31,4 +31,4 @@ Nethercore?
 
 Push Constants: 128 Total Bytes:
 - 4 Bytes: Blend Modes (u8 x 4) or u32
-- 
+- 4 Byte: Matcap/Texture Tag (3bytes padding)
