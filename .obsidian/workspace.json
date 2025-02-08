@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gamercade Proposals/Naming Ideas.md",
+                "file": "Gamercade Proposals/3d 2.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Naming Ideas"
+              "title": "3d 2.0"
+            }
+          },
+          {
+            "id": "11bd3c07f74731c5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -163,11 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e561f536d767660e",
+  "active": "11bd3c07f74731c5",
   "lastOpenFiles": [
-    "Gamercade Proposals/Post Processing Shaders.md",
     "Gamercade Proposals/Naming Ideas.md",
     "Gamercade Proposals/3d Proposal.md",
+    "Gamercade Proposals/Post Processing Shaders.md",
     "Gamercade Proposals/3d 2.0.md",
     "Cool Links.md",
     "Code Snippets/Perspective Correct Matcap.md",
