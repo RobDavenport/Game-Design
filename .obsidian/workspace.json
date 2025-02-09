@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ac88c6071228825f",
+        "id": "95459cd0d6de5903",
         "type": "tabs",
         "children": [
           {
-            "id": "e561f536d767660e",
+            "id": "d4afe837af93a37c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gamercade Proposals/3d 2.0.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3d 2.0"
-            }
-          },
-          {
-            "id": "11bd3c07f74731c5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,37 +160,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11bd3c07f74731c5",
+  "active": "d4afe837af93a37c",
   "lastOpenFiles": [
-    "Gamercade Proposals/Naming Ideas.md",
-    "Gamercade Proposals/3d Proposal.md",
-    "Gamercade Proposals/Post Processing Shaders.md",
-    "Gamercade Proposals/3d 2.0.md",
-    "Cool Links.md",
-    "Code Snippets/Perspective Correct Matcap.md",
-    "Code Snippets/Gouraud PBR.md",
-    "Projects/Register VM Creative Coding Project.md",
-    "Projects/Stack + SIMD Creative Coding Project.md",
-    "Bad Luck Prevention.md",
-    "Projects/Untitled",
-    "Projects/Games",
-    "Code Snippets",
     "Projects/Games/Production/Tile Laying Roguelike.md",
-    "Attachments/Pasted image 20241109232312.png",
-    "Attachments/Pasted image 20241106000308.png",
-    "Attachments/Pasted image 20241106000131.png",
-    "Attachments",
+    "Projects/Games/Production/Mech Gladiator Wave Game.md",
+    "Projects/Games/Pre Production/Dice Based Roguelike.md",
     "Projects/Games/Ideas & Inspiration/Mechs.md",
-    "Projects/Games/Concept/2v2 Mech Fighter.md",
-    "Projects/Games/Ideas & Inspiration",
-    "Projects/Games/Concept/Roguelike Tile FPS.md",
     "Projects/Games/Concept/Roguelike Fantasy Breakout.md",
     "Projects/Games/Concept/Right Hook.md",
     "Projects/Games/Concept/Island-In-A-Jar.md",
     "Projects/Games/Concept/Geometric Survivors.md",
     "Projects/Games/Concept/Fantasy RTS (RTT) Dungeon Game.md",
-    "Projects/Games/Production/Mech Gladiator Wave Game.md",
-    "Projects/Games/Pre Production/Dice Based Roguelike.md",
+    "Projects/Games/Concept/2v2 Mech Fighter.md",
+    "Projects/Stack + SIMD Creative Coding Project.md",
+    "Projects/Register VM Creative Coding Project.md",
+    "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
+    "Gamercade Proposals/3d 2.0.md",
+    "Gamercade Proposals/Naming Ideas.md",
+    "Gamercade Proposals/3d Proposal.md",
+    "Gamercade Proposals/Post Processing Shaders.md",
+    "Cool Links.md",
+    "Code Snippets/Perspective Correct Matcap.md",
+    "Code Snippets/Gouraud PBR.md",
+    "Bad Luck Prevention.md",
+    "Projects/Untitled",
+    "Projects/Games",
+    "Code Snippets",
+    "Attachments/Pasted image 20241109232312.png",
+    "Attachments/Pasted image 20241106000308.png",
+    "Attachments/Pasted image 20241106000131.png",
+    "Attachments",
+    "Projects/Games/Ideas & Inspiration",
+    "Projects/Games/Concept/Roguelike Tile FPS.md",
     "Projects/Games/Concept/Wrecking Ball Survivorslike.md",
     "Market Analysis Notes.md",
     "Gamercade Projects/Launch Projects.md",
@@ -215,7 +199,6 @@
     "Projects/Games/Pre Production",
     "Projects/Games/Concept",
     "Starter Deck (North Performance) Feedback & Suggestions.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "Projects",
     "Gamercade Proposals"
