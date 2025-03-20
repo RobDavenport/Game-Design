@@ -32,9 +32,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.7"
             }
+          },
+          {
+            "id": "393c54fc603809c7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "139d65d1dee9a9c5",
+  "active": "393c54fc603809c7",
   "lastOpenFiles": [
     "Code Snippets/Gouraud PBR.md",
     "Code Snippets/Perspective Correct Matcap.md",
