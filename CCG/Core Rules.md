@@ -93,6 +93,50 @@ Each player’s turn consists of the following phases:
 
 ---
 
+## Abilities
+
+Entities and Nodes may have **abilities** that allow additional actions beyond attacking, blocking, or basic effects. There are two main types:
+
+### 1. **Activated Abilities**
+
+- Abilities you **choose to activate** by paying a cost.
+    
+- Example: “Pay 1 Biom → Generate 1 Biom resource.”
+    
+- Some activated abilities may have the **Fast** keyword, allowing them to be used **outside your turn** (during your opponent’s phase).
+    
+- Activated abilities can be used once per activation unless specified otherwise.
+    
+
+### 2. **Triggered Abilities**
+
+- Abilities that **automatically trigger** when a specific event occurs.
+    
+- Example: “When this Entity deals damage, draw 1 card.”
+    
+- Triggered abilities **always resolve when their condition is met**; they cannot be Fast.
+    
+
+### 3. **Fast Keyword**
+
+- Any **Spell or Activated Ability** marked **Fast** can be added to a **response chain**.
+    
+- Players alternate adding Fast effects to the chain.
+    
+- Once a player declines to add a card/ability to the chain, it **resolves immediately in last-in-first-out (LIFO) order**.
+    
+
+---
+
+### **Example Ability Wordings**
+
+| Type             | Example                                                         |
+| ---------------- | --------------------------------------------------------------- |
+| Activated (slow) | “Pay 2 Kinesis: This Entity gains +1 Impact until end of turn.” |
+| Activated (Fast) | “Fast — Pay 1 Aether: Draw 1 card.”                             |
+| Triggered        | “When this Entity deals damage, draw 1 card.”                   |
+
+---
 ## Card Types Summary
 
 |Type|Description|
