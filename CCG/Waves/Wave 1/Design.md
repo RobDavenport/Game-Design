@@ -4,24 +4,19 @@ Lifesteal - Passive: Any damage dealt by this card causes the controller to gain
 Rally - Triggered: When this card enters, something happens.
 Overwhelm - Passive: Excess combat damage is dealt to the defending player.
 
-Aether - Card Draw + Board Manipulation, minor flow.
+Each Deck has a primary mechanic, with a small splash into another energy's mechanics.
+
+Aether - Card Draw + Board Manipulation, minor flow (Kinesis).
 Card draw, and tempo
 
-Biom - Lifegain, minor card draw
+Biom - Lifegain, minor card draw (Aether)
 Lifegain and Lifesteal based synergies.
 
-Kinesis - Flow Based Aggro, minor support/tricks
+Kinesis - Flow Based Aggro, minor support/tricks (Radiance)
 Gain additional effects when playing spells.
 
-Entropy - Sacrifice & Reanimation, minor lifesteal
+Entropy - Sacrifice & Reanimation, minor lifesteal (Biom)
 Recur cards from the trash back to hand or directly into play.
 
-Radiance - Rally & Support, minor sacrifice
+Radiance - Rally & Support, minor sacrifice/rebirth mechanics, (Entropy)
 Entity support and protection
-
-
-Aether -> Kinesis
-Biom -> Aether
-Kinesis -> Radiance
-Entropy -> Biom
-Radiance -> Entropy
