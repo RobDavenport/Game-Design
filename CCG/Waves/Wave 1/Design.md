@@ -9,7 +9,7 @@ Each Deck has a primary mechanic, with a small splash into another energy's mech
 Aether - Card Draw + Board Manipulation, minor flow (Kinesis).
 Card draw, and tempo
 
-Biom - Lifegain, minor card draw (Aether)
+Biom - Lifegain, minor rebirth mechanics (Entropy)
 Lifegain and Lifesteal based synergies.
 
 Kinesis - Flow Based Aggro, minor support/tricks (Radiance)
@@ -20,3 +20,10 @@ Recur cards from the trash back to hand or directly into play.
 
 Radiance - Rally & Support, minor sacrifice/rebirth mechanics, (Entropy)
 Entity support and protection
+
+Aether -> Kinesis
+Biom -> Entropy (rebirth)
+Kinesis -> Radiance
+Entropy -> Aether (card draw)
+Radiance -> Entropy
+
