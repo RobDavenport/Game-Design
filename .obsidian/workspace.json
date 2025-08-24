@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Games/Production/Tile Laying Roguelike.md",
+                "file": "CCG/Universe & Lore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tile Laying Roguelike"
+              "title": "Universe & Lore"
             }
           }
         ],
@@ -180,8 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0c72d8082ed19ae",
+  "active": "8ade16e9ac32cbc7",
   "lastOpenFiles": [
+    "CCG/Product Line.md",
+    "CCG/Universe & Lore.md",
+    "Projects/Games/Production/Tile Laying Roguelike.md",
     "CCG",
     "Projects/Games/Production/Mech Gladiator Wave Game.md",
     "Projects/Games/Ideas & Inspiration/Mechs.md",
@@ -197,7 +200,6 @@
     "Gamercade Proposals/3d Proposal.md",
     "Cool Links.md",
     "Projects/Games/Concept/Fantasy RTS (RTT) Dungeon Game.md",
-    "Projects/Games/Production/Tile Laying Roguelike.md",
     "Projects/Games/Pre Production/Dice Based Roguelike.md",
     "Projects/Games/Concept/Roguelike Fantasy Breakout.md",
     "Projects/Games/Concept/Right Hook.md",
@@ -215,12 +217,10 @@
     "Projects/Games/Concept/Roguelike Tile FPS.md",
     "Projects/Games/Concept/Wrecking Ball Survivorslike.md",
     "Market Analysis Notes.md",
-    "Gamercade Projects/Launch Projects.md",
     "Projects/Games/Production",
     "Projects/Games/Pre Production",
     "Projects/Games/Concept",
     "Untitled.canvas",
-    "Projects",
-    "Gamercade Proposals"
+    "Projects"
   ]
 }
