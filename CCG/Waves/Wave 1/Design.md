@@ -1,23 +1,41 @@
-Main Keywords:
-Flow - Triggered: When a spell is played, something happens
-Lifesteal - Passive: Any damage dealt by this card causes the controller to gain life equal to the amount.
-Rally - Triggered: When this card enters, something happens.
-Overwhelm - Passive: Excess combat damage is dealt to the defending player.
+## Main Keywords:
+**Flow** - Triggered: When a spell is played, something happens
+**Lifesteal** - Passive: Any damage dealt by this card causes the controller to gain life equal to the amount.
+**Rally** - Triggered: When this card enters, something happens.
+**Overwhelm** - Passive: Excess combat damage is dealt to the defending player.
 
-Each Deck has a primary mechanic, with a small splash into another energy's mechanics.
+## Deck Overview
+- 18 cards each
+	- 8-10 Entities
+	- 3-5 Nodes
+	- 4-6 Spells
+- Singleton, no duplicates
+- Single energy color
+- Primary Mechanic or Idea
+- Small splash into synergistic mechanics
 
-Aether - Card Draw + Board Manipulation, minor flow (Kinesis).
-Card draw, and tempo
+Aether
+- Primary: Card Draw + Board Manipulation, 
+- Minor: Flow (Kinesis)
+- Generally card draw, tempo effects, and bounce.
 
-Biom - Lifegain, minor rebirth mechanics (Entropy)
-Lifegain and Lifesteal based synergies.
+Biom 
+- Primary: Lifegain
+- Minor: rebirth mechanics (Entropy)
+- Lifegain and Lifesteal based synergies.
 
-Kinesis - Flow Based Aggro, minor support/tricks/buffs (Radiance)
-Gain additional effects when playing spells.
+Kinesis 
+- Primary: Flow Based Aggro
+- Minor: Entity support, buffs (Radiance)
+- Gain additional effects when playing spells.
 
-Entropy - Sacrifice & Reanimation, minor card draw/recycling (Aether)
-Recur cards from the trash back to hand or directly into play.
+Entropy 
+- Primary: Sacrifice & Reanimation & Trash Recursion, 
+- Minor: card draw/recycling (Aether)
+- Recur cards from the trash back to hand or directly into play.
 
-Radiance - Rally & Support, minor sacrifice/rebirth mechanics, (Entropy)
-Entity support and protection
+Radiance 
+- Primary: Rally & Support & Swarm, 
+- Minor sacrifice/rebirth mechanics (Entropy)
+- Entity support and protection
 
