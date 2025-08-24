@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCG/Decklists/Wave 1.md",
+                "file": "CCG/Universe & Lore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wave 1"
+              "title": "Universe & Lore"
             }
           }
         ]
@@ -167,14 +167,14 @@
   },
   "active": "35ed8b3e827a5520",
   "lastOpenFiles": [
-    "CCG/Decklists/Wave 1/Radiance 1.md",
+    "CCG/Product Line.md",
     "CCG/Decklists/Wave 1.md",
+    "CCG/Decklists/Wave 1/Radiance 1.md",
     "CCG/Decklists/Wave 1/Biom 1.md",
     "Projects/Register VM Creative Coding Project.md",
     "CCG/Universe & Lore.md",
     "CCG/Decklists/Wave 1",
     "CCG/Decklists",
-    "CCG/Product Line.md",
     "CCG/Core Rules.md",
     "Projects/Games/Production/Tile Laying Roguelike.md",
     "CCG",
