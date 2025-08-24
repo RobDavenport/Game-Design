@@ -1,4 +1,4 @@
-**Suggested defaults:** starting hand = **5** cards; starting life = **15**; recommended deck size = **36** cards; wallets = **18 singleton** cards.
+**Suggested defaults:** starting hand = **5** cards; starting life = **20**; recommended deck size = **36** cards; wallets = **18 singleton** cards.
 
 ---
 ## Overview
@@ -21,7 +21,7 @@ Magepunk is a fast, magepunk-fantasy card game where players harness **primal en
 ## Setup
 1. Each player shuffles their deck and draws **5** cards.
 2. Determine who goes first (coin flip or mutual agreement).
-3. Each player begins at **15 life**
+3. Each player begins at **20 life**
 ---
 ## Turn Structure
 
