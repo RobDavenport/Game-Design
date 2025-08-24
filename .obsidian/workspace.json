@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCG/Universe & Lore.md",
+                "file": "CCG/Core Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Universe & Lore"
+              "title": "Core Rules"
             }
           }
         ],
@@ -182,8 +182,9 @@
   },
   "active": "8ade16e9ac32cbc7",
   "lastOpenFiles": [
-    "CCG/Product Line.md",
     "CCG/Universe & Lore.md",
+    "CCG/Core Rules.md",
+    "CCG/Product Line.md",
     "Projects/Games/Production/Tile Laying Roguelike.md",
     "CCG",
     "Projects/Games/Production/Mech Gladiator Wave Game.md",
@@ -216,7 +217,6 @@
     "Projects/Games/Ideas & Inspiration",
     "Projects/Games/Concept/Roguelike Tile FPS.md",
     "Projects/Games/Concept/Wrecking Ball Survivorslike.md",
-    "Market Analysis Notes.md",
     "Projects/Games/Production",
     "Projects/Games/Pre Production",
     "Projects/Games/Concept",
