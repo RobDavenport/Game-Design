@@ -52,18 +52,18 @@ Aether represents the controlled manipulation of raw energy. Scholars, psychics,
 
 ---
 
-## **Entropy — Decay & Change**
+## **Entropy — The Primal Tide of Change**
 
 **World-Facing:**  
-Entropy is the fundamental law that all things eventually decline. Its wielders harness this inevitability to survive, redirect, or accelerate change for strategic benefit. Practitioners may slow decay, accelerate transformation, or exploit breakdowns to gain advantage. Entropy is neither good nor evil; it is the pragmatic recognition that all systems wear down, and that timely disruption can be powerful.
+Entropy is the universe’s relentless pulse: everything unravels, corrodes, and transforms. It is neither good nor evil — it simply **is**. Its wielders — scavengers, alchemists, and daring engineers — learn to **ride this tide**, using inevitable collapse to create opportunity, trigger innovation, or redirect energy. In magepunk cities, decaying engines, unstable biotech, and crumbling towers are not just hazards but **resources to be harnessed**. To master Entropy is to respect the primal force of change, and to use what would otherwise be loss to gain temporary advantage, create space, or spark new possibilities.
 
 **Mechanics:**
 
-- **Primary:** Resource disruption — remove energy, impair devices, or temporarily limit opponent actions.
+- **Primary:** Inevitable decay — natural, ongoing degradation of units, devices, or resources.
     
-- **Secondary:** Transformation — convert one resource or unit into another, or repurpose existing elements for new benefit.
+- **Secondary:** Harnessing collapse — gain immediate benefit or trigger effects from events that others might see as destructive.
     
-- **Tertiary:** Delayed effects — abilities that build over time, escalating impact as the board evolves.
+- **Tertiary:** Transformative chaos — the destabilized battlefield creates new opportunities, rewarding timing, foresight, and creative exploitation.
     
 
 ---
