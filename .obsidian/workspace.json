@@ -25,12 +25,14 @@
             "id": "8ade16e9ac32cbc7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "Projects/Games/Production/Tile Laying Roguelike.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "Tile Laying Roguelike"
             }
           }
         ],
@@ -178,8 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ade16e9ac32cbc7",
+  "active": "f0c72d8082ed19ae",
   "lastOpenFiles": [
+    "CCG",
+    "Projects/Games/Production/Mech Gladiator Wave Game.md",
+    "Projects/Games/Ideas & Inspiration/Mechs.md",
+    "Projects/Games/Concept/2v2 Mech Fighter.md",
     "Projects/Stack + SIMD Creative Coding Project.md",
     "Projects/Register VM Creative Coding Project.md",
     "Code Snippets/Perspective Correct Matcap.md",
@@ -190,11 +196,8 @@
     "Gamercade Proposals/Post Processing Shaders.md",
     "Gamercade Proposals/3d Proposal.md",
     "Cool Links.md",
-    "Projects/Games/Ideas & Inspiration/Mechs.md",
     "Projects/Games/Concept/Fantasy RTS (RTT) Dungeon Game.md",
-    "Projects/Games/Concept/2v2 Mech Fighter.md",
     "Projects/Games/Production/Tile Laying Roguelike.md",
-    "Projects/Games/Production/Mech Gladiator Wave Game.md",
     "Projects/Games/Pre Production/Dice Based Roguelike.md",
     "Projects/Games/Concept/Roguelike Fantasy Breakout.md",
     "Projects/Games/Concept/Right Hook.md",
@@ -216,7 +219,6 @@
     "Projects/Games/Production",
     "Projects/Games/Pre Production",
     "Projects/Games/Concept",
-    "Starter Deck (North Performance) Feedback & Suggestions.md",
     "Untitled.canvas",
     "Projects",
     "Gamercade Proposals"
