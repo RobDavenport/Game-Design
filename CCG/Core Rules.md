@@ -51,9 +51,10 @@ Entities and Nodes can have abilities described on the card. Abilities come in t
 - **Fast Activated Abilities:** If an activated ability is labeled **Fast**, it may be activated during the opponent’s Main/Attack/End Phase and may be added to a Fast response chain (see Fast).
 ### Triggered abilities
 - Abilities that **automatically trigger** when a specific event occurs.
+- **Resolution with a Fast window:** When a triggered ability triggers, other players may first play any number of **Fast spells** or **Fast activated abilities** in response. After all players pass, the triggered ability resolves.
+- Triggered abilities themselves **cannot be Fast** and cannot be added to a Fast chain by the controller of the ability.
 - Triggered abilities **resolve immediately** after any Fast chain created in response to the event has resolved.
-- Triggered abilities themselves **cannot be Fast** and cannot be responded to.
-- If multiple triggered abilities trigger simultaneously, resolve them in Active Player → Non-Active Player order, unless the text specifies otherwise
+- If multiple triggered abilities trigger simultaneously, resolve them in **Active Player → Non-Active Player** order, unless the text specifies otherwise.
 ---
 ## Fast — Responses & Chains
 - **Fast** is a keyword applied to Spells and some activated abilities to indicate they may be used outside the normal play sequence.
