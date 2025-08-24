@@ -4,61 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "151a5892d0307fd0",
+        "id": "1d4c7fce2eb9856f",
         "type": "tabs",
         "children": [
           {
-            "id": "9d14e878876350fd",
+            "id": "35ed8b3e827a5520",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Snippets/Perspective Correct Matcap.md",
+                "file": "Projects/Register VM Creative Coding Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perspective Correct Matcap"
+              "title": "Register VM Creative Coding Project"
             }
           },
           {
-            "id": "139d65d1dee9a9c5",
+            "id": "8ade16e9ac32cbc7",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.8.7"
+                "currentVersion": "1.9.10"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
-          },
-          {
-            "id": "393c54fc603809c7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
-            "id": "67430038e50e01b2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "Release Notes 1.9.10"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -201,10 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67430038e50e01b2",
+  "active": "8ade16e9ac32cbc7",
   "lastOpenFiles": [
-    "Code Snippets/Gouraud PBR.md",
+    "Projects/Stack + SIMD Creative Coding Project.md",
+    "Projects/Register VM Creative Coding Project.md",
     "Code Snippets/Perspective Correct Matcap.md",
+    "Code Snippets/Gouraud PBR.md",
     "Gamercade Projects/(Untitled) Mecha Fighting Game.md",
     "Gamercade Proposals/3d 2.0.md",
     "Gamercade Proposals/Naming Ideas.md",
@@ -221,8 +200,6 @@
     "Projects/Games/Concept/Right Hook.md",
     "Projects/Games/Concept/Island-In-A-Jar.md",
     "Projects/Games/Concept/Geometric Survivors.md",
-    "Projects/Stack + SIMD Creative Coding Project.md",
-    "Projects/Register VM Creative Coding Project.md",
     "Bad Luck Prevention.md",
     "Projects/Untitled",
     "Projects/Games",
