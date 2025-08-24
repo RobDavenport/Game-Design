@@ -1,7 +1,7 @@
 ## Main Keywords:
 **Flow** - Triggered: When a spell is played, something happens
 **Lifesteal** - Passive: Any damage dealt by this card causes the controller to gain life equal to the amount.
-**Rally** - Triggered: When this card enters, something happens.
+**Rally** - Passive: Additional Effect when this card is played.
 **Overwhelm** - Passive: Excess combat damage is dealt to the defending player.
 
 ## Deck Overview
