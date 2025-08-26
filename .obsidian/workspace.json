@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCG/Waves/Wave 1/Design.md",
+                "file": "CCG/Waves/Wave 1 Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design"
+              "title": "Wave 1 Design"
             }
           }
         ]
@@ -165,13 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35ed8b3e827a5520",
+  "active": "f0c72d8082ed19ae",
   "lastOpenFiles": [
+    "CCG/Waves/Wave 1/Decklists.md",
+    "CCG/Waves/Wave 1 Design.md",
     "CCG/Universe & Lore.md",
     "CCG/Product Line.md",
     "CCG/Core Rules.md",
-    "CCG/Waves/Wave 1/Design.md",
-    "CCG/Waves/Wave 1/Decklists.md",
     "CCG/Waves/Wave 1",
     "CCG/Decklists/Wave 1/Radiance 1.md",
     "CCG/Decklists/Wave 1/Biom 1.md",
