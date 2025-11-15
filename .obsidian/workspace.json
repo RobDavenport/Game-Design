@@ -13,40 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCG/Universe & Lore.md",
+                "file": "Projects/Games/Arcane Glassforge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Universe & Lore"
-            }
-          },
-          {
-            "id": "1122f90be9f35a57",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
-          },
-          {
-            "id": "b3334b0a2897d71c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "Arcane Glassforge"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,11 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3334b0a2897d71c",
+  "active": "35ed8b3e827a5520",
   "lastOpenFiles": [
+    "CCG/Universe & Lore.md",
+    "Projects/Games/Arcane Glassforge.md",
     "CCG/Waves/Wave 1 Design.md",
     "CCG/Product Line.md",
-    "CCG/Universe & Lore.md",
     "CCG/Waves/Wave 1/Decklists.md",
     "CCG/Core Rules.md",
     "CCG/Waves/Wave 1",
@@ -221,7 +197,6 @@
     "Projects/Games/Pre Production/Dice Based Roguelike.md",
     "Projects/Games/Concept/Roguelike Fantasy Breakout.md",
     "Projects/Games/Concept/Right Hook.md",
-    "Projects/Games/Concept/Island-In-A-Jar.md",
     "Projects/Untitled",
     "Projects/Games",
     "Code Snippets",
