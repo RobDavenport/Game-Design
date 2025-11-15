@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Arcane Glassforge"
             }
+          },
+          {
+            "id": "3c599ac183f61c81",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35ed8b3e827a5520",
+  "active": "3c599ac183f61c81",
   "lastOpenFiles": [
     "CCG/Universe & Lore.md",
     "Projects/Games/Arcane Glassforge.md",
