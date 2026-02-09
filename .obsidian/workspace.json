@@ -32,9 +32,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.10.3"
             }
+          },
+          {
+            "id": "bb685fb9ad447afd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c599ac183f61c81",
+  "active": "bb685fb9ad447afd",
   "lastOpenFiles": [
     "CCG/Universe & Lore.md",
     "Projects/Games/Arcane Glassforge.md",
