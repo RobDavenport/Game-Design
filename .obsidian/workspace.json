@@ -4,49 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1d4c7fce2eb9856f",
+        "id": "7f41896be8daf6b6",
         "type": "tabs",
         "children": [
           {
-            "id": "35ed8b3e827a5520",
+            "id": "f6d2695af902821c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Games/Arcane Glassforge.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Arcane Glassforge"
-            }
-          },
-          {
-            "id": "3c599ac183f61c81",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
-          },
-          {
-            "id": "bb685fb9ad447afd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb685fb9ad447afd",
+  "active": "f0c72d8082ed19ae",
   "lastOpenFiles": [
     "CCG/Universe & Lore.md",
     "Projects/Games/Arcane Glassforge.md",
