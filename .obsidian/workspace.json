@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Snippets/House Style Design.md",
+                "file": "Code Snippets/House Style Design (Original).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "House Style Design"
+              "title": "House Style Design (Original)"
             }
           }
         ]
@@ -167,7 +167,7 @@
   },
   "active": "f6d2695af902821c",
   "lastOpenFiles": [
-    "Code Snippets/House Style Design.md",
+    "Code Snippets/House Style Design (Original).md",
     "CCG/Universe & Lore.md",
     "Projects/Games/Arcane Glassforge.md",
     "CCG/Waves/Wave 1 Design.md",
