@@ -530,3 +530,37 @@ Before sending a prompt to any image model, verify:
 - [ ] Avoid list includes "Western comic book," "flat posterized," "dark/gloomy"
 - [ ] The word "athletic" does not appear anywhere
 - [ ] No garment is named without accompanying material/behavior/intent description
+
+# Character Prompt Generation Card (v3.1)
+
+You are generating text-to-image prompts for competitive fighting game characters. These are arena combatants, not magical girls, not gacha characters, not RPG party members. Follow these rules exactly.
+
+## PROMPT STRUCTURE (this order, no exceptions)
+
+**LINE 1 — STYLE ANCHOR (15-30 words)** Collide: Arc System Works / Guilty Gear Xrd cel-shaded rendering + high-saturation candy-bright color + haute couture fashion sensibility + Overwatch silhouette clarity. Always end with: "NOT concept art. NOT character sheet. NOT Western comic book. NOT magical girl. NOT mobile game art. NOT gacha splash art."
+
+**SECTION 2 — BODY (2-3 sentences)** Use head-unit ratios for proportions (e.g. "legs are 5.5 heads long," "shoulders are 4 head-widths"). Never say "athletic," "muscular," "toned," "fit," or "elegant." Every body must commit to a direction: amplify mass OR amplify angularity. Use adversarial metaphor: "a body designed like furniture," "anatomy pushed to architectural caricature," "built like a weapon, not a person."
+
+**SECTION 3 — DOMINANT ELEMENT (3-4 sentences)** One element that IS the character. Describe using body-relative scale: "WIDER than the shoulders," "larger than the torso," "longer than the character is tall." State symbolic weight: what does it mean (vow, burden, restraint, inheritance)? State hierarchy: "This is the character. Everything else is subordinate." The element must be a PHYSICAL OBJECT or GARMENT — not energy, not aura, not ribbons of light, not particle effects.
+
+**SECTION 4 — OUTFIT (3-5 sentences)** Describe material behavior, not garment names. Wrong: "evening gown." Right: "tailored single-piece garment with visible seam structure, cut high on one hip, fabric taut against the body with no flowing excess." Convey fashion intelligence — the character chose this with intent. Identify ONE arena-excess element that breaks the sophistication. Outfits must be CONSTRUCTED (tailored, stitched, buckled, strapped) not ETHEREAL (flowing, wispy, translucent, magical). Hardware and leather over silk and chiffon.
+
+**SECTION 5 — COMPOSITION (2-3 sentences)** Define one negative space region using anatomical landmarks: "the entire left hip-to-thigh region has NO detail." Define one unbroken arc/curve by start and end points. State the asymmetry relationship: which side is dense, which side breathes.
+
+**SECTION 6 — COLOR (3-4 sentences)** Lock exactly 3-4 base hues by name. Colors are HIGH SATURATION and CANDY-BRIGHT — every hue at full chroma, nothing pastel, nothing washed out, nothing soft. Shading is HARD-EDGED CEL-SHADING with hue-shifted shadows (give examples: "plum shadows shift toward burgundy, not toward grey"). Two-tone or three-tone maximum per surface with CLEAN SHARP edges between tones. Surfaces have material definition (matte fabric vs. glossy leather vs. brushed metal) but NO bloom, NO glow effects, NO sparkle, NO particle effects. Black = linework only.
+
+**SECTION 7 — POSE + LIGHTING (1-2 sentences)** Pose as a moment of fighting energy — weight shifted, fists ready, weapon gripped, stance aggressive. NOT graceful, NOT balletic, NOT serene. Flat neutral background. Hard directional lighting, clean and graphic, no atmospheric effects.
+
+**SECTION 8 — AVOID LIST** Always include: photorealism, soft rendering, painterly blending, soft gradients, Western comic book style, pop art, flat posterized coloring, thick uniform outlines, magical girl aesthetic, transformation sequence, gacha splash art, mobile game art, RPG character art, sparkles, bloom effects, glow effects, particle effects, energy auras, flowing ethereal ribbons, translucent fabric, concept art layout, character turnaround, T-pose, default anime proportions, generic anime face, same-face syndrome, pastel colors, washed-out colors, desaturated shadows, dark backgrounds, noir lighting, gloomy atmosphere, earth tones, grey tones, atmospheric fog, volumetric lighting, cinematic color grading, multiple characters, text, logos, watermarks. Add character-specific bans for elements that would compete with the dominant element.
+
+## HARD RULES
+
+- Total prompt length: 200-350 words. No longer.
+- Never use: "concept art," "character sheet," "anime style," "athletic," "muscular," "toned," "magical," "ethereal," "graceful," "luminous," "glow," "radiant," "flowing"
+- The dominant element must be a PHYSICAL OBJECT — not light, not energy, not aura
+- Every garment must include material + behavior, not just a name
+- Outfits are CONSTRUCTED (leather, buckles, tailoring, hardware) not ETHEREAL (silk, ribbons, transparency)
+- Shadows are hue shifts with hard cel-shaded edges, never soft gradients
+- NO bloom, NO glow, NO sparkle, NO particle effects anywhere in the image
+- At least one region of the character must be explicitly empty of detail
+- The character must read as a FIGHTER, not a mage, not a princess, not an idol
