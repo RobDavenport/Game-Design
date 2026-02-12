@@ -11,10 +11,14 @@
             "id": "f6d2695af902821c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Code Snippets/House Style Design.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "House Style Design"
             }
           }
         ]
@@ -161,8 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0c72d8082ed19ae",
+  "active": "f6d2695af902821c",
   "lastOpenFiles": [
+    "Code Snippets/House Style Design.md",
     "CCG/Universe & Lore.md",
     "Projects/Games/Arcane Glassforge.md",
     "CCG/Waves/Wave 1 Design.md",
@@ -192,7 +197,6 @@
     "Projects/Games/Concept/Fantasy RTS (RTT) Dungeon Game.md",
     "Projects/Games/Pre Production/Dice Based Roguelike.md",
     "Projects/Games/Concept/Roguelike Fantasy Breakout.md",
-    "Projects/Games/Concept/Right Hook.md",
     "Projects/Untitled",
     "Projects/Games",
     "Code Snippets",
