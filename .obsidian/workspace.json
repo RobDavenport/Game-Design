@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "House Style Design (Original)"
             }
+          },
+          {
+            "id": "f9c79fb68eb10374",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6d2695af902821c",
+  "active": "f9c79fb68eb10374",
   "lastOpenFiles": [
     "Code Snippets/House Style Design (Original).md",
     "CCG/Universe & Lore.md",
