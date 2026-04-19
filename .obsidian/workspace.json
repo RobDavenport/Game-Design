@@ -37,12 +37,14 @@
             "id": "f75132c8bfd4b94b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "CCG/Core Rules.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "Core Rules"
             }
           }
         ],
@@ -192,13 +194,13 @@
   },
   "active": "f75132c8bfd4b94b",
   "lastOpenFiles": [
-    "Code Snippets/House Style Design (Original).md",
     "CCG/Universe & Lore.md",
+    "CCG/Product Line.md",
+    "CCG/Core Rules.md",
+    "Code Snippets/House Style Design (Original).md",
     "Projects/Games/Arcane Glassforge.md",
     "CCG/Waves/Wave 1 Design.md",
-    "CCG/Product Line.md",
     "CCG/Waves/Wave 1/Decklists.md",
-    "CCG/Core Rules.md",
     "CCG/Waves/Wave 1",
     "CCG/Decklists/Wave 1/Radiance 1.md",
     "CCG/Decklists/Wave 1/Biom 1.md",
